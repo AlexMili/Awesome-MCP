@@ -43,5 +43,5 @@ All current MCP servers are not in one language. Here is a list from official re
 # SDKs
 - [Python](https://github.com/modelcontextprotocol/python-sdk) - Official
 - [Typescript](https://github.com/modelcontextprotocol/typescript-sdk) - Official
-- [Rust](https://github.com/jeanlucthumm/modelcontextprotocol-rust-sdk) - Community / ! \ Under development
-- [Go](https://github.com/mark3labs/mcp-go) - Community / ! \ Under development
+- [Rust](https://github.com/jeanlucthumm/modelcontextprotocol-rust-sdk) - Community - **:warning: Under development**
+- [Go](https://github.com/mark3labs/mcp-go) - Community - **:warning: Under development**
