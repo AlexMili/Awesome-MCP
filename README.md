@@ -41,9 +41,10 @@ All current MCP servers are not in one language. Here is a list from official re
 - [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Community - Query OpenAI models directly from Claude
 - [Phabricator](https://github.com/baba786/phabricator-mcp-server) - Community - Interact with Phabricator API
 - [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Community - Interact with Obsidian
+- [Filesystem](https://github.com/philgei/mcp_server_filesystem) - Community - File operations with configurable access controls
 
 ## Go
-- [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - Community - Filesystem operations
+- [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - Community - File operations with configurable access controls
 
 # SDKs
 - [Python](https://github.com/modelcontextprotocol/python-sdk) - Official
@@ -52,4 +53,5 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Go](https://github.com/mark3labs/mcp-go) - Community - **:warning: Under development**
 
 # Tools
-- [Langchain](https://github.com/rectalogic/langchain-mcp) - Community - Support for LangChain 
+- [Server inspector](https://github.com/modelcontextprotocol/inspector) - Official - Visual testing tool for MCP servers
+- [Langchain](https://github.com/rectalogic/langchain-mcp) - Community - Support for LangChain
