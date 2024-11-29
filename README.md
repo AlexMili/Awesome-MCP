@@ -6,6 +6,7 @@ A curated list of Model Context Protocol (MCP) resources.
 - [Servers](#servers)
   - [Javascript](#javascript)
   - [Python](#python)
+  - [Go](#go)
 - [SDKs](#sdks)
 
 
@@ -39,6 +40,9 @@ All current MCP servers are not in one language. Here is a list from official re
 - [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Community - Query OpenAI models directly from Claude
 - [Phabricator](https://github.com/baba786/phabricator-mcp-server) - Community - Interact with Phabricator API
 - [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Community - Interact with Obsidian
+
+## Go
+- [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - Community - Filesystem operations
 
 # SDKs
 - [Python](https://github.com/modelcontextprotocol/python-sdk) - Official
