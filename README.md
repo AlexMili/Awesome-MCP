@@ -8,6 +8,7 @@ A curated list of Model Context Protocol (MCP) resources.
   - [Python](#python)
   - [Go](#go)
 - [SDKs](#sdks)
+- [Tools](#tools)
 
 
 # Servers
@@ -49,3 +50,6 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Typescript](https://github.com/modelcontextprotocol/typescript-sdk) - Official
 - [Rust](https://github.com/jeanlucthumm/modelcontextprotocol-rust-sdk) - Community - **:warning: Under development**
 - [Go](https://github.com/mark3labs/mcp-go) - Community - **:warning: Under development**
+
+# Tools
+- [Langchain](https://github.com/rectalogic/langchain-mcp) - Community - Support for LangChain 
