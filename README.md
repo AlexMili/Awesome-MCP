@@ -30,6 +30,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Community - Interact with your crash reporting and real using monitoring data on your Raygun account
 - [Kagi](https://github.com/ac3xx/mcp-servers-kagi) - Community - A Model Context Protocol server implementation for Kagi's API
 - [Exa.ai](https://github.com/theishangoswami/exa-mcp-server) - Community - Use the Exa AI Search API for web searches
+- [Youtube](https://github.com/anaisbetts/mcp-youtube) - Community - Uses `yt-dlp` to download subtitles from YouTube
 
 ## Python
 - [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) - Official - Tools to read, search, and manipulate Git repositories
@@ -55,3 +56,5 @@ All current MCP servers are not in one language. Here is a list from official re
 # Tools
 - [Server inspector](https://github.com/modelcontextprotocol/inspector) - Official - Visual testing tool for MCP servers
 - [Langchain](https://github.com/rectalogic/langchain-mcp) - Community - Support for LangChain
+- [MCP Installer](https://github.com/anaisbetts/mcp-installer) - Community - A server that installs other MCP servers for you
+- [MCP get](https://github.com/michaellatman/mcp-get) - Community - A command-line tool for installing and managing Model Context Protocol (MCP) servers
