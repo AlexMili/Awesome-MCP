@@ -69,9 +69,10 @@ All current MCP servers are not in one language. Here is a list from official re
 ## Tools
 
 ### Official
-- [Server inspector](https://github.com/modelcontextprotocol/inspector) Visual testing tool for MCP servers.
+- [Server inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers.
 
 ### Community
-- [Langchain](https://github.com/rectalogic/langchain-mcp) Support for LangChain.
-- [MCP Installer](https://github.com/anaisbetts/mcp-installer) A server that installs other MCP servers for you.
-- [MCP get](https://github.com/michaellatman/mcp-get) A command-line tool for installing and managing Model Context Protocol (MCP) servers.
+- [Langchain](https://github.com/rectalogic/langchain-mcp) - Support for LangChain.
+- [MCP Installer](https://github.com/anaisbetts/mcp-installer) - A server that installs other MCP servers for you.
+- [MCP get](https://github.com/michaellatman/mcp-get) - A command-line tool for installing and managing Model Context Protocol (MCP) servers.
+- [Fast MCP](https://github.com/jlowin/fastmcp) - Create tools, expose resources, and define prompts with clean, Pythonic code.
