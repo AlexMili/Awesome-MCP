@@ -2,7 +2,7 @@
 
 > A curated list of [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) resources.
 
-The Model Context Protocol (MCP) is an open protocol published by [Anthropic](https://www.anthropic.com/) in November 2024. It enables seamless integration between LLM applications and external data sources and tools.
+The Model Context Protocol (MCP) is an open protocol published by [Anthropic](https://www.anthropic.com/) in November 2024. It enables seamless integration between LLM applications and external data sources and tools. This repo is not just about MCP Servers but the whole ecosystem arround the protocol itself.
 
 
 ## Contents
