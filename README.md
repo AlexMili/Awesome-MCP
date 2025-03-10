@@ -77,3 +77,4 @@ All current MCP servers are not in one language. Here is a list from official re
 - [MCP Installer](https://github.com/anaisbetts/mcp-installer) - A server that installs other MCP servers for you.
 - [MCP get](https://github.com/michaellatman/mcp-get) - A command-line tool for installing and managing Model Context Protocol (MCP) servers.
 - [Fast MCP](https://github.com/jlowin/fastmcp) - Create tools, expose resources, and define prompts with clean, Pythonic code.
+- [ZenML](https://github.com/zenml-io/mcp-zenml) - Chat with your MLOps and LLMOps pipelines usind the official [ZenML](https://www.zenml.io) MCP server.
