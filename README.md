@@ -37,6 +37,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Exa.ai](https://github.com/theishangoswami/exa-mcp-server) - Use the Exa AI Search API for web searches.
 - [Youtube](https://github.com/anaisbetts/mcp-youtube) - Uses `yt-dlp` to download subtitles from YouTube.
 - [AppleScript](https://github.com/joshrutkowski/applescript-mcp) - Implements interaction with macOS via AppleScript.
+- [Make](https://github.com/integromat/make-mcp-server) - Turn Make scenarios into callable tools for AI assistants.
 
 ### Python
 
