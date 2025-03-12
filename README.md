@@ -38,6 +38,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Youtube](https://github.com/anaisbetts/mcp-youtube) - Uses `yt-dlp` to download subtitles from YouTube.
 - [AppleScript](https://github.com/joshrutkowski/applescript-mcp) - Implements interaction with macOS via AppleScript.
 - [Make](https://github.com/integromat/make-mcp-server) - Turn Make scenarios into callable tools for AI assistants.
+- [VSCode Devtools (Bifrost)](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode IDE and use semantic tools like `find_usages`.
 
 ### Python
 
