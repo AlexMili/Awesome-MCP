@@ -54,6 +54,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Phabricator](https://github.com/baba786/phabricator-mcp-server) - Interact with Phabricator API.
 - [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Interact with Obsidian.
 - [Filesystem](https://github.com/philgei/mcp_server_filesystem) - File operations with configurable access controls.
+- [ZenML](https://github.com/zenml-io/mcp-zenml) - Chat with your MLOps and LLMOps pipelines using the official ZenML MCP server.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
@@ -77,5 +78,4 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Langchain](https://github.com/rectalogic/langchain-mcp) - Support for LangChain.
 - [MCP Installer](https://github.com/anaisbetts/mcp-installer) - A server that installs other MCP servers for you.
 - [MCP get](https://github.com/michaellatman/mcp-get) - A command-line tool for installing and managing Model Context Protocol (MCP) servers.
-- [Fast MCP](https://github.com/jlowin/fastmcp) - Create tools, expose resources, and define prompts with clean, Pythonic code.
-- [ZenML](https://github.com/zenml-io/mcp-zenml) - Chat with your MLOps and LLMOps pipelines usind the official [ZenML](https://www.zenml.io) MCP server.
+- [Fast MCP](https://github.com/jlowin/fastmcp) - Create tools, expose resources, and define prompts with clean Pythonic code.
