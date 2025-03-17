@@ -57,6 +57,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Interact with Obsidian.
 - [Filesystem](https://github.com/philgei/mcp_server_filesystem) - File operations with configurable access controls.
 - [ZenML](https://github.com/zenml-io/mcp-zenml) - Chat with your MLOps and LLMOps pipelines using the official ZenML MCP server.
+- [Blender](https://github.com/ahujasid/blender-mcp) - Interact with and control Blender using prompt assisted 3D modeling, scene creation, and manipulation.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
