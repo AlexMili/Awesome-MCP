@@ -63,6 +63,11 @@ All current MCP servers are not in one language. Here is a list from official re
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
 
+## Clients
+
+### Community
+- [n8n](https://github.com/nerding-io/n8n-nodes-mcp) - interact with Model Context Protocol (MCP) servers in your n8n workflows.
+
 ## SDKs
 
 ### Offcial
