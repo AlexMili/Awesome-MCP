@@ -90,3 +90,4 @@ All current MCP servers are not in one language. Here is a list from official re
 - [MCP get](https://github.com/michaellatman/mcp-get) - A command-line tool for installing and managing Model Context Protocol (MCP) servers.
 - [Fast MCP](https://github.com/jlowin/fastmcp) - Create tools, expose resources, and define prompts with clean Pythonic code.
 - [Fleur MCP](https://github.com/fleuristes/fleur) - A desktop app marketplace for Claude Desktop.
+- [MCP Agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents with Model Context Protocol using simple, composable patterns.
