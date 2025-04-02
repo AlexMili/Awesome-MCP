@@ -41,6 +41,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Make](https://github.com/integromat/make-mcp-server) - Turn Make scenarios into callable tools for AI assistants.
 - [VSCode Devtools (Bifrost)](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode IDE and use semantic tools like `find_usages`.
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using Playwright.
+- [Node.js](https://github.com/hyperdrive-eng/mcp-nodejs-debugger) - Gives Cursor or Claude Code access to Node.js at runtime to help you debug.
 
 ### Python
 
