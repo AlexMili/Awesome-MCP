@@ -91,3 +91,4 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Fast MCP](https://github.com/jlowin/fastmcp) - Create tools, expose resources, and define prompts with clean Pythonic code.
 - [Fleur MCP](https://github.com/fleuristes/fleur) - A desktop app marketplace for Claude Desktop.
 - [MCP Agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents with Model Context Protocol using simple, composable patterns.
+- [ToolRegistry](https://github.com/Oaklight/ToolRegistry) - A PyPI package that simplifies tool integration by streamlining OpenAI client tool calls and managing native Python functions and MCP servers, offering both async and sync interfaces.
