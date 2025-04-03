@@ -61,6 +61,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [ZenML](https://github.com/zenml-io/mcp-zenml) - Chat with your MLOps and LLMOps pipelines using the official ZenML MCP server.
 - [Blender](https://github.com/ahujasid/blender-mcp) - Interact with and control Blender using prompt assisted 3D modeling, scene creation, and manipulation.
 - [WhatsApp](https://github.com/lharries/whatsapp-mcp) - Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups.
+- [AWS](https://github.com/awslabs/mcp) - A suite of specialized MCP servers that bring AWS best practices directly to your development workflow.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
