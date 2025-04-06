@@ -65,6 +65,7 @@ All current MCP servers are not in one language. Here is a list from official re
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
+- [Official Github](https://github.com/github/github-mcp-server) - Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
 
 ## Clients
 
