@@ -62,6 +62,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Blender](https://github.com/ahujasid/blender-mcp) - Interact with and control Blender using prompt assisted 3D modeling, scene creation, and manipulation.
 - [WhatsApp](https://github.com/lharries/whatsapp-mcp) - Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups.
 - [AWS](https://github.com/awslabs/mcp) - A suite of specialized MCP servers that bring AWS best practices directly to your development workflow.
+- [MarkItDown](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) - Lightweight STDIO and SSE MCP server for calling MarkItDown.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
