@@ -10,6 +10,7 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 - [Servers](#servers)
 - [SDKs](#sdks)
 - [Tools](#tools)
+- [Security](#security)
 
 
 ## Servers
@@ -99,3 +100,22 @@ All current MCP servers are not in one language. Here is a list from official re
 - [ToolRegistry](https://github.com/Oaklight/ToolRegistry) - A PyPI package that simplifies tool integration by streamlining OpenAI client tool calls and managing native Python functions and MCP servers, offering both async and sync interfaces.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.
 - [Dify plugin](https://github.com/hjlarry/dify-plugin-mcp_server) - Change a Dify app to a mcp server.
+
+## Security
+
+Security is crucial when deploying MCP servers, especially in production environments where they may handle sensitive data or provide access to critical systems.
+
+### Official Resources
+- [Security Best Practices](https://modelcontextprotocol.io/specification/2025-06-18/basic/security_best_practices#security-best-practices) - Official security guidelines from the MCP specification.
+
+### Articles & Talks
+- [Agentic Access: OAuth Isn't Enough | Zero Trust for AI Agents w/ Nick Taylor (Pomerium + MCP)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) - Talk from the MCP Dev Summit Online meetup about Zero Trust security for AI agents.
+- [The Model Context Protocol Security Reality Check](https://thenewstack.io/the-model-context-protocol-security-reality-check) - Analysis of security considerations for MCP deployments.
+
+### Tools & Implementations
+- [Pomerium](https://github.com/pomerium/pomerium) - Identity-aware proxy with native support for Zero Trust access, now including MCP support.
+  - [MCP App Demo](https://github.com/pomerium/mcp-app-demo) - Example implementation demonstrating secure MCP server deployment with Pomerium.
+  - [Pomerium MCP Servers](https://github.com/pomerium/mcp-servers) - Collection of MCP servers with Zero Trust security implementations.
+
+### Community Discussions
+- [Introducing support for remote MCP servers](https://community.openai.com/t/introducing-support-for-remote-mcp-servers-image-generation-code-interpreter-and-more-in-the-responses-api/1266973/34) - Community discussion on remote MCP server security considerations.
