@@ -8,6 +8,7 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 ## Contents
 
 - [Servers](#servers)
+- [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
 
