@@ -101,4 +101,5 @@ All current MCP servers are not in one language. Here is a list from official re
 - [MCP Agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents with Model Context Protocol using simple, composable patterns.
 - [ToolRegistry](https://github.com/Oaklight/ToolRegistry) - A PyPI package that simplifies tool integration by streamlining OpenAI client tool calls and managing native Python functions and MCP servers, offering both async and sync interfaces.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.
+- [Roundtable](https://github.com/askbudi/roundtable) - Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.
 - [Dify plugin](https://github.com/hjlarry/dify-plugin-mcp_server) - Change a Dify app to a mcp server.
