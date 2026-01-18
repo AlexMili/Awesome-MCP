@@ -81,6 +81,7 @@ All current MCP servers are not in one language. Here is a list from official re
 ## SDKs
 
 ### Offcial
+- [VAP-MCP](https://github.com/elestirelbilinc-sketch/vap-showcase) - Execution control layer for AI media generation (image, video, music) with cost guarantees.
 - [Python](https://github.com/modelcontextprotocol/python-sdk) - Official Python SDK.
 - [Typescript](https://github.com/modelcontextprotocol/typescript-sdk) - Official Typescript SDK.
 
@@ -89,11 +90,13 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Go](https://github.com/mark3labs/mcp-go) - Community-driven Go adaptation of offcials SDK. **:warning: Under development**.
 
 ## Tools
+- [VAP-MCP](https://github.com/elestirelbilinc-sketch/vap-showcase) - Execution control layer for AI media generation (image, video, music) with cost guarantees.
 
 ### Official
 - [Server inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers.
 
 ### Community
+- [VAP-MCP](https://github.com/elestirelbilinc-sketch/vap-showcase) - Execution control layer for AI media generation (image, video, music) with cost guarantees.
 - [Langchain](https://github.com/rectalogic/langchain-mcp) - Support for LangChain.
 - [MCP Installer](https://github.com/anaisbetts/mcp-installer) - A server that installs other MCP servers for you.
 - [MCP get](https://github.com/michaellatman/mcp-get) - A command-line tool for installing and managing Model Context Protocol (MCP) servers.
