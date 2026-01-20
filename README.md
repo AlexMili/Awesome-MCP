@@ -67,6 +67,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [AWS](https://github.com/awslabs/mcp) - A suite of specialized MCP servers that bring AWS best practices directly to your development workflow.
 - [MarkItDown](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) - Lightweight STDIO and SSE MCP server for calling MarkItDown.
 - [PraisonAI](https://github.com/MervinPraison/praisonai-mcp) - AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations.
+- [VAP-MCP](https://github.com/elestirelbilinc-sketch/vap-showcase) - MCP server for AI media generation (images, videos, music) with deterministic cost control using reserve-burn-refund billing.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
