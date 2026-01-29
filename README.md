@@ -83,13 +83,38 @@ All current MCP servers are not in one language. Here is a list from official re
 
 ## SDKs
 
-### Offcial
-- [Python](https://github.com/modelcontextprotocol/python-sdk) - Official Python SDK.
-- [Typescript](https://github.com/modelcontextprotocol/typescript-sdk) - Official Typescript SDK.
+### Official
+
+Core SDKs maintained by the MCP organization:
+
+- [Python](https://github.com/modelcontextprotocol/python-sdk) - Reference implementation, most widely used.
+- [TypeScript](https://github.com/modelcontextprotocol/typescript-sdk) - Reference implementation for Node.js/browser.
+- [Rust (rmcp)](https://github.com/modelcontextprotocol/rust-sdk) - Official Rust SDK with proc macros.
+- [Go](https://github.com/modelcontextprotocol/go-sdk) - Official Go SDK, maintained with Google.
+- [Kotlin](https://github.com/modelcontextprotocol/kotlin-sdk) - Multiplatform (JVM, Wasm, iOS).
+- [C#](https://github.com/modelcontextprotocol/csharp-sdk) - ASP.NET Core, Azure Functions integration.
+- [Java](https://github.com/modelcontextprotocol/java-sdk) - Spring Boot integration.
 
 ### Community
-- [Rust](https://github.com/jeanlucthumm/modelcontextprotocol-rust-sdk) - Community-driven Rust adaptation of offcials SDK. **:warning: Under development**.
-- [Go](https://github.com/mark3labs/mcp-go) - Community-driven Go adaptation of offcials SDK. **:warning: Under development**.
+
+#### Rust
+
+| Crate | Description |
+|-------|-------------|
+| [tower-mcp](https://github.com/joshrotenberg/tower-mcp) | Tower-native implementation with middleware composition via `.layer()`. |
+| [rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk) | Async SDK with proc macros, hyper-based HTTP transport. |
+| [pmcp](https://github.com/paiml/rust-mcp-sdk) | SIMD-optimized JSON-RPC parsing, performance-focused. |
+
+#### Go
+
+| Package | Description |
+|---------|-------------|
+| [mcp-go](https://github.com/mark3labs/mcp-go) | Community SDK that inspired the official implementation. |
+| [go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) | Idiomatic Go API with strong typing. |
+
+#### Other Languages
+
+- [Fast MCP](https://github.com/jlowin/fastmcp) - High-level Python framework (~70% of Python MCP servers).
 
 ## Tools
 
