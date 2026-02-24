@@ -45,6 +45,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Node.js](https://github.com/hyperdrive-eng/mcp-nodejs-debugger) - Gives Cursor or Claude Code access to Node.js at runtime to help you debug.
 - [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - Provides Xcode-related tools for integration with AI assistants and other MCP clients.
 - [domain-mcp](https://github.com/joachimBrindeau/domain-mcp) - MCP server to search, register, and manage domains (availability, DNS, WHOIS) via Dynadot API.
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data from full-text studies. Remote MCP server with free tier.
 
 ### Python
 
