@@ -73,6 +73,7 @@ All current MCP servers are not in one language. Here is a list from official re
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
+- [LightCMS](https://github.com/jonradoff/lightcms) - AI-native CMS with 41 MCP tools for managing websites through natural language. Create pages, templates, assets, themes, collections, redirects, and more with full content versioning.
 - [Official Github](https://github.com/github/github-mcp-server) - Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
 
 ## Clients
