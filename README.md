@@ -33,6 +33,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [AWS Knowledge Base Retrieval](https://github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server) - Retrieve information from the AWS Knowledge Base using the Bedrock Agent Runtime.
 
 #### Community
+- [SkillBoss](https://github.com/heeyo-life/skillboss-mcp) - One API key for 100+ AI services: Claude, GPT, Gemini, DeepSeek, image/video generation, data scraping, payments, email, and more. OpenAI-compatible.
 - [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1).
 - [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Interact with your crash reporting and real using monitoring data on your Raygun account.
 - [Kagi](https://github.com/ac3xx/mcp-servers-kagi) - A Model Context Protocol server implementation for Kagi's API.
