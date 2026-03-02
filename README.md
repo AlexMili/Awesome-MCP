@@ -111,3 +111,4 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Roundtable](https://github.com/askbudi/roundtable) - Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.
 - [Dify plugin](https://github.com/hjlarry/dify-plugin-mcp_server) - Change a Dify app to a mcp server.
 - [mcpbr](https://github.com/greynewell/mcpbr) - Benchmark runner for evaluating MCP server performance and agentic capabilities.
+- [mcp-harness](https://github.com/gabry-ts/mcp-harness) - In-memory test harness for MCP servers in TypeScript — supertest for MCP.
