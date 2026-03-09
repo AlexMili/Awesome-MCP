@@ -74,6 +74,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [VAP-MCP](https://github.com/elestirelbilinc-sketch/vap-showcase) - MCP server for AI media generation (images, videos, music) with deterministic cost control using reserve-burn-refund billing.
 - [Coupang MCP](https://github.com/uju777/coupang-mcp) - Korean e-commerce (Coupang) product search with Rocket Delivery filtering.
 - [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) - Naver Shopping, Cafe, News search for Korean users.
+- [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) - MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
