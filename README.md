@@ -42,6 +42,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Make](https://github.com/integromat/make-mcp-server) - Turn Make scenarios into callable tools for AI assistants.
 - [VSCode Devtools (Bifrost)](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode IDE and use semantic tools like `find_usages`.
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using Playwright.
+- [Roundtable](https://github.com/sinaneshat/roundtable-dashboard) - Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs. Remote MCP server at `https://mcp.roundtable.now/mcp`.
 - [Node.js](https://github.com/hyperdrive-eng/mcp-nodejs-debugger) - Gives Cursor or Claude Code access to Node.js at runtime to help you debug.
 - [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - Provides Xcode-related tools for integration with AI assistants and other MCP clients.
 - [domain-mcp](https://github.com/joachimBrindeau/domain-mcp) - MCP server to search, register, and manage domains (availability, DNS, WHOIS) via Dynadot API.
