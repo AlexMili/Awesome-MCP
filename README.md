@@ -24,7 +24,8 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Github](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - Repository management, file operations, and GitHub API integration.
 - [Gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) - GitLab API, enabling project management.
 - [Google Drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - File access and search capabilities for Google Drive.
-- [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - Read-only database access with schema inspection.
+- [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - Read-only database access- [Panopticum](https://github.com/theSharque/panopticum) - Dev/QA tool for DB operations (MongoDB, Redis, ClickHouse, PostgreSQL) in Kubernetes with MCP interface.
+ with schema inspection.
 - [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Channel management and messaging capabilities.
 - [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - Knowledge graph-based persistent memory system.
 - [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation and web scraping.
