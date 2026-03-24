@@ -8,6 +8,7 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 ## Contents
 
 - [Servers](#servers)
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
