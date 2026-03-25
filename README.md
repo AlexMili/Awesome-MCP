@@ -134,3 +134,4 @@ Core SDKs maintained by the MCP organization:
 - [Dify plugin](https://github.com/hjlarry/dify-plugin-mcp_server) - Change a Dify app to a mcp server.
 - [mcpbr](https://github.com/greynewell/mcpbr) - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 - [mcp-harness](https://github.com/gabry-ts/mcp-harness) - In-memory test harness for MCP servers in TypeScript — supertest for MCP.
+- [WildRun MCP Validator](https://wildrunai.com/tools/mcp-validator) - Validates MCP tool definitions for quality and spec compliance. Scores 0-100 with A-F grades. Available as web UI, remote MCP server, and GitHub Action.
