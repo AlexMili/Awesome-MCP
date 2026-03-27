@@ -50,6 +50,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Agentic Ads](https://github.com/nicofains1/agentic-ads) - Affiliate marketing MCP server for contextual product recommendations with USDC commission payouts.
 - [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [preflight](https://github.com/preflight-dev/preflight) - 24-tool MCP server for Claude Code that scores prompts before execution, catches ambiguity, tracks correction patterns, and estimates token cost — reduces wasted tokens from vague prompts.
+- [SettleGrid](https://github.com/lexwhiting/settlegrid) - Per-call billing SDK for MCP servers. Wraps any handler with usage metering, API key validation, and Stripe payouts in 2 lines of code. Free tier: 25K ops/month, 95% revenue share.
 
 ### Python
 
