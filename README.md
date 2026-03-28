@@ -35,6 +35,7 @@ All current MCP servers are not in one language. Here is a list from official re
 #### Community
 - [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1).
 - [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Interact with your crash reporting and real using monitoring data on your Raygun account.
+- [ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server) - Real-time product pricing, price history, and shopping tools across thousands of retailers. Free tier, no signup required.
 - [Kagi](https://github.com/ac3xx/mcp-servers-kagi) - A Model Context Protocol server implementation for Kagi's API.
 - [Exa.ai](https://github.com/theishangoswami/exa-mcp-server) - Use the Exa AI Search API for web searches.
 - [Youtube](https://github.com/anaisbetts/mcp-youtube) - Uses `yt-dlp` to download subtitles from YouTube.
