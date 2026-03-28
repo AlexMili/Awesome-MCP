@@ -50,6 +50,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Agentic Ads](https://github.com/nicofains1/agentic-ads) - Affiliate marketing MCP server for contextual product recommendations with USDC commission payouts.
 - [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [preflight](https://github.com/preflight-dev/preflight) - 24-tool MCP server for Claude Code that scores prompts before execution, catches ambiguity, tracks correction patterns, and estimates token cost — reduces wasted tokens from vague prompts.
+- [Solblade](https://github.com/shillshady/solblade) - AI-native Solana wallet CLI with scoped MCP server for managing wallets with per-wallet permissions, spend limits, and audit logging.
 
 ### Python
 
