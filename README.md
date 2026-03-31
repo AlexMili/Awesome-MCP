@@ -77,6 +77,11 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) - Naver Shopping, Cafe, News search for Korean users.
 - [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) - MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing.
 
+### C#
+
+#### Community
+- [Unity MCP](https://github.com/GameBooom/unity-mcp) - Unity Editor MCP server with execute_code, play mode automation, screenshots, input simulation, prompts, and resources.
+
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
 - [Official Github](https://github.com/github/github-mcp-server) - Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
