@@ -82,6 +82,9 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Official Github](https://github.com/github/github-mcp-server) - Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
 - [Hoofy](https://github.com/HendryAvila/Hoofy) - Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline, and greenfield project pipeline with Clarity Gate. 32 MCP tools, single binary, zero dependencies.
 
+### Rust
+- [Database MCP](https://github.com/haymon-ai/database) - Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite. Built in Rust with zero runtime dependencies.
+
 ## Clients
 
 ### Community
