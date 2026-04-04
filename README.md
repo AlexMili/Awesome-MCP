@@ -51,6 +51,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [preflight](https://github.com/preflight-dev/preflight) - 24-tool MCP server for Claude Code that scores prompts before execution, catches ambiguity, tracks correction patterns, and estimates token cost — reduces wasted tokens from vague prompts.
 
+- [Useful AI](https://github.com/useful-ai/useful-ai-mcp) - Dynamic MCP server exposing 340+ autonomously-built utility tools (unit conversion, text processing, data parsing, encoding, math, and more). No authentication required. New tools added autonomously.
 ### Python
 
 #### Official
