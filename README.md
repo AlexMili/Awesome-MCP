@@ -50,6 +50,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Agentic Ads](https://github.com/nicofains1/agentic-ads) - Affiliate marketing MCP server for contextual product recommendations with USDC commission payouts.
 - [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [preflight](https://github.com/preflight-dev/preflight) - 24-tool MCP server for Claude Code that scores prompts before execution, catches ambiguity, tracks correction patterns, and estimates token cost — reduces wasted tokens from vague prompts.
+- [ToolPipe](https://github.com/COSAI-Labs/toolpipe-mcp-server) - 120+ developer utility tools via MCP: code review, fake data, JSON/CSV/XML processing, QR codes, hashing, DNS lookup, SSL checking, WHOIS, Docker Compose generation, GitHub Actions workflows, and more. Remote and local modes.
 
 ### Python
 
