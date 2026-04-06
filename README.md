@@ -117,6 +117,7 @@ Core SDKs maintained by the MCP organization:
 - [go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) - Idiomatic Go API with strong typing.
 
 ## Tools
+- [GenAI-DrawIO-Creator](https://github.com/tuoxie2046/GenAI-DrawIO-Creator) - AI-powered diagram generation from natural language. Supports AWS, GCP, Azure, and Kubernetes.
 
 ### Official
 - [Server inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers.
