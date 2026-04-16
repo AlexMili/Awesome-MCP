@@ -81,6 +81,8 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
 - [Official Github](https://github.com/github/github-mcp-server) - Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
 - [Hoofy](https://github.com/HendryAvila/Hoofy) - Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline, and greenfield project pipeline with Clarity Gate. 32 MCP tools, single binary, zero dependencies.
+- [Not Human Search](https://github.com/unitedideas/nothumansearch) - Search engine for AI agent tools and MCP servers. MCP endpoint at nothumansearch.ai/mcp with search, scoring, and live JSON-RPC verification across 1,750+ tools. Listed in the official MCP registry.
+- [AI Dev Jobs](https://github.com/unitedideas/ai-dev-jobs) - AI/ML job board MCP server at aidevboard.com/mcp with search_jobs, get_job, list_companies, and get_stats tools across 6,100+ positions. Listed in the official MCP registry.
 
 ## Clients
 
