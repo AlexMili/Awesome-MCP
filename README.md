@@ -134,3 +134,5 @@ Core SDKs maintained by the MCP organization:
 - [Dify plugin](https://github.com/hjlarry/dify-plugin-mcp_server) - Change a Dify app to a mcp server.
 - [mcpbr](https://github.com/greynewell/mcpbr) - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 - [mcp-harness](https://github.com/gabry-ts/mcp-harness) - In-memory test harness for MCP servers in TypeScript — supertest for MCP.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory, genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, and Cline with visual dashboard and one-click install.
