@@ -1,4 +1,5 @@
-# Awesome MCP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+- [Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) — AES-256-GCM + Argon2id encrypted local vault for AI agent credentials. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts, logs, or LLM context ☆`1`# Awesome MCP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) resources.
 
