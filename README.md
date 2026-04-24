@@ -134,3 +134,4 @@ Core SDKs maintained by the MCP organization:
 - [Dify plugin](https://github.com/hjlarry/dify-plugin-mcp_server) - Change a Dify app to a mcp server.
 - [mcpbr](https://github.com/greynewell/mcpbr) - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 - [mcp-harness](https://github.com/gabry-ts/mcp-harness) - In-memory test harness for MCP servers in TypeScript — supertest for MCP.
+- [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. MCP support. Free tier.
