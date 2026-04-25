@@ -73,6 +73,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [MarkItDown](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) - Lightweight STDIO and SSE MCP server for calling MarkItDown.
 - [PraisonAI](https://github.com/MervinPraison/praisonai-mcp) - AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations.
 - [VAP-MCP](https://github.com/elestirelbilinc-sketch/vap-showcase) - MCP server for AI media generation (images, videos, music) with deterministic cost control using reserve-burn-refund billing.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server and CLI that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing each request across 30+ image generation models. Zero API key for first run via free-tier providers.
 - [Coupang MCP](https://github.com/uju777/coupang-mcp) - Korean e-commerce (Coupang) product search with Rocket Delivery filtering.
 - [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) - Naver Shopping, Cafe, News search for Korean users.
 - [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) - MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing.
