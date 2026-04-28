@@ -82,6 +82,10 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Official Github](https://github.com/github/github-mcp-server) - Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
 - [Hoofy](https://github.com/HendryAvila/Hoofy) - Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline, and greenfield project pipeline with Clarity Gate. 32 MCP tools, single binary, zero dependencies.
 
+### Rust
+- [Muvon/octocode](https://github.com/Muvon/octocode) - Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, code signatures view. 13+ languages. Local-first, Apache 2.0.
+
+
 ## Clients
 
 ### Community
