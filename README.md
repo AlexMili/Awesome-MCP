@@ -81,6 +81,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
 - [Official Github](https://github.com/github/github-mcp-server) - Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
 - [Hoofy](https://github.com/HendryAvila/Hoofy) - Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline, and greenfield project pipeline with Clarity Gate. 32 MCP tools, single binary, zero dependencies.
+- [nylas/cli](https://github.com/nylas/cli) - Email, calendar, and contacts MCP server. 16 tools across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP via a single auth flow. Built-in MCP server, install with `nylas mcp install`. Docs at https://cli.nylas.com.
 
 ## Clients
 
