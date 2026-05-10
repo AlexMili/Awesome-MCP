@@ -76,6 +76,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Coupang MCP](https://github.com/uju777/coupang-mcp) - Korean e-commerce (Coupang) product search with Rocket Delivery filtering.
 - [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) - Naver Shopping, Cafe, News search for Korean users.
 - [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) - MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing.
+- [NotFair Google Ads MCP](https://github.com/nowork-studio/toprank) - Connect Claude and AI agents to a Google Ads account: diagnose campaign performance (CPA, ROAS, search-term waste, quality scores), recommend optimizations (bids, budgets, negatives, ad copy), and execute approved changes via the Google Ads API with a built-in human-approval gate. Hosted, streamable-HTTP at notfair.co/api/mcp/google_ads. Free tier.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
