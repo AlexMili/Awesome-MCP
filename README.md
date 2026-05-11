@@ -123,6 +123,7 @@ Core SDKs maintained by the MCP organization:
 
 ### Community
 - [Langchain](https://github.com/rectalogic/langchain-mcp) - Support for LangChain.
+- [MCP Orchestrator](https://github.com/curtismager20/magertron-mcpm) - Kubernetes-native MCP control plane. Deploy MCP servers as pods in your own cluster, govern access with policy, audit every action. One Helm chart, Apache 2.0, free up to 20 servers.
 - [MCP Installer](https://github.com/anaisbetts/mcp-installer) - A server that installs other MCP servers for you.
 - [MCP get](https://github.com/michaellatman/mcp-get) - A command-line tool for installing and managing Model Context Protocol (MCP) servers.
 - [Fast MCP](https://github.com/jlowin/fastmcp) - Create tools, expose resources, and define prompts with clean Pythonic code.
