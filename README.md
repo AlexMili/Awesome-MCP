@@ -82,6 +82,11 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Official Github](https://github.com/github/github-mcp-server) - Seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
 - [Hoofy](https://github.com/HendryAvila/Hoofy) - Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline, and greenfield project pipeline with Clarity Gate. 32 MCP tools, single binary, zero dependencies.
 
+### Rust
+
+#### Community
+- [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native agent memory server. 83 tools for persistent, decay-weighted episodic memory across agent sessions. RocksDB + HNSW vector search, 87.8% LoCoMo benchmark score. Multi-SDK support (Python/JS/Rust/Go), Docker Compose deployment.
+
 ## Clients
 
 ### Community
