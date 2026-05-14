@@ -76,6 +76,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Coupang MCP](https://github.com/uju777/coupang-mcp) - Korean e-commerce (Coupang) product search with Rocket Delivery filtering.
 - [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) - Naver Shopping, Cafe, News search for Korean users.
 - [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) - MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing.
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - MCP server that exposes a CLI-agent orchestrator. Tools to plan, run, approve, and inspect tasks executed by 40+ CLI coding agents (Claude Code, Codex, Gemini CLI). Streamable HTTP transport. Apache-2.0.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
