@@ -87,6 +87,7 @@ All current MCP servers are not in one language. Here is a list from official re
 ### Community
 - [n8n](https://github.com/nerding-io/n8n-nodes-mcp) - interact with Model Context Protocol (MCP) servers in your n8n workflows.
 - [eechat](https://github.com/Lucassssss/eechat) - An open-source, cross-platform desktop application that seamlessly connects with full support for MCP, across Linux, macOS, and Windows.
+- [MCP Dock](https://github.com/OldJii/mcp-dock) - Desktop MCP manager for 14 AI clients with 9,200+ servers and 3,100+ skills. One-click install, built-in inspector, config history and rollback.
 
 ## SDKs
 
