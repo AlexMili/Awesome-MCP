@@ -76,6 +76,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Coupang MCP](https://github.com/uju777/coupang-mcp) - Korean e-commerce (Coupang) product search with Rocket Delivery filtering.
 - [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) - Naver Shopping, Cafe, News search for Korean users.
 - [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) - MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing.
+- [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel) - Solana-native agent trust scoring via x402 micropayments. Free on-chain preflight checks + paid signed V5 trust receipts settled in <1s. Remote server at intel.twzrd.xyz/mcp (Streamable-HTTP, no install needed).
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
