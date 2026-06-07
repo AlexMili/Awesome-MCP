@@ -42,6 +42,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Make](https://github.com/integromat/make-mcp-server) - Turn Make scenarios into callable tools for AI assistants.
 - [VSCode Devtools (Bifrost)](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode IDE and use semantic tools like `find_usages`.
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using Playwright.
+- [agent-qa](https://github.com/vostride/agent-qa) - Local MCP server for authoring, running, and triaging natural-language web and mobile QA tests with execution memory.
 - [Node.js](https://github.com/hyperdrive-eng/mcp-nodejs-debugger) - Gives Cursor or Claude Code access to Node.js at runtime to help you debug.
 - [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - Provides Xcode-related tools for integration with AI assistants and other MCP clients.
 - [domain-mcp](https://github.com/joachimBrindeau/domain-mcp) - MCP server to search, register, and manage domains (availability, DNS, WHOIS) via Dynadot API.
