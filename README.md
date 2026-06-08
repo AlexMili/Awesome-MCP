@@ -80,7 +80,7 @@ All current MCP servers are not in one language. Here is a list from official re
 ### C#
 
 #### Community
-- [Unity MCP](https://github.com/GameBooom/unity-mcp) - Unity Editor MCP server with execute_code, play mode automation, screenshots, input simulation, prompts, and resources.
+- [Funplay MCP for Unity](https://github.com/FunplayAI/funplay-unity-mcp) - Unity Editor MCP server with execute_code, play mode automation, screenshots, input simulation, prompts, and resources.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
