@@ -50,6 +50,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Agentic Ads](https://github.com/nicofains1/agentic-ads) - Affiliate marketing MCP server for contextual product recommendations with USDC commission payouts.
 - [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [preflight](https://github.com/preflight-dev/preflight) - 24-tool MCP server for Claude Code that scores prompts before execution, catches ambiguity, tracks correction patterns, and estimates token cost — reduces wasted tokens from vague prompts.
+- [SheetsData](https://github.com/octoco-ltd/sheetsdata-mcp) - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
 
 ### Python
 
@@ -76,7 +77,6 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Coupang MCP](https://github.com/uju777/coupang-mcp) - Korean e-commerce (Coupang) product search with Rocket Delivery filtering.
 - [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) - Naver Shopping, Cafe, News search for Korean users.
 - [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) - MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing.
-- [SheetsData](https://github.com/octoco-ltd/sheetsdata-mcp) - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
