@@ -50,6 +50,16 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Agentic Ads](https://github.com/nicofains1/agentic-ads) - Affiliate marketing MCP server for contextual product recommendations with USDC commission payouts.
 - [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [preflight](https://github.com/preflight-dev/preflight) - 24-tool MCP server for Claude Code that scores prompts before execution, catches ambiguity, tracks correction patterns, and estimates token cost — reduces wasted tokens from vague prompts.
+- [podcast-commerce-mcp](https://github.com/teamsincetoday/podcast-commerce-mcp) - Extract affiliate-ready product mentions from podcast transcripts with brand recognition, confidence scoring, and commerce intelligence. Free tier (200 calls/day), remote on Cloudflare Workers.
+- [newsletter-commerce-mcp](https://github.com/teamsincetoday/newsletter-commerce-mcp) - Extract product recommendations and affiliate marketing opportunities from newsletter and email content. Free tier (200 calls/day), remote on Cloudflare Workers.
+- [recipe-commerce-mcp](https://github.com/teamsincetoday/recipe-commerce-mcp) - Extract ingredients, kitchen tools, and product recommendations from recipe content for affiliate marketing integration. Free tier (200 calls/day), remote on Cloudflare Workers.
+- [SheetsData](https://github.com/octoco-ltd/sheetsdata-mcp) - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
+- [Toolradar MCP](https://github.com/Nadeus/toolradar-mcp) - Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, G2/Capterra ratings, and real alternatives.
+- [WritBase](https://github.com/Writbase/writbase) - MCP-native task management for AI agent fleets with multi-agent permissions, delegation safety, and full provenance.
+- [Frihet](https://github.com/Frihet-io/frihet-mcp) - AI-native business management with 31 tools for invoicing, expenses, clients, products, quotes, and tax compliance (VeriFactu). Multi-currency, OCR, and Stripe Connect. Supports stdio and remote Streamable HTTP with OAuth 2.0.
+- [Cleo Skills MCP](https://github.com/Cleo-Labs-IA/skills_library) - Product-compliance MCP server exposing 45 production-grade compliance skills (cosmetics, food, electronics, toys, textiles, supplements, medical devices, customs, recalls, claims, sustainability) as MCP resources, prompts, and tools. `npx -y @cleo-labs/skills-mcp@latest`. MIT.
+- [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - Draft client proposals in your voice using your past winning proposals as style examples. Paste a brief, get a ready-to-send proposal. Includes analyze_brief, draft_proposal tools and 12 industry templates. Zero API key, fully local.
+
 
 ### Python
 
@@ -76,6 +86,12 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Coupang MCP](https://github.com/uju777/coupang-mcp) - Korean e-commerce (Coupang) product search with Rocket Delivery filtering.
 - [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) - Naver Shopping, Cafe, News search for Korean users.
 - [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) - MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing.
+- [Nucleus MCP](https://github.com/eidetic-works/nucleus-mcp) - 114 MCP tools for persistent memory, execution verification, governance, and compliance. Local-first.
+
+### C#
+
+#### Community
+- [Funplay MCP for Unity](https://github.com/FunplayAI/funplay-unity-mcp) - Unity Editor MCP server with execute_code, play mode automation, screenshots, input simulation, prompts, and resources.
 
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
@@ -134,4 +150,5 @@ Core SDKs maintained by the MCP organization:
 - [Dify plugin](https://github.com/hjlarry/dify-plugin-mcp_server) - Change a Dify app to a mcp server.
 - [mcpbr](https://github.com/greynewell/mcpbr) - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 - [mcp-harness](https://github.com/gabry-ts/mcp-harness) - In-memory test harness for MCP servers in TypeScript — supertest for MCP.
+- [MCP Trust Kit](https://github.com/aak204/MCP-Trust-Kit) - Deterministic CI scanner and surface-risk scoring for MCP servers.
 - [Agent Guard](https://github.com/Aveerayy/agent-guard) - MCP security scanner and runtime governance gateway for AI agents. Detects tool poisoning, prompt injection, typosquatting, hidden unicode, and schema abuse in MCP tool definitions. Also provides policy enforcement, rate limiting, and kill switch.
