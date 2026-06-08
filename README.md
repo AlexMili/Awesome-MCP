@@ -151,3 +151,4 @@ Core SDKs maintained by the MCP organization:
 - [mcpbr](https://github.com/greynewell/mcpbr) - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 - [mcp-harness](https://github.com/gabry-ts/mcp-harness) - In-memory test harness for MCP servers in TypeScript — supertest for MCP.
 - [MCP Trust Kit](https://github.com/aak204/MCP-Trust-Kit) - Deterministic CI scanner and surface-risk scoring for MCP servers.
+- [Agent Guard](https://github.com/Aveerayy/agent-guard) - MCP security scanner and runtime governance gateway for AI agents. Detects tool poisoning, prompt injection, typosquatting, hidden unicode, and schema abuse in MCP tool definitions. Also provides policy enforcement, rate limiting, and kill switch.
