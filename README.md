@@ -50,14 +50,13 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Agentic Ads](https://github.com/nicofains1/agentic-ads) - Affiliate marketing MCP server for contextual product recommendations with USDC commission payouts.
 - [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [preflight](https://github.com/preflight-dev/preflight) - 24-tool MCP server for Claude Code that scores prompts before execution, catches ambiguity, tracks correction patterns, and estimates token cost — reduces wasted tokens from vague prompts.
-<<<<<<< add-toolradar-mcp
+- [SheetsData](https://github.com/octoco-ltd/sheetsdata-mcp) - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
 - [Toolradar MCP](https://github.com/Nadeus/toolradar-mcp) - Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, G2/Capterra ratings, and real alternatives.
-=======
 - [WritBase](https://github.com/Writbase/writbase) - MCP-native task management for AI agent fleets with multi-agent permissions, delegation safety, and full provenance.
 - [Frihet](https://github.com/Frihet-io/frihet-mcp) - AI-native business management with 31 tools for invoicing, expenses, clients, products, quotes, and tax compliance (VeriFactu). Multi-currency, OCR, and Stripe Connect. Supports stdio and remote Streamable HTTP with OAuth 2.0.
 - [Cleo Skills MCP](https://github.com/Cleo-Labs-IA/skills_library) - Product-compliance MCP server exposing 45 production-grade compliance skills (cosmetics, food, electronics, toys, textiles, supplements, medical devices, customs, recalls, claims, sustainability) as MCP resources, prompts, and tools. `npx -y @cleo-labs/skills-mcp@latest`. MIT.
 - [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - Draft client proposals in your voice using your past winning proposals as style examples. Paste a brief, get a ready-to-send proposal. Includes analyze_brief, draft_proposal tools and 12 industry templates. Zero API key, fully local.
->>>>>>> main
+
 
 ### Python
 
