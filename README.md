@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (9)
   - [AI, Agents & Memory](#ai-agents--memory) (5)
   - [Media & 3D](#media--3d) (3)
-  - [Finance & Crypto](#finance--crypto) (1)
+  - [Finance & Crypto](#finance--crypto) (2)
   - [Other](#other) (7)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -149,6 +149,7 @@ Standout community servers by traction and activity.
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
 | [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) | MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 1d | 94 |
+| [The Stall](https://github.com/thebrierfox/the-stall) | 183-capability MCP server for financial markets, crypto, and on-chain data. Covers equities, ETFs, hedge fund holdings, options, insider trades, Treasury yields, and Base chain analytics. Pay-per-call with x402 micropayments. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Other
 
