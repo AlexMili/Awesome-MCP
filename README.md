@@ -111,6 +111,7 @@ Standout community servers by traction and activity.
 |---|---|---|:--:|--:|
 | [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) ✅ | Channel management and messaging capabilities. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 86.9k |
 | [WhatsApp](https://github.com/lharries/whatsapp-mcp) | Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟡 11mo | 5.8k |
+| [posteverywhere/mcp](https://github.com/posteverywhere/mcp) ✅ | Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 1 |
 
 ### Commerce, Ads & Business
 
