@@ -15,7 +15,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Web, Search & Browser](#web-search--browser) (10)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (4)
   - [Communication & Social](#communication--social) (2)
-  - [Commerce, Ads & Business](#commerce-ads--business) (9)
+  - [Commerce, Ads & Business](#commerce-ads--business) (10)
   - [AI, Agents & Memory](#ai-agents--memory) (5)
   - [Media & 3D](#media--3d) (3)
   - [Finance & Crypto](#finance--crypto) (1)
@@ -116,6 +116,7 @@ Standout community servers by traction and activity.
 
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 7d | 2.9k |
 | [BuyWhere](https://github.com/BuyWhere/buywhere-mcp) ✅ | Real-time product search and price comparison for Singapore and Southeast Asia. 260K+ products from Lazada, Shopee, FairPrice, Courts. Remote via `mcp.buywhere.ai/mcp`. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Coupang MCP](https://github.com/uju777/coupang-mcp) | Korean e-commerce (Coupang) product search with Rocket Delivery filtering. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 8w | 15 |
 | [Frihet](https://github.com/Frihet-io/frihet-mcp) | AI-native business management with 31 tools for invoicing, expenses, clients, products, quotes, and tax compliance (VeriFactu). Multi-currency, OCR, and Stripe Connect. Supports stdio and remote Streamable HTTP with OAuth 2.0. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8d | 6 |
