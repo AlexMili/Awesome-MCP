@@ -150,6 +150,7 @@ Standout community servers by traction and activity.
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
 | [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) | MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 1d | 94 |
+| [Public Grants](https://grants.mrchief.ai) | French public grants advisor for startups and AI agents. 21 tools for company onboarding (SIRENE registry pre-fill, auto-enrichment + customisable input), eligibility check across 49 programmes (CIR, JEI, BPI, CNC, ADEME, EIC Accelerator) with per-rule pass/fail from official legal texts, application drafting (.md/.docx export), and free strategic briefing PDF. EUR 49/dossier vs EUR 2,000-5,000 at consulting firms. Remote Streamable HTTP at `grants.mrchief.ai/mcp/`. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 | - |
 
 ### Other
 
