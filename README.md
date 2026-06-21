@@ -112,6 +112,7 @@ Standout community servers by traction and activity.
 | [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) ✅ | Channel management and messaging capabilities. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 86.9k |
 | [WhatsApp](https://github.com/lharries/whatsapp-mcp) | Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟡 11mo | 5.8k |
 | [posteverywhere/mcp](https://github.com/posteverywhere/mcp) ✅ | Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 1 |
+| [TwitterAPI.io MCP Server](https://github.com/kaitoInfra/twitterapi-io-mcp-server) ✅ | Twitter / X data API for AI agents — 12 read-only tools: tweet search with full operators, user profiles, conversation threads, real-time WebSocket streaming, trending topics. Hosted endpoint at `mcp.twitterapi.io/mcp` ([twitterapi.io](https://twitterapi.io)). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
