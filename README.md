@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (4)
   - [Communication & Social](#communication--social) (3)
   - [Commerce, Ads & Business](#commerce-ads--business) (10)
-  - [AI, Agents & Memory](#ai-agents--memory) (6)
+  - [AI, Agents & Memory](#ai-agents--memory) (7)
   - [Media & 3D](#media--3d) (4)
   - [Finance & Crypto](#finance--crypto) (1)
   - [Other](#other) (7)
@@ -139,6 +139,7 @@ Standout community servers by traction and activity.
 | [WritBase](https://github.com/Writbase/writbase) | MCP-native task management for AI agent fleets with multi-agent permissions, delegation safety, and full provenance. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2mo | 7 |
 | [Nucleus MCP](https://github.com/eidetic-works/nucleus-mcp) | 114 MCP tools for persistent memory, execution verification, governance, and compliance. Local-first. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 3 |
 | [PraisonAI](https://github.com/MervinPraison/praisonai-mcp) | AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 4mo | 1 |
+| [Vestige](https://github.com/samvallad33/vestige) | Local-first cognitive memory server for coding agents, backed by SQLite with FSRS-6 retention scheduling, prediction-error gating on writes, active forgetting, and hybrid keyword and vector retrieval. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 0d | 0 |
 
 ### Media & 3D
 
