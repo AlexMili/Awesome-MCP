@@ -96,6 +96,7 @@ Standout community servers by traction and activity.
 | [Exa.ai](https://github.com/theishangoswami/exa-mcp-server) | Use the Exa AI Search API for web searches. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🔴 1y | 6 |
 | [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) | Naver Shopping, Cafe, News search for Korean users. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 4mo | 0 |
 | [Helium MCP](https://github.com/connerlambden/helium-mcp) | News search with per-outlet bias scores (37 dimensions, 216 sources), balanced multi-source synthesis, live equity/ETF/crypto quotes, and ML options pricing. Remote streamable HTTP, 9 tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 6d | 9 |
+| [LLM Pulse](https://github.com/estevecastells/llmpulse-mcp) | AI search visibility data covering brand mentions, citations, share of voice, and AI-referred traffic across ChatGPT, Perplexity, Gemini, and Google AI Overviews. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="18" alt="Ruby" title="Ruby"> | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
