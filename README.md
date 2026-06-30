@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (10)
   - [AI, Agents & Memory](#ai-agents--memory) (6)
   - [Media & 3D](#media--3d) (4)
-  - [Finance & Crypto](#finance--crypto) (1)
+  - [Finance & Crypto](#finance--crypto) (2)
   - [Other](#other) (7)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -153,6 +153,7 @@ Standout community servers by traction and activity.
 
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
+| [BankBridge](https://github.com/bankbridge-money/bankbridge-plugin) | Read-only bank access for AI agents. Hosted MCP server giving Claude, ChatGPT, Cursor, Gemini, and Codex access to bank accounts, transactions, and investment holdings via Plaid. 12 tools. $5/mo per connected bank. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) | MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 97 |
 
 ### Other
