@@ -12,7 +12,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (15)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (6)
-  - [Web, Search & Browser](#web-search--browser) (11)
+  - [Web, Search & Browser](#web-search--browser) (12)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (4)
   - [Communication & Social](#communication--social) (3)
   - [Commerce, Ads & Business](#commerce-ads--business) (10)
@@ -96,6 +96,7 @@ Standout community servers by traction and activity.
 | [Exa.ai](https://github.com/theishangoswami/exa-mcp-server) | Use the Exa AI Search API for web searches. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🔴 1y | 6 |
 | [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) | Naver Shopping, Cafe, News search for Korean users. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 4mo | 0 |
 | [Helium MCP](https://github.com/connerlambden/helium-mcp) | News search with per-outlet bias scores (37 dimensions, 216 sources), balanced multi-source synthesis, live equity/ETF/crypto quotes, and ML options pricing. Remote streamable HTTP, 9 tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 6d | 9 |
+| [Find MCP](https://github.com/agentage/find-mcp) | Discover MCP servers by searching 17,000+ entries synced from the official MCP registry, via remote streamable HTTP or stdio. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
