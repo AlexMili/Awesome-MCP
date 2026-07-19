@@ -172,6 +172,7 @@ Standout community servers by traction and activity.
 | Client | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
 | [n8n](https://github.com/nerding-io/n8n-nodes-mcp) | interact with Model Context Protocol (MCP) servers in your n8n workflows. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 5mo | 3k |
+| [DarkMoon](https://github.com/ASCIT31/Dark-Moon) | Autonomous AI pentest MCP host that connects Claude or a local model to 80+ offensive-security tools, with a local Privacy Gateway. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 | |
 | [eechat](https://github.com/Lucassssss/eechat) | An open-source, cross-platform desktop application that seamlessly connects with full support for MCP, across Linux, macOS, and Windows. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟡 11mo | 343 |
 
 ## SDKs
