@@ -14,7 +14,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (6)
   - [Web, Search & Browser](#web-search--browser) (12)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (4)
-  - [Communication & Social](#communication--social) (4)
+  - [Communication & Social](#communication--social) (5)
   - [Commerce, Ads & Business](#commerce-ads--business) (10)
   - [AI, Agents & Memory](#ai-agents--memory) (6)
   - [Media & 3D](#media--3d) (4)
@@ -116,6 +116,7 @@ Standout community servers by traction and activity.
 | [WhatsApp](https://github.com/lharries/whatsapp-mcp) | Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🔴 1y | 6.1k |
 | [posteverywhere/mcp](https://github.com/posteverywhere/mcp) | Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 10d | 2 |
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 0 |
+| [Autoposting](https://github.com/Autoposting-ai/autoposting-mcp) | Remote MCP server that drafts, rewrites, schedules and publishes social posts to X, LinkedIn, Instagram, Threads and YouTube, with AI idea generation, carousels, video clipping and knowledge-base search. | — | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
