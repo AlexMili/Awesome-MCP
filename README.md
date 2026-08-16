@@ -173,6 +173,7 @@ Standout community servers by traction and activity.
 | [Make](https://github.com/integromat/make-mcp-server) | Turn Make scenarios into callable tools for AI assistants. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 7w | 165 |
 | [domain-mcp](https://github.com/joachimBrindeau/domain-mcp) | MCP server to search, register, and manage domains (availability, DNS, WHOIS) via Dynadot API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 10d | 11 |
 | [SheetsData](https://github.com/octoco-ltd/sheetsdata-mcp) | Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟡 3mo | 9 |
+| [Live Tennis API](https://github.com/livetennisapi/livetennisapi-mcp) | Live tennis scores, fixtures, players, rankings, H2H and model win probability for AI agents across ATP, WTA, Challenger, ITF and junior tours. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ## Clients
 
