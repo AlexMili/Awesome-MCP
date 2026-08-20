@@ -108,6 +108,7 @@ Standout community servers by traction and activity.
 | [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | Interact with Obsidian. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2mo | 4.2k |
 | [Taskade MCP](https://github.com/taskade/mcp) ✅ | Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, knowledge bases, and workflow automations. Includes OpenAPI-to-MCP codegen. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 161 |
 | [open-mcp-apps](https://github.com/2nd1st/open-mcp-apps) | MCP Apps engine where the AI builds interactive UI apps — todo boards, habit trackers, dashboards — that persist across conversations, backed by data collections. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [AI Developer Toolkit MCP](https://github.com/mjaskolski/developer-toolkit-mcp) | Read-only remote MCP endpoint over 950+ AI-development guides (Cursor, Claude Code, Codex) in EN+PL. Two tools: search and fetch. No account, no API key — Streamable HTTP at developertoolkit.ai/mcp. | — | 🟢 0d | 0 |
 
 ### Communication & Social
 
@@ -147,6 +148,7 @@ Standout community servers by traction and activity.
 | [PraisonAI](https://github.com/MervinPraison/praisonai-mcp) | AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 6mo | 1 |
 | [Skillselion](https://github.com/skillselion/skillselion-mcp) | Loads community agent skills on demand, materializing a matching SKILL.md and its bundled files into the session, and can merge the top matches into one provenance-tagged digest. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [SandBase CLI](https://github.com/sandbaseai/cli) | Local MCP bridge that connects 25 AI clients to 2,000+ models and APIs through six MCP tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [Wondel.ai Skills MCP](https://github.com/mjaskolski/wondel-skills-mcp) | Read-only remote MCP server over 50 book-based agent skills and 12 guided journeys. Routes a task to the right framework (recommend_skills) and serves the real SKILL.md in-session (load_skill). No install, no account, no auth — Streamable HTTP at skills.wondel.ai/mcp. | — | 🟢 0d | 0 |
 
 ### Media & 3D
 
