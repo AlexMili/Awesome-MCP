@@ -12,7 +12,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (15)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (6)
-  - [Web, Search & Browser](#web-search--browser) (12)
+  - [Web, Search & Browser](#web-search--browser) (13)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (5)
   - [Communication & Social](#communication--social) (5)
   - [Commerce, Ads & Business](#commerce-ads--business) (10)
@@ -98,6 +98,7 @@ Standout community servers by traction and activity.
 | [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) | Search scientific papers and get structured experimental data from full-text studies. Remote MCP server with free tier. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | ❌ gone | — |
 | [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) | Naver Shopping, Cafe, News search for Korean users. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 6mo | 0 |
 | [Helium MCP](https://github.com/connerlambden/helium-mcp) | News search with per-outlet bias scores (37 dimensions, 216 sources), balanced multi-source synthesis, live equity/ETF/crypto quotes, and ML options pricing. Remote streamable HTTP, 9 tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | ❌ gone | — |
+| [APITube News MCP](https://github.com/apitube/news-api-mcp) | Hosted news search over the APITube News API across 500,000+ sources in 177 countries and 59 languages, with sentiment scores, named entities and IPTC categories on every article. | — | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
