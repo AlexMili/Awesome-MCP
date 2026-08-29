@@ -9,7 +9,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 ## Contents
 
 - [Servers](#servers)
-  - [Dev, Code & Git](#dev-code--git) (15)
+  - [Dev, Code & Git](#dev-code--git) (16)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (6)
   - [Web, Search & Browser](#web-search--browser) (12)
@@ -64,8 +64,9 @@ Standout community servers by traction and activity.
 | [wopee-mcp](https://github.com/Wopee-io/wopee-mcp) | Autonomous AI testing for web apps — generate test cases and user stories, dispatch test, analysis and AI-agent runs, and fetch artifacts and project status via Wopee.io. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 13d | 5 |
 | [Phabricator](https://github.com/baba786/phabricator-mcp-server) | Interact with Phabricator API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | ❌ gone | — |
 
-### Databases & Data
+| [DeskMCP](https://github.com/edmen12/deskmcp) | Windows MCP policy gateway that gives ChatGPT controlled access to local files and gateway-owned terminal sessions with workspace-scoped permissions and audit logging. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
+### Databases & Data
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
 | [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) ✅ | Read-only database access with schema inspection. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 89.2k |
@@ -238,4 +239,3 @@ Tooling that helps you **build, test, secure, deploy or manage** MCP servers.
 | [MCP Debug Proxy](https://github.com/ytkoka/mcp-debug-proxy) | Logging reverse proxy that makes MCP and OAuth traffic between a client and a remote server observable, with a live web UI. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [MyMCPTools](https://github.com/shibley/mymcptools) | Tracks the health of remote MCP servers across a catalog of 2,467 entries: hourly handshake probes, uptime history, incident timelines, and tool-schema drift detection against the previous probe. Queryable over HTTP or as an MCP server itself. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [mcp-daemon-diet](https://github.com/tonydzi/mcp-daemon-diet) | Run one shared MCP server per machine instead of a stdio copy per client session, with autostart templates for Windows, macOS and Linux and a watchdog that restarts only on a proven-dead process. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
-
