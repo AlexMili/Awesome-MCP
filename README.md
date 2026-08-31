@@ -13,7 +13,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (6)
   - [Web, Search & Browser](#web-search--browser) (12)
-  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (5)
+  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (6)
   - [Communication & Social](#communication--social) (5)
   - [Commerce, Ads & Business](#commerce-ads--business) (10)
   - [AI, Agents & Memory](#ai-agents--memory) (8)
@@ -111,6 +111,7 @@ Standout community servers by traction and activity.
 | [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | Interact with Obsidian. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2mo | 4.2k |
 | [Taskade MCP](https://github.com/taskade/mcp) ✅ | Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, knowledge bases, and workflow automations. Includes OpenAPI-to-MCP codegen. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 161 |
 | [open-mcp-apps](https://github.com/2nd1st/open-mcp-apps) | MCP Apps engine where the AI builds interactive UI apps — todo boards, habit trackers, dashboards — that persist across conversations, backed by data collections. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [Process Street MCP Server](https://github.com/process-street/process-street-mcp) | Official hosted MCP server connecting AI agents to Process Street workflows, tasks, runs, data sets, and operational records. |  | 🟢 0d | 0 |
 
 ### Communication & Social
 
