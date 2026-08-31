@@ -15,7 +15,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Web, Search & Browser](#web-search--browser) (12)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (5)
   - [Communication & Social](#communication--social) (5)
-  - [Commerce, Ads & Business](#commerce-ads--business) (10)
+  - [Commerce, Ads & Business](#commerce-ads--business) (11)
   - [AI, Agents & Memory](#ai-agents--memory) (8)
   - [Media & 3D](#media--3d) (5)
   - [Finance & Crypto](#finance--crypto) (1)
@@ -137,6 +137,7 @@ Standout community servers by traction and activity.
 | [Cleo Skills MCP](https://github.com/Cleo-Labs-IA/skills_library) | Product-compliance MCP server exposing 45 production-grade compliance skills (cosmetics, food, electronics, toys, textiles, supplements, medical devices, customs, recalls, claims, sustainability) as MCP resources, prompts, and tools. `npx -y @cleo-labs/skills-mcp@latest`. MIT. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 7w | 1 |
 | [podcast-commerce-mcp](https://github.com/teamsincetoday/podcast-commerce-mcp) | Extract affiliate-ready product mentions from podcast transcripts with brand recognition, confidence scoring, and commerce intelligence. Free tier (200 calls/day), remote on Cloudflare Workers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 3mo | 0 |
 | [newsletter-commerce-mcp](https://github.com/teamsincetoday/newsletter-commerce-mcp) | Extract product recommendations and affiliate marketing opportunities from newsletter and email content. Free tier (200 calls/day), remote on Cloudflare Workers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 3mo | 0 |
+| [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) | Search, quote, and browse luxury, exotic, and EV rentals from independent hosts. Location autocomplete, availability, and airport or venue delivery. Booking finishes in the iOS app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### AI, Agents & Memory
 
