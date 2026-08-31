@@ -17,7 +17,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Communication & Social](#communication--social) (5)
   - [Commerce, Ads & Business](#commerce-ads--business) (10)
   - [AI, Agents & Memory](#ai-agents--memory) (8)
-  - [Media & 3D](#media--3d) (4)
+  - [Media & 3D](#media--3d) (5)
   - [Finance & Crypto](#finance--crypto) (1)
   - [Other](#other) (7)
 - [Clients](#clients)
@@ -158,6 +158,7 @@ Standout community servers by traction and activity.
 | [Funplay MCP for Unity](https://github.com/FunplayAI/funplay-unity-mcp) | Unity Editor MCP server with execute_code, play mode automation, screenshots, input simulation, prompts, and resources. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18" alt="C#" title="C#"> | 🟢 6d | 204 |
 | [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) | Render 4-6s animated b-roll overlay videos for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape video. Paste a script, the AI writes the scene spec and renders the mp4. Free, MIT, runs locally. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 7w | 1 |
 | [VAP-MCP](https://github.com/elestirelbilinc-sketch/vap-showcase) | MCP server for AI media generation (images, videos, music) with deterministic cost control using reserve-burn-refund billing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 4w | 1 |
+| [Magic Hour](https://github.com/magichourhq/magic-hour-mcp) | Hosted first-party server that lets agents generate and edit video, images, and audio through Magic Hour's API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
@@ -238,4 +239,3 @@ Tooling that helps you **build, test, secure, deploy or manage** MCP servers.
 | [MCP Debug Proxy](https://github.com/ytkoka/mcp-debug-proxy) | Logging reverse proxy that makes MCP and OAuth traffic between a client and a remote server observable, with a live web UI. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [MyMCPTools](https://github.com/shibley/mymcptools) | Tracks the health of remote MCP servers across a catalog of 2,467 entries: hourly handshake probes, uptime history, incident timelines, and tool-schema drift detection against the previous probe. Queryable over HTTP or as an MCP server itself. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [mcp-daemon-diet](https://github.com/tonydzi/mcp-daemon-diet) | Run one shared MCP server per machine instead of a stdio copy per client session, with autostart templates for Windows, macOS and Linux and a watchdog that restarts only on a proven-dead process. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
-
