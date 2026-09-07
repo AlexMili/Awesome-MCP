@@ -67,6 +67,7 @@ Standout community servers by traction and activity.
 
 ### Databases & Data
 
+| [DC Hub](https://github.com/azmartone67/dchub-mcp-server) | Live data-center, power-grid, fiber, gas and M&A intelligence for AI agents, with market power scores, ISO grid telemetry and interconnection-queue data queried by name or coordinate. | — | 🟢 0d | 0 |
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
 | [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) ✅ | Read-only database access with schema inspection. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 89.2k |
