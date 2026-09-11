@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (5)
   - [Communication & Social](#communication--social) (5)
   - [Commerce, Ads & Business](#commerce-ads--business) (10)
-  - [AI, Agents & Memory](#ai-agents--memory) (8)
+  - [AI, Agents & Memory](#ai-agents--memory) (9)
   - [Media & 3D](#media--3d) (5)
   - [Finance & Crypto](#finance--crypto) (1)
   - [Other](#other) (7)
@@ -145,6 +145,7 @@ Standout community servers by traction and activity.
 | [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) ✅ | Knowledge graph-based persistent memory system. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 89.2k |
 | [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) | Query OpenAI models directly from Claude. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🔴 1y | 84 |
 | [EGC](https://github.com/Fmarzochi/EGC) | Persistent cross-session memory MCP server for 13+ AI coding tools. SQLite-backed state survives context resets and keeps Claude Code, Cursor, Gemini CLI, Codex, and more in sync. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 42 |
+| [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) | Hosted memory server for AI agents over MCP. Tell it a recalled memory helped or misled, and it re-ranks what comes back next. One key across Claude Code, Cursor, VS Code, and ChatGPT. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 21 |
 | [WritBase](https://github.com/Writbase/writbase) | MCP-native task management for AI agent fleets with multi-agent permissions, delegation safety, and full provenance. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 4mo | 8 |
 | [Nucleus MCP](https://github.com/eidetic-works/nucleus-mcp) | 114 MCP tools for persistent memory, execution verification, governance, and compliance. Local-first. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 1d | 4 |
 | [PraisonAI](https://github.com/MervinPraison/praisonai-mcp) | AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 6mo | 1 |
