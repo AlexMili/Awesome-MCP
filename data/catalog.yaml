@@ -440,3 +440,13 @@ entries:
     official: false
     tags: [social-media, marketing, publishing, scheduling]
 >>>>>>> pr38
+
+  - id: neither-mcp
+    name: Neither
+    kind: server
+    category: ai
+    url: https://github.com/stonianua/neither-mcp
+    description: Project context your AI can query through MCP — selected notes/docs for Cursor or Claude Desktop, related retrieval with source evidence. Local stdio, Node 20+.
+    transport: [stdio]
+    official: false
+    tags: [memory, knowledge, cursor, claude-desktop]
