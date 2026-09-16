@@ -9,7 +9,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 ## Contents
 
 - [Servers](#servers)
-  - [Dev, Code & Git](#dev-code--git) (16)
+  - [Dev, Code & Git](#dev-code--git) (17)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (6)
   - [Web, Search & Browser](#web-search--browser) (12)
@@ -56,6 +56,7 @@ Standout community servers by traction and activity.
 | [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) | Provides Xcode-related tools for integration with AI assistants and other MCP clients. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 6.2k |
 | [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) | File operations with configurable access controls. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟡 8mo | 672 |
 | [Muvon/octocode](https://github.com/Muvon/octocode) | Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, code signatures view. 13+ languages. Local-first, Apache 2.0. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 0d | 441 |
+| [ContextStream](https://github.com/contextstream/mcp-server) | Shared project context for Cursor, Claude Code, Codex, and Grok — semantic code search plus decisions, lessons, and plans via hosted MCP ([site](https://contextstream.io)). | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 1d | 43 |
 | [Node.js](https://github.com/hyperdrive-eng/mcp-nodejs-debugger) | Gives Cursor or Claude Code access to Node.js at runtime to help you debug. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🗄️ archived | 303 |
 | [VSCode Devtools (Bifrost)](https://github.com/biegehydra/BifrostMCP) | Connect to VSCode IDE and use semantic tools like `find_usages`. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 4mo | 223 |
 | [Hoofy](https://github.com/HendryAvila/Hoofy) | Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline, and greenfield project pipeline with Clarity Gate. 32 MCP tools, single binary, zero dependencies. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟡 4mo | 15 |
