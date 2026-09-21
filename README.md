@@ -166,6 +166,7 @@ Standout community servers by traction and activity.
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
 | [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) | MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 1d | 102 |
+| [nano-mcp](https://github.com/PANDeveloper001/nano-mcp-public) | MCP server + SDK so any AI agent can hold XNO and pay per API call via rpc.nano.to — instant, feeless Nano (XNO) micropayments over the x402 protocol. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Other
 
