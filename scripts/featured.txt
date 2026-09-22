@@ -1,0 +1,27 @@
+# Repos pinned at the top of the README's "## ⭐ Featured" section.
+#
+# One `owner/repo` per line, in the desired display order. Blank lines and
+# anything after a `#` are ignored.
+#
+# How it works:
+#   - pinned repos come first, in the order of this file;
+#   - Featured is then filled up to 8 with the remaining top-starred servers;
+#   - with more than 8 pinned repos, all are kept and no auto-fill happens;
+#   - a pinned repo bypasses the monorepo exclusion.
+#
+# The repo must already be listed in a category under `## Servers`: Featured is
+# a view, not a source (awesome_fetch.py skips that section when parsing). An
+# `owner/repo` that cannot be found is reported on stderr and skipped.
+
+socialrouter/mcp
+
+# The 8 repos that made up Featured before pinning, in their order at the time
+# (top stars). Remove one line to get back to 8 entries in total.
+microsoft/markitdown
+microsoft/playwright-mcp
+github/github-mcp-server
+ahujasid/blender-mcp
+awslabs/mcp
+cameroncooke/XcodeBuildMCP
+lharries/whatsapp-mcp
+MarkusPfundstein/mcp-obsidian
