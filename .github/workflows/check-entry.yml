@@ -1,0 +1,35 @@
+name: Check entry
+
+# pull_request_target runs this workflow and the checker as they exist on the
+# base branch, so a PR cannot edit them to pass its own check. The PR's code is
+# never checked out or executed: only its diff is read, as text.
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  check-entry:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out base branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch PR diff
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" > "$RUNNER_TEMP/pr.diff"
+
+      - name: Check entry form
+        run: python3 scripts/check_entry.py --diff "$RUNNER_TEMP/pr.diff" --readme README.md
