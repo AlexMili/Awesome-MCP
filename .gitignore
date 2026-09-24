@@ -1,0 +1,4 @@
+scripts/.env
+scripts/awesome_entries.json
+__pycache__/
+.vscode
