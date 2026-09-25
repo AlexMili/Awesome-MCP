@@ -14,7 +14,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (6)
   - [Web, Search & Browser](#web-search--browser) (13)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (5)
-  - [Communication & Social](#communication--social) (5)
+  - [Communication & Social](#communication--social) (6)
   - [Commerce, Ads & Business](#commerce-ads--business) (11)
   - [AI, Agents & Memory](#ai-agents--memory) (8)
   - [Media & 3D](#media--3d) (7)
@@ -124,6 +124,7 @@ Standout community servers by traction and activity.
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 0 |
 | [sms-florin-mcp](https://github.com/flovoice53-tech/sms-florin-mcp) | Rents a real UK phone number (physical SIM, not VoIP) and receives SMS/OTP codes, so an AI agent can complete signup/verification flows during testing without a personal number. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [agent-identity-mcp](https://github.com/flovoice53-tech/agent-identity-mcp) | Gives an AI agent a disposable email address and a real UK phone number, so it can complete a signup/verification flow end to end during testing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [ThreadFox](https://github.com/amflimited/threadfox) | Paid Reddit MCP server and skill for Claude Code and Codex that reads community rules, searches, posts and replies through your own logged-in Chrome, with a local ledger that blocks double posts and rechecks posts for removal. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
