@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (11)
   - [AI, Agents & Memory](#ai-agents--memory) (8)
   - [Media & 3D](#media--3d) (7)
-  - [Finance & Crypto](#finance--crypto) (1)
+  - [Finance & Crypto](#finance--crypto) (2)
   - [Other](#other) (9)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -172,6 +172,7 @@ Standout community servers by traction and activity.
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
 | [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) | MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 1d | 102 |
+| [Eulerpool](https://github.com/eulerpool/eulerpool-mcp) | Hosted MCP server for the Eulerpool financial data API with 250+ tools covering stocks, fundamentals, ETFs, macro series from FRED, ECB, IMF and World Bank, crypto, FX, insider trades, congress trading and options flow. | — | 🟢 0d | 0 |
 
 ### Other
 
