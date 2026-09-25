@@ -1,0 +1,43 @@
+name: Refresh README
+
+# Once a week, refresh GitHub signals (stars, freshness, language) and
+# regenerate the README, then commit the result to main if it changed.
+on:
+  schedule:
+    - cron: "0 10 * * 0" # Sundays, 10:00 UTC (12:00 Paris in summer, 11:00 in winter)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-readme
+  cancel-in-progress: false
+
+jobs:
+  refresh-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Refresh README
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: scripts/refresh_readme.sh
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README unchanged, nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh README"
+          git push
