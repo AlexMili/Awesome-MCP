@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (5)
   - [Communication & Social](#communication--social) (5)
   - [Commerce, Ads & Business](#commerce-ads--business) (11)
-  - [AI, Agents & Memory](#ai-agents--memory) (8)
+  - [AI, Agents & Memory](#ai-agents--memory) (9)
   - [Media & 3D](#media--3d) (7)
   - [Finance & Crypto](#finance--crypto) (1)
   - [Other](#other) (9)
@@ -154,6 +154,7 @@ Standout community servers by traction and activity.
 | [Skillselion](https://github.com/skillselion/skillselion-mcp) | Loads community agent skills on demand, materializing a matching SKILL.md and its bundled files into the session, and can merge the top matches into one provenance-tagged digest. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [SandBase CLI](https://github.com/sandbaseai/cli) | Local MCP bridge that connects 25 AI clients to 2,000+ models and APIs through six MCP tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [field-notes-mcp](https://github.com/mq1n/field-notes-mcp) | Shared cross-run memory for AI agents over a plain-text board (board_read, board_write, board_wait). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🆕 new | 1 |
+| [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) | Hosted memory server for AI agents over MCP. Tell it a recalled memory helped or misled, and it re-ranks what comes back next. Shared rooms for multi-agent work. One key or OAuth across Claude Code, Cursor, VS Code and ChatGPT. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 25 |
 
 ### Media & 3D
 
