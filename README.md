@@ -9,7 +9,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 ## Contents
 
 - [Servers](#servers)
-  - [Dev, Code & Git](#dev-code--git) (16)
+  - [Dev, Code & Git](#dev-code--git) (17)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (6)
   - [Web, Search & Browser](#web-search--browser) (13)
@@ -64,6 +64,7 @@ Standout community servers by traction and activity.
 | [wopee-mcp](https://github.com/Wopee-io/wopee-mcp) | Autonomous AI testing for web apps — generate test cases and user stories, dispatch test, analysis and AI-agent runs, and fetch artifacts and project status via Wopee.io. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 13d | 5 |
 | [Phabricator](https://github.com/baba786/phabricator-mcp-server) | Interact with Phabricator API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | ❌ gone | — |
 | [GhidraLens](https://github.com/hellosverre/ghidralens) | Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [lockdocs](https://github.com/SylphxAI/lockdocs) | Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 0d | 0 |
 
 ### Databases & Data
 
