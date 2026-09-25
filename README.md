@@ -17,7 +17,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Communication & Social](#communication--social) (5)
   - [Commerce, Ads & Business](#commerce-ads--business) (11)
   - [AI, Agents & Memory](#ai-agents--memory) (9)
-  - [Media & 3D](#media--3d) (7)
+  - [Media & 3D](#media--3d) (8)
   - [Finance & Crypto](#finance--crypto) (1)
   - [Other](#other) (9)
 - [Clients](#clients)
@@ -169,6 +169,7 @@ Standout community servers by traction and activity.
 | [Magic Hour](https://github.com/magichourhq/magic-hour-mcp) | Hosted first-party server that lets agents generate and edit video, images, and audio through Magic Hour's API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [RunAPI](https://github.com/runapi-ai/mcp) | MCP server for model discovery and AI image, video, music/audio, text-to-speech, and LLM jobs via RunAPI. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | ❔ | 0 |
 | [UpRes](https://github.com/auroracapital/upres-cli) | Official MCP server for upres.ai: AI image and video upscaling up to 8K with 6 models, batch jobs, and direct download links. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
+| [Engine DJ](https://github.com/Venut-Technologies/engine-dj-mcp) | Searches, audits and builds playlists in a local Engine DJ (Denon) library: BPM and Camelot key search, duplicate and missing-file audits, cues and beatgrids, opt-in playlist and tag edits. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
