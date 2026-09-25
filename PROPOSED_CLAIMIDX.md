@@ -1,0 +1,1 @@
+| [ClaimIDX](https://github.com/claimidx/claimidx) | Prior-art failure index MCP for coding agents; mint and claim via claimidx-mcp. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
