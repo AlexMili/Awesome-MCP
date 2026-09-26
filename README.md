@@ -17,7 +17,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Communication & Social](#communication--social) (5)
   - [Commerce, Ads & Business](#commerce-ads--business) (11)
   - [AI, Agents & Memory](#ai-agents--memory) (9)
-  - [Media & 3D](#media--3d) (8)
+  - [Media & 3D](#media--3d) (9)
   - [Finance & Crypto](#finance--crypto) (1)
   - [Other](#other) (9)
 - [Clients](#clients)
@@ -171,6 +171,7 @@ Standout community servers by traction and activity.
 | [RunAPI](https://github.com/runapi-ai/mcp) | MCP server for model discovery and AI image, video, music/audio, text-to-speech, and LLM jobs via RunAPI. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | ❔ | 0 |
 | [UpRes](https://github.com/auroracapital/upres-cli) | Official MCP server for upres.ai: AI image and video upscaling up to 8K with 6 models, batch jobs, and direct download links. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
 | [Engine DJ](https://github.com/Venut-Technologies/engine-dj-mcp) | Searches, audits and builds playlists in a local Engine DJ (Denon) library: BPM and Camelot key search, duplicate and missing-file audits, cues and beatgrids, opt-in playlist and tag edits. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [Serato DJ](https://github.com/Venut-Technologies/serato-dj-mcp) | Searches and audits a local Serato DJ library by BPM and Camelot key, lists crates, finds duplicates and missing files, and builds new crates with a preview before writing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
