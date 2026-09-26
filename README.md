@@ -13,11 +13,11 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (6)
   - [Web, Search & Browser](#web-search--browser) (13)
-  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (5)
+  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (6)
   - [Communication & Social](#communication--social) (5)
   - [Commerce, Ads & Business](#commerce-ads--business) (11)
   - [AI, Agents & Memory](#ai-agents--memory) (9)
-  - [Media & 3D](#media--3d) (7)
+  - [Media & 3D](#media--3d) (8)
   - [Finance & Crypto](#finance--crypto) (1)
   - [Other](#other) (9)
 - [Clients](#clients)
@@ -65,6 +65,7 @@ Standout community servers by traction and activity.
 | [Phabricator](https://github.com/baba786/phabricator-mcp-server) | Interact with Phabricator API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | ❌ gone | — |
 | [GhidraLens](https://github.com/hellosverre/ghidralens) | Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [lockdocs](https://github.com/SylphxAI/lockdocs) | Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 0d | 0 |
+| [repomap](https://github.com/SylphxAI/repomap) | Local code graph for agents: hybrid search, symbol context with callers and callees, call paths, and change impact including git diff, plus a graph UI. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 0d | 0 |
 
 ### Databases & Data
 
@@ -114,6 +115,7 @@ Standout community servers by traction and activity.
 | [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | Interact with Obsidian. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2mo | 4.2k |
 | [Taskade MCP](https://github.com/taskade/mcp) ✅ | Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, knowledge bases, and workflow automations. Includes OpenAPI-to-MCP codegen. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 161 |
 | [open-mcp-apps](https://github.com/2nd1st/open-mcp-apps) | MCP Apps engine where the AI builds interactive UI apps — todo boards, habit trackers, dashboards — that persist across conversations, backed by data collections. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [anymd](https://github.com/SylphxAI/anymd) | Converts PDF, DOCX, PPTX, XLSX/CSV, EPUB, HTML/URLs, images and audio/video to clean Markdown for agents, with read, search and inspect tools; local, no API key. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 0d | 0 |
 
 ### Communication & Social
 
@@ -168,6 +170,7 @@ Standout community servers by traction and activity.
 | [Magic Hour](https://github.com/magichourhq/magic-hour-mcp) | Hosted first-party server that lets agents generate and edit video, images, and audio through Magic Hour's API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [RunAPI](https://github.com/runapi-ai/mcp) | MCP server for model discovery and AI image, video, music/audio, text-to-speech, and LLM jobs via RunAPI. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | ❔ | 0 |
 | [UpRes](https://github.com/auroracapital/upres-cli) | Official MCP server for upres.ai: AI image and video upscaling up to 8K with 6 models, batch jobs, and direct download links. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
+| [Engine DJ](https://github.com/Venut-Technologies/engine-dj-mcp) | Searches, audits and builds playlists in a local Engine DJ (Denon) library: BPM and Camelot key search, duplicate and missing-file audits, cues and beatgrids, opt-in playlist and tag edits. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
@@ -253,3 +256,4 @@ Tooling that helps you **build, test, secure, deploy or manage** MCP servers.
 | [mcp-daemon-diet](https://github.com/tonydzi/mcp-daemon-diet) | Run one shared MCP server per machine instead of a stdio copy per client session, with autostart templates for Windows, macOS and Linux and a watchdog that restarts only on a proven-dead process. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [Allowly MCP](https://github.com/Allowly-AI/allowly-mcp) | Middleware that checks MCP tool calls against hosted Allowly policies before running the tool handler. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Junctio](https://github.com/k2so-dev/junctio) | Self-hosted MCP gateway that puts stdio, Docker and remote servers behind one endpoint per client, with API keys or a built-in OAuth authorization server downstream and proactive upstream OAuth refresh. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [SurfacePin](https://github.com/yellowgram/surfacepin) | Exact-hash lock of MCP tools/resources/prompts list surfaces; CI fails on digest mismatch; field-diff COMPATIBLE / BREAKING / HINT_FLIP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
