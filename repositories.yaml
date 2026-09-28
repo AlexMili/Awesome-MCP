@@ -2429,6 +2429,8 @@ categories:
             description: YouTube video captions and summarization
           - url: https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
             description: YouTube video transcript downloader
+          - url: https://github.com/tubeagentkit/youtube-mcp
+            description: Remote YouTube transcript, video/channel search, and playlist extraction, free tier
           - url: https://github.com/eat-pray-ai/yutu
           - url: https://github.com/TSavo/creatify-mcp
             description: MCP server for AI video generation
