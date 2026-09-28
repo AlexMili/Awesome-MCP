@@ -138,6 +138,8 @@ categories:
             description: Hosted memory that re-ranks recall by reported outcomes
           - url: https://github.com/MaxFreedomPollard/Compartment
             description: Offline AEAD-encrypted vector memory without network
+          - url: https://github.com/louis030195/hyperconsciousness
+            description: Developer-alpha encrypted, append-only knowledge store with grant-scoped MCP search and device sync.
       - name: RAG
         repos:
           - url: https://github.com/Prem5123/BookMCP
