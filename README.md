@@ -13,7 +13,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (7)
   - [Web, Search & Browser](#web-search--browser) (12)
-  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (6)
+  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (7)
   - [Communication & Social](#communication--social) (4)
   - [Commerce, Ads & Business](#commerce-ads--business) (11)
   - [AI, Agents & Memory](#ai-agents--memory) (9)
@@ -112,6 +112,7 @@ Standout community servers by traction and activity.
 | [anymd](https://github.com/SylphxAI/anymd) | Converts PDF, DOCX, PPTX, XLSX/CSV, EPUB, HTML/URLs, images and audio/video to clean Markdown for agents, with read, search and inspect tools; local, no API key. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 0d | 939 |
 | [Taskade MCP](https://github.com/taskade/mcp) ✅ | Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, knowledge bases, and workflow automations. Includes OpenAPI-to-MCP codegen. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 7d | 165 |
 | [open-mcp-apps](https://github.com/2nd1st/open-mcp-apps) | MCP Apps engine where the AI builds interactive UI apps — todo boards, habit trackers, dashboards — that persist across conversations, backed by data collections. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 3w | 32 |
+| [Court Rules](https://github.com/foklepoint/court-rules-mcp) | Answers court-rule questions from U.S. federal and local court rules, judge standing orders, and court holidays, with a source citation for every answer. | — | 🟢 0d | 0 |
 
 ### Communication & Social
 
