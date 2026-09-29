@@ -5,7 +5,8 @@ Reads the unified diff of a PR and the base-branch README.md, and decides
 whether the PR adds exactly one well-formed table row at the end of an
 existing section. No network, no LLM, standard library only.
 
-Exit codes: 0 form is right, 1 at least one issue, 2 usage or input error.
+Exit codes: 0 form is right (warnings allowed), 1 at least one issue,
+2 usage or input error.
 """
 
 from __future__ import annotations
@@ -36,6 +37,9 @@ CODES = (
     "DUPLICATE",
     "CONTENTS_COUNT",
 )
+
+# Codes reported as warnings: shown to the contributor, but never fail the check.
+WARNING_CODES = frozenset({"CONTENTS_COUNT"})
 
 HUNK_RE = re.compile(r"^@@ -(\d+)(?:,(\d+))? \+(\d+)(?:,(\d+))? @@")
 HEADING_RE = re.compile(r"^(#{1,6})[ \t]+(.*?)(?:[ \t]+#+)?[ \t]*$")
@@ -368,12 +372,14 @@ def check(diff_text: str, readme_text: str) -> dict:
     files = parse_diff(diff_text)
     base = _split_lines(readme_text)
     issues: list[dict] = []
+    warnings: list[dict] = []
 
     def issue(code: str, line: str | None, **fmt) -> None:
+        target = warnings if code in WARNING_CODES else issues
         # One issue per code: the first offending line stands for the others.
-        if any(it["code"] == code for it in issues):
+        if any(it["code"] == code for it in target):
             return
-        issues.append({"code": code, "message": MESSAGES[code].format(**fmt), "line": line})
+        target.append({"code": code, "message": MESSAGES[code].format(**fmt), "line": line})
 
     readme_diffs = [f for f in files if f.path == README]
     other_paths = sorted({f.path for f in files if f.path != README})
@@ -535,9 +541,11 @@ def check(diff_text: str, readme_text: str) -> dict:
 
     order = {c: n for n, c in enumerate(CODES)}
     issues.sort(key=lambda d: order[d["code"]])
+    warnings.sort(key=lambda d: order[d["code"]])
     return {
         "ok": not issues,
         "issues": issues,
+        "warnings": warnings,
         "entry": entry_obj,
         "section": section,
         "deletions": deletions,
@@ -562,11 +570,13 @@ def render_text(result: dict) -> str:
     entry = result["entry"]
     where = result["section"] or "unknown section"
     head = f"{entry['name'] or entry['line']} → {where}" if entry else "no entry"
-    if result["ok"]:
-        return f"OK  {head}"
-    out = [f"FAIL  {head}"]
+    out = [f"{'OK' if result['ok'] else 'FAIL'}  {head}"]
     for it in result["issues"]:
         out.append(f"  {it['code']}: {it['message']}")
+        if it["line"] is not None:
+            out.append(f"      {it['line'][:120]}")
+    for it in result["warnings"]:
+        out.append(f"  WARN {it['code']}: {it['message']}")
         if it["line"] is not None:
             out.append(f"      {it['line'][:120]}")
     return "\n".join(out)
