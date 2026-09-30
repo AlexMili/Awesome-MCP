@@ -317,6 +317,7 @@
 - [onllm-dev/onUI](https://github.com/onllm-dev/onUI) — Annotation-first UI pair programming in the browser ☆`101`
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) — AI assistants interact with local browser ☆`54`
 - [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) — Rust-based browser automation MCP server ☆`41`
+- [hahahahahahahahah6/browser-buddy](https://github.com/hahahahahahahahah6/browser-buddy) — MCP server + Chrome extension (MV3) that lets coding agents read pages through the user's real, logged-in Chrome; stdlib-only, local ☆`0`
 ### Cloud Services
 
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) — A MCP server implementation for hyperbrowser ☆`791`
