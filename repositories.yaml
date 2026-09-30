@@ -358,6 +358,8 @@ categories:
           - url: https://github.com/vincent-pli/chrome-history-mcp
           - url: https://github.com/onllm-dev/onUI
             description: Annotation-first UI pair programming in the browser
+          - url: https://github.com/hahahahahahahahah6/browser-buddy
+            description: MCP server + Chrome extension (MV3) that lets coding agents read pages through the user's real, logged-in Chrome; stdlib-only, local
       - name: Cloud Services
         repos:
           - url: https://github.com/browserbase/mcp-server-browserbase
