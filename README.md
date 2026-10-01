@@ -17,7 +17,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Communication & Social](#communication--social) (4)
   - [Commerce, Ads & Business](#commerce-ads--business) (12)
   - [AI, Agents & Memory](#ai-agents--memory) (9)
-  - [Media & 3D](#media--3d) (11)
+  - [Media & 3D](#media--3d) (12)
   - [Finance & Crypto](#finance--crypto) (2)
   - [Other](#other) (9)
 - [Clients](#clients)
@@ -169,6 +169,7 @@ Standout community servers by traction and activity.
 | [Serato DJ](https://github.com/Venut-Technologies/serato-dj-mcp) | Searches and audits a local Serato DJ library by BPM and Camelot key, lists crates, finds duplicates and missing files, and builds new crates with a preview before writing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 0 |
 | [Bandcamp](https://github.com/Venut-Technologies/bandcamp-mcp) | Searches Bandcamp artists, albums, labels and tracks, browses genre tags and reads tracklists and prices, with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 0 |
 | [YouTube Transcript](https://github.com/tubeagentkit/youtube-mcp) | Fetches YouTube transcripts, searches videos and channels, and lists channel uploads and playlists via the getyoutubetranscript.com API, as a local stdio server or a hosted endpoint. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [Internet Radio](https://github.com/AlonDrilich/internet-radio-mcp) | Searches the public-domain Radio Browser directory for live internet radio stations by name, country, genre or language, and returns stream URLs plus top and trending stations. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
