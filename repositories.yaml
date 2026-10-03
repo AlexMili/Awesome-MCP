@@ -3363,6 +3363,7 @@ categories:
         description: Travel planning with Google Maps
       - url: https://github.com/mfukushim/map-traveler-mcp
       - url: https://github.com/trackmage/trackmage-mcp-server
+      - url: https://github.com/negm17111995/mcp-server
   - name: Web Scraping
     repos:
       - url: https://github.com/olostep/olostep-mcp-server
