@@ -2296,6 +2296,8 @@ categories:
         description: Google Search Console reports in Claude, Cursor, and other MCP clients
       - url: https://github.com/robot-speed/mcp
         description: Hosted SEO audits, Core Web Vitals, keywords, AI visibility and content publishing
+      - url: https://github.com/lognorm/lognorm-mcp
+        description: Hosted SEO/GEO growth backlog for Claude Code, Codex and Cursor
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
