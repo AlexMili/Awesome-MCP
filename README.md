@@ -9,7 +9,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 ## Contents
 
 - [Servers](#servers)
-  - [Dev, Code & Git](#dev-code--git) (18)
+  - [Dev, Code & Git](#dev-code--git) (19)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (7)
   - [Web, Search & Browser](#web-search--browser) (12)
@@ -66,6 +66,7 @@ Standout community servers by traction and activity.
 | [lockdocs](https://github.com/SylphxAI/lockdocs) | Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 1d | 0 |
 | [repomap](https://github.com/SylphxAI/repomap) | Local code graph for agents: hybrid search, symbol context with callers and callees, call paths, and change impact including git diff, plus a graph UI. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 1d | 0 |
 | [Bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) | Gives coding agents the props, examples, CSS variables and Agent Skills for the Bestax React component library (Bulma v1), served offline from a bundled index. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [Better Design](https://github.com/marvkr/better-design) | Design systems, UI and UX principles, icons and UI review for AI coding agents that build interfaces, over a hosted Streamable HTTP endpoint or the `better-design` npm package. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Databases & Data
 
