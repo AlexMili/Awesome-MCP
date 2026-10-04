@@ -1,0 +1,33 @@
+name: Limit PR commits
+
+# A legitimate entry PR needs only a few commits. Close any PR with more than
+# MAX_COMMITS. pull_request_target gives write access on fork PRs; nothing from
+# the PR is checked out or executed, only the commit count from the event
+# payload is read.
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+
+jobs:
+  limit-commits:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    env:
+      MAX_COMMITS: 10
+    steps:
+      - name: Close PR if too many commits
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          COMMITS: ${{ github.event.pull_request.commits }}
+        run: |
+          echo "PR #$PR_NUMBER has $COMMITS commit(s), limit is $MAX_COMMITS"
+          if [ "$COMMITS" -gt "$MAX_COMMITS" ]; then
+            gh pr close "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" \
+              --comment "Suspicious activity, too many commits, closing."
+          fi
