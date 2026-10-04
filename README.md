@@ -9,7 +9,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 ## Contents
 
 - [Servers](#servers)
-  - [Dev, Code & Git](#dev-code--git) (18)
+  - [Dev, Code & Git](#dev-code--git) (19)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (7)
   - [Web, Search & Browser](#web-search--browser) (12)
@@ -17,8 +17,8 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Communication & Social](#communication--social) (4)
   - [Commerce, Ads & Business](#commerce-ads--business) (12)
   - [AI, Agents & Memory](#ai-agents--memory) (9)
-  - [Media & 3D](#media--3d) (11)
-  - [Finance & Crypto](#finance--crypto) (2)
+  - [Media & 3D](#media--3d) (12)
+  - [Finance & Crypto](#finance--crypto) (3)
   - [Other](#other) (9)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -65,6 +65,7 @@ Standout community servers by traction and activity.
 | [GhidraLens](https://github.com/hellosverre/ghidralens) | Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4w | 0 |
 | [lockdocs](https://github.com/SylphxAI/lockdocs) | Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 1d | 0 |
 | [repomap](https://github.com/SylphxAI/repomap) | Local code graph for agents: hybrid search, symbol context with callers and callees, call paths, and change impact including git diff, plus a graph UI. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 1d | 0 |
+| [Bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) | Gives coding agents the props, examples, CSS variables and Agent Skills for the Bestax React component library (Bulma v1), served offline from a bundled index. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Better Design](https://github.com/marvkr/better-design) | Design systems, UI and UX principles, icons and UI review for AI coding agents that build interfaces, over a hosted Streamable HTTP endpoint or the `better-design` npm package. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Databases & Data
@@ -123,6 +124,7 @@ Standout community servers by traction and activity.
 | [posteverywhere/mcp](https://github.com/posteverywhere/mcp) | Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 4 |
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4w | 1 |
 | [Atomic Mail](https://github.com/Atomic-Mail/atomic-mail-agentic) | Gives an agent its own mailbox: it registers an address by proof of work, then reads, sends and searches over JMAP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [call4me](https://github.com/skeptrunedev/call4me) | Places real phone calls to businesses for the user (bookings, appointments, cancellations), navigates phone menus and returns the transcript and outcome; hosted at call4.me/mcp with OAuth. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
@@ -170,6 +172,7 @@ Standout community servers by traction and activity.
 | [Serato DJ](https://github.com/Venut-Technologies/serato-dj-mcp) | Searches and audits a local Serato DJ library by BPM and Camelot key, lists crates, finds duplicates and missing files, and builds new crates with a preview before writing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 0 |
 | [Bandcamp](https://github.com/Venut-Technologies/bandcamp-mcp) | Searches Bandcamp artists, albums, labels and tracks, browses genre tags and reads tracklists and prices, with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 0 |
 | [YouTube Transcript](https://github.com/tubeagentkit/youtube-mcp) | Fetches YouTube transcripts, searches videos and channels, and lists channel uploads and playlists via the getyoutubetranscript.com API, as a local stdio server or a hosted endpoint. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [Internet Radio](https://github.com/AlonDrilich/internet-radio-mcp) | Searches the public-domain Radio Browser directory for live internet radio stations by name, country, genre or language, and returns stream URLs plus top and trending stations. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
@@ -177,6 +180,7 @@ Standout community servers by traction and activity.
 |---|---|---|:--:|--:|
 | [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) | MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 1d | 116 |
 | [Aikount](https://github.com/mutonby/aikount-mcp) | Spanish accounting for freelancers and SMEs through the Aikount API: sales invoices, expense PDF import by OCR with duplicate detection, bank reconciliation, PGC ledger and trial balance, and the quarterly VAT return (Modelo 303). Runs locally over stdio or as a hosted Streamable HTTP endpoint. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [Invompt](https://github.com/Invompt/invompt-mcp) | Turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Other
 
@@ -259,4 +263,5 @@ Tooling that helps you **build, test, secure, deploy or manage** MCP servers.
 | [SurfacePin](https://github.com/yellowgram/surfacepin) | Exact-hash lock of MCP tools/resources/prompts list surfaces; CI fails on digest mismatch; field-diff COMPATIBLE / BREAKING / HINT_FLIP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 0 |
 | [Sunglasses](https://github.com/sunglasses-dev/sunglasses) | Local scanner for AI agents that pins a SHA-256 of every MCP tool descriptor to flag changed tool descriptions, and checks text and files for prompt injection and credential leaks with 1,554 patterns. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Records the MCP JSON-RPC a coding agent exchanges during a real session, on the same timeline as the model traffic and shell commands, then replays it offline. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 268 |
+| [mcp-drift](https://github.com/tomelias10/orynval-labs) | Offline, read-only CLI that scans MCP client configs for unpinned npx/uvx and @latest launches, inline tokens, broad filesystem scope and drift from an approved baseline, with SARIF output. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 0d | 0 |
 
