@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (12)
   - [AI, Agents & Memory](#ai-agents--memory) (9)
   - [Media & 3D](#media--3d) (12)
-  - [Finance & Crypto](#finance--crypto) (3)
+  - [Finance & Crypto](#finance--crypto) (4)
   - [Other](#other) (9)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -180,6 +180,7 @@ Standout community servers by traction and activity.
 | [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp) | MCP server for the RustChain blockchain and BoTTube video platform. AI agent tools for mining, wallet management, bounty hunting, and video publishing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 6d | 118 |
 | [Aikount](https://github.com/mutonby/aikount-mcp) | Spanish accounting for freelancers and SMEs through the Aikount API: sales invoices, expense PDF import by OCR with duplicate detection, bank reconciliation, PGC ledger and trial balance, and the quarterly VAT return (Modelo 303). Runs locally over stdio or as a hosted Streamable HTTP endpoint. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 7d | 2 |
 | [Invompt](https://github.com/Invompt/invompt-mcp) | Turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 0 |
+| [canli-validation-mcp](https://github.com/arhancanli/canli-validation-mcp) | Checks whether a backtest result is real or just the luckiest of the variants tried: deflated Sharpe ratio, CSCV probability of backtest overfitting, data-snooping tests (Hansen's SPA, White's Reality Check, Romano-Wolf StepM), a lookahead check and a pipeline placebo test. Runs locally over stdio or at a hosted Streamable HTTP endpoint with no key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Other
 
