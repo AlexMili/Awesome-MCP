@@ -14,7 +14,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (7)
   - [Web, Search & Browser](#web-search--browser) (12)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (6)
-  - [Communication & Social](#communication--social) (6)
+  - [Communication & Social](#communication--social) (7)
   - [Commerce, Ads & Business](#commerce-ads--business) (12)
   - [AI, Agents & Memory](#ai-agents--memory) (9)
   - [Media & 3D](#media--3d) (12)
@@ -124,6 +124,7 @@ Standout community servers by traction and activity.
 | [posteverywhere/mcp](https://github.com/posteverywhere/mcp) | Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 4 |
 | [call4me](https://github.com/skeptrunedev/call4me) | Places real phone calls to businesses for the user (bookings, appointments, cancellations), navigates phone menus and returns the transcript and outcome; hosted at call4.me/mcp with OAuth. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 4 |
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 6d | 1 |
+| [LinkMCP](https://github.com/linkmcp-io/linkmcp) | Hosted LinkedIn MCP server for your own LinkedIn account with profile, company, people and Sales Navigator search, inbox, posts, connection requests and work email finding. | - | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
