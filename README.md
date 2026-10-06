@@ -205,6 +205,7 @@ Standout community servers by traction and activity.
 | [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop) | Local-first macOS app that runs a full AI suite on-device (LLM chat, image generation, transcription, memory/RAG) and connects to MCP servers as a client, with no account or telemetry. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 119 |
 | [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first TypeScript agent runtime that connects agents to stdio and URL-based MCP servers, with persistent sessions, sandboxed tools, memory, credentials, audit logs, and replay. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 681 |
 | [FLUJO](https://github.com/mario-andreschak/FLUJO) | Local-first visual AI agent builder and MCP client with server management, tool inspection, multi-model chat, and workflow debugging. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 633 |
+| [Shipvela plugin](https://github.com/stefanautomateed/shipvela-codex) | Coding-assistant integration that connects to hosted OAuth MCP for owner-confirmed website publishing, project status and build logs; requires a Shipvela account and hosting allowance. | — | 🟢 0d | 0 |
 
 ## SDKs
 
