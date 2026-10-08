@@ -11,7 +11,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (18)
   - [Databases & Data](#databases--data) (2)
-  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (7)
+  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (8)
   - [Web, Search & Browser](#web-search--browser) (12)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (7)
   - [Communication & Social](#communication--social) (6)
@@ -85,6 +85,7 @@ Standout community servers by traction and activity.
 | [stackql](https://github.com/stackql/stackql) | SQL for cloud APIs. Query AWS, GCP, Azure and dozens of other providers with SQL. Includes an MCP server for agent access. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 0d | 1.1k |
 | [ZenML](https://github.com/zenml-io/mcp-zenml) | Chat with your MLOps and LLMOps pipelines using the official ZenML MCP server. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 5d | 49 |
 | [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) | Interact with your crash reporting and real using monitoring data on your Raygun account. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4w | 22 |
+| [Symbioza](https://github.com/symbioza/claude-plugin) | Run a GPU job under a hard dollar cap and collect the files it writes. | — | 🟢 0d | 0 |
 
 ### Web, Search & Browser
 
