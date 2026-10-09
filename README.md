@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (13)
   - [AI, Agents & Memory](#ai-agents--memory) (10)
   - [Media & 3D](#media--3d) (13)
-  - [Finance & Crypto](#finance--crypto) (6)
+  - [Finance & Crypto](#finance--crypto) (7)
   - [Other](#other) (9)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -187,6 +187,7 @@ Standout community servers by traction and activity.
 | [canli-validation-mcp](https://github.com/arhancanli/canli-validation-mcp) | Checks whether a backtest result is real or just the luckiest of the variants tried: deflated Sharpe ratio, CSCV probability of backtest overfitting, data-snooping tests (Hansen's SPA, White's Reality Check, Romano-Wolf StepM), a lookahead check and a pipeline placebo test. Runs locally over stdio or at a hosted Streamable HTTP endpoint with no key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [FXMacroData](https://github.com/fxmacrodata/mcp-server-fxmacrodata) | Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [Equibles](https://github.com/daniel3303/Equibles) | Self-hosted financial data MCP server for US companies: SEC filings with full-text search, XBRL financial statements, 13F holdings, insider and congressional trades, short interest and FRED macro series. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18" alt="C#" title="C#"> | 🟢 0d | 0 |
+| [Invoice by Ouroboros](https://github.com/LAHutchins91/invoice-mcp) | Freelance invoice records: approved invoice line items, quantities, agreed rates, due dates, and late terms; invoice changes need explicit approval. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Other
 
