@@ -157,6 +157,7 @@ Standout community servers by traction and activity.
 | [PraisonAI](https://github.com/MervinPraison/praisonai-mcp) | AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 8mo | 1 |
 | [field-notes-mcp](https://github.com/mq1n/field-notes-mcp) | Shared cross-run memory for AI agents over a plain-text board (board_read, board_write, board_wait). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2w | 1 |
 | [Skillselion](https://github.com/skillselion/skillselion-mcp) | Loads community agent skills on demand, materializing a matching SKILL.md and its bundled files into the session, and can merge the top matches into one provenance-tagged digest. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 5w | 1 |
+| [Liminal](https://github.com/jaybro2042-alt/liminality-mcp) | Hosted MCP server that turns objectives into structured work: scope guardrails, resources and constraints, gaps, research and next steps, with continuity carried across sessions. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Media & 3D
 
