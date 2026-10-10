@@ -12,13 +12,13 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (18)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (7)
-  - [Web, Search & Browser](#web-search--browser) (13)
+  - [Web, Search & Browser](#web-search--browser) (14)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (7)
   - [Communication & Social](#communication--social) (6)
   - [Commerce, Ads & Business](#commerce-ads--business) (13)
-  - [AI, Agents & Memory](#ai-agents--memory) (9)
+  - [AI, Agents & Memory](#ai-agents--memory) (10)
   - [Media & 3D](#media--3d) (13)
-  - [Finance & Crypto](#finance--crypto) (5)
+  - [Finance & Crypto](#finance--crypto) (6)
   - [Other](#other) (9)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -102,6 +102,7 @@ Standout community servers by traction and activity.
 | [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) | Naver Shopping, Cafe, News search for Korean users. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 8mo | 1 |
 | [StackScan](https://github.com/stackscan/stackscan-mcp) | Looks up the technologies on any domain and the company behind it, and reports how many sites run a given technology and where. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 1 |
 | [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances via remote MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2w | 0 |
+| [Arcmira: YouTube Transcript Search](https://github.com/arcmira/mcp) | Searches indexed YouTube transcripts for timestamped quotes, speaker appearances, sponsors, and recommendations. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Papers by Ouroboros Apps](https://github.com/LAHutchins91/papers-mcp) | Research paper search with real citations from OpenAlex, Semantic Scholar, PubMed, Crossref, and arXiv: find papers, fetch abstracts, follow citations, and format references. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
@@ -158,6 +159,7 @@ Standout community servers by traction and activity.
 | [PraisonAI](https://github.com/MervinPraison/praisonai-mcp) | AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 8mo | 1 |
 | [field-notes-mcp](https://github.com/mq1n/field-notes-mcp) | Shared cross-run memory for AI agents over a plain-text board (board_read, board_write, board_wait). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2w | 1 |
 | [Skillselion](https://github.com/skillselion/skillselion-mcp) | Loads community agent skills on demand, materializing a matching SKILL.md and its bundled files into the session, and can merge the top matches into one provenance-tagged digest. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 5w | 1 |
+| [Nanotea](https://github.com/gileshall/nanotea) | Self-hosted messaging app where coding agents report and ask over MCP and you answer by typing, tapping or recording, so you can direct a whole fleet without living in their terminals. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Media & 3D
 
@@ -186,6 +188,7 @@ Standout community servers by traction and activity.
 | [Invompt](https://github.com/Invompt/invompt-mcp) | Turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 0 |
 | [canli-validation-mcp](https://github.com/arhancanli/canli-validation-mcp) | Checks whether a backtest result is real or just the luckiest of the variants tried: deflated Sharpe ratio, CSCV probability of backtest overfitting, data-snooping tests (Hansen's SPA, White's Reality Check, Romano-Wolf StepM), a lookahead check and a pipeline placebo test. Runs locally over stdio or at a hosted Streamable HTTP endpoint with no key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [FXMacroData](https://github.com/fxmacrodata/mcp-server-fxmacrodata) | Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [Equibles](https://github.com/daniel3303/Equibles) | Self-hosted financial data MCP server for US companies: SEC filings with full-text search, XBRL financial statements, 13F holdings, insider and congressional trades, short interest and FRED macro series. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18" alt="C#" title="C#"> | 🟢 0d | 0 |
 
 ### Other
 
