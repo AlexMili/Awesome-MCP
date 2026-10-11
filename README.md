@@ -152,6 +152,7 @@ Standout community servers by traction and activity.
 
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
+| [Council of AI GSPC](https://github.com/CSOAI-ORG/councilof-ai) | Signed AI-governance measurement cards with free verification readers and x402-metered evidence doors over MCP. | — | 🟢 0d | 0 |
 | [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) ✅ | Knowledge graph-based persistent memory system. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 91k |
 | [SandBase CLI](https://github.com/sandbaseai/cli) | Local MCP bridge that connects 25 AI clients to 2,000+ models and APIs through six MCP tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5w | 188 |
 | [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) | Query OpenAI models directly from Claude. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🔴 1y | 84 |
