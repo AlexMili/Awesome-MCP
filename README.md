@@ -13,7 +13,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (9)
   - [Web, Search & Browser](#web-search--browser) (13)
-  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (7)
+  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (8)
   - [Communication & Social](#communication--social) (7)
   - [Commerce, Ads & Business](#commerce-ads--business) (13)
   - [AI, Agents & Memory](#ai-agents--memory) (10)
@@ -119,6 +119,7 @@ Standout community servers by traction and activity.
 | [Taskade MCP](https://github.com/taskade/mcp) ✅ | Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, knowledge bases, and workflow automations. Includes OpenAPI-to-MCP codegen. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 165 |
 | [open-mcp-apps](https://github.com/2nd1st/open-mcp-apps) | MCP Apps engine where the AI builds interactive UI apps — todo boards, habit trackers, dashboards — that persist across conversations, backed by data collections. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 5d | 34 |
 | [Continuity](https://github.com/LAHutchins91/continuity-mcp) | Remote story bible server for fiction writers that stores characters, world rules, timelines, and approved scenes so any MCP client can read canon before writing and run continuity audits. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [PDFtoMarkdown.ai](https://github.com/happywpco/pdftomarkdown-mcp) | Converts local PDF, DOCX, PPTX, XLSX, PNG/JPG, HTML and EPUB files to structured Markdown with headings, tables and OCR text via the PDFtoMarkdown.ai API; needs an API key (10 free pages, then pay-per-page credits). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Communication & Social
 
