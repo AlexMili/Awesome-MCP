@@ -12,7 +12,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (19)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (8)
-  - [Web, Search & Browser](#web-search--browser) (13)
+  - [Web, Search & Browser](#web-search--browser) (14)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (7)
   - [Communication & Social](#communication--social) (7)
   - [Commerce, Ads & Business](#commerce-ads--business) (13)
@@ -105,6 +105,7 @@ Standout community servers by traction and activity.
 | [Naver Search MCP](https://github.com/uju777/mcp-server-naver-search) | Naver Shopping, Cafe, News search for Korean users. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 9mo | 1 |
 | [StackScan](https://github.com/stackscan/stackscan-mcp) | Looks up the technologies on any domain and the company behind it, and reports how many sites run a given technology and where. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 9d | 1 |
 | [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances via remote MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3w | 0 |
+| [looot](https://github.com/loootai/looot-mcp) | Work email and phone lookup, email verification, company and people search, Google results and web page reads, paid per call from one prepaid balance. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
