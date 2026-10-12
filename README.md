@@ -9,7 +9,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 ## Contents
 
 - [Servers](#servers)
-  - [Dev, Code & Git](#dev-code--git) (19)
+  - [Dev, Code & Git](#dev-code--git) (20)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (8)
   - [Web, Search & Browser](#web-search--browser) (13)
@@ -67,6 +67,7 @@ Standout community servers by traction and activity.
 | [lockdocs](https://github.com/SylphxAI/lockdocs) | Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 2d | 1 |
 | [ERIUS PHONE](https://github.com/Protremix/erius-phone-mcp) | Drives an ERIUS PHONE hosted Android phone or tablet: reads the screen as an accessibility tree or screenshot, taps, types, swipes, launches apps, installs APKs and pulls crash logs; requires an ERIUS PHONE API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 1 |
 | [GhidraLens](https://github.com/hellosverre/ghidralens) | Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 6w | 0 |
+| [sf-intelligence](https://github.com/PranavNagrecha/Salesforce-Intelligence) | Read-only, offline knowledge base of a Salesforce org's metadata that tells your AI what breaks before you change a field, Flow, Apex class or permission, with cited answers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Databases & Data
 
