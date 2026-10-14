@@ -14,7 +14,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (9)
   - [Web, Search & Browser](#web-search--browser) (13)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (9)
-  - [Communication & Social](#communication--social) (7)
+  - [Communication & Social](#communication--social) (8)
   - [Commerce, Ads & Business](#commerce-ads--business) (13)
   - [AI, Agents & Memory](#ai-agents--memory) (11)
   - [Media & 3D](#media--3d) (14)
@@ -134,6 +134,7 @@ Standout community servers by traction and activity.
 | [posteverywhere/mcp](https://github.com/posteverywhere/mcp) | Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 6d | 4 |
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server) | Schedules, cross-posts and analyzes posts on 15 social platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more), including media uploads, queue slots and inbox replies; hosted with OAuth, or runs locally via npx. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 6d | 3 |
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 13d | 1 |
+| [Telegram Archive](https://github.com/GeiserX/telegram-archive-mcp) | Searches messages, browses chats and reads archived Telegram history from a Telegram-Archive instance, over stdio or HTTP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
