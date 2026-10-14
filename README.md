@@ -74,6 +74,7 @@ Standout community servers by traction and activity.
 
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
+| [SudoAI-App/statorigin-mcp](https://github.com/SudoAI-App/statorigin-mcp) | Remote read-only MCP for StatOrigin: search industry statistics and fetch each figure with publisher, source URL and quote. Endpoint https://statorigin.org/mcp (no auth). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) ✅ | Read-only database access with schema inspection. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 91.1k |
 | [Sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) ✅ | Database interaction and business intelligence capabilities. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 91.1k |
 
