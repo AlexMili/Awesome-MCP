@@ -17,7 +17,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Communication & Social](#communication--social) (8)
   - [Commerce, Ads & Business](#commerce-ads--business) (13)
   - [AI, Agents & Memory](#ai-agents--memory) (11)
-  - [Media & 3D](#media--3d) (14)
+  - [Media & 3D](#media--3d) (15)
   - [Finance & Crypto](#finance--crypto) (7)
   - [Other](#other) (8)
 - [Clients](#clients)
@@ -189,6 +189,7 @@ Standout community servers by traction and activity.
 | [Serato DJ](https://github.com/Venut-Technologies/serato-dj-mcp) | Searches and audits a local Serato DJ library by BPM and Camelot key, lists crates, finds duplicates and missing files, and builds new crates with a preview before writing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2w | 0 |
 | [Bandcamp](https://github.com/Venut-Technologies/bandcamp-mcp) | Searches Bandcamp artists, albums, labels and tracks, browses genre tags and reads tracklists and prices, with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 6d | 0 |
 | [VideoGen MCP](https://github.com/video-gen/videogen-mcp) | Create editable videos from storyboards/scripts, generate media, edit projects and export via VideoGen; hosted HTTP or local stdio, account and generation credits required. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [MakeAIVideo](https://github.com/makeaivideo-ai/mcp) | Creates short-form AI videos (script, voiceover, AI or stock scenes, captions, music) and posts or schedules them to connected social accounts; hosted HTTP or local stdio, MakeAIVideo account and credits required. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
