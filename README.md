@@ -216,6 +216,7 @@ Standout community servers by traction and activity.
 | [domain-mcp](https://github.com/joachimBrindeau/domain-mcp) | MCP server to search, register, and manage domains (availability, DNS, WHOIS) via Dynadot API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5w | 13 |
 | [SheetsData](https://github.com/octoco-ltd/sheetsdata-mcp) | Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2w | 13 |
 | [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) | Sports odds, player props, public event discovery, and account usage; account data tools require your own API key and allowances. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 9d | 0 |
+| [CareJobs.Now](https://github.com/yumaheymans/carejobs-mcp) | Search US healthcare jobs and posted pay by kind of job, employer and state through a free, read-only remote MCP server. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ## Clients
 
