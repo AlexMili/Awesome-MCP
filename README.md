@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (13)
   - [AI, Agents & Memory](#ai-agents--memory) (12)
   - [Media & 3D](#media--3d) (14)
-  - [Finance & Crypto](#finance--crypto) (8)
+  - [Finance & Crypto](#finance--crypto) (9)
   - [Other](#other) (8)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -204,6 +204,7 @@ Standout community servers by traction and activity.
 | [FXMacroData](https://github.com/fxmacrodata/mcp-server-fxmacrodata) | Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 5d | 0 |
 | [BlockVectra](https://github.com/blockvectra/mcp) | Hosted MCP for developers and AI agents: docs, chains, pricing and permitted public JSON-RPC work without a key; indexed data and account tools require an API key. | — | 🟢 0d | 0 |
 | [MoltNode by Chord](https://github.com/tuantqse90/moltnode-mcp) | Hosted no-key MCP: read 31 blockchains over JSON-RPC, get DEX swap quotes and unsigned transactions via Chord. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [aikstockdata](https://github.com/na77tech-creator/aikstockdata) | Hosted no-key MCP for Korean listed companies: previous-day closing prices, DART filings with receipt times and earnings from periodic filings. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Other
 
