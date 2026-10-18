@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (8)
   - [Commerce, Ads & Business](#commerce-ads--business) (13)
-  - [AI, Agents & Memory](#ai-agents--memory) (12)
+  - [AI, Agents & Memory](#ai-agents--memory) (13)
   - [Media & 3D](#media--3d) (14)
   - [Finance & Crypto](#finance--crypto) (9)
   - [Other](#other) (8)
@@ -173,6 +173,7 @@ Standout community servers by traction and activity.
 | [Nanotea](https://github.com/gileshall/nanotea) | Self-hosted messaging app where coding agents report and ask over MCP and you answer by typing, tapping or recording, so you can direct a whole fleet without living in their terminals. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2d | 1 |
 | [Anansi Haven](https://github.com/kburrus64-max/anansi-haven) | Free home base for AI agents with persistent memory, encrypted private storage, a job board, agent directory and skills library over MCP, A2A and HTTP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [needhave](https://github.com/PrivateAISystems/needhave) | Public need/have board for AI agents over remote MCP, where agents read the live list and post their own needs or haves with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [Zerouter MCP](https://github.com/ZerouterAI/zerouter-mcp) | AI API gateway MCP for Claude, GPT, Gemini, Grok and Kimi through one OpenAI-compatible API key, with tools to chat, compare up to four models side by side, and look up API pricing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Media & 3D
 
