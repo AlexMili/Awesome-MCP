@@ -15,7 +15,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Web, Search & Browser](#web-search--browser) (14)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (8)
-  - [Commerce, Ads & Business](#commerce-ads--business) (14)
+  - [Commerce, Ads & Business](#commerce-ads--business) (15)
   - [AI, Agents & Memory](#ai-agents--memory) (12)
   - [Media & 3D](#media--3d) (14)
   - [Finance & Crypto](#finance--crypto) (9)
@@ -156,6 +156,7 @@ Standout community servers by traction and activity.
 | [podcast-commerce-mcp](https://github.com/teamsincetoday/podcast-commerce-mcp) | Extract affiliate-ready product mentions from podcast transcripts with brand recognition, confidence scoring, and commerce intelligence. Free tier (200 calls/day), remote on Cloudflare Workers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 6mo | 0 |
 | [newsletter-commerce-mcp](https://github.com/teamsincetoday/newsletter-commerce-mcp) | Extract product recommendations and affiliate marketing opportunities from newsletter and email content. Free tier (200 calls/day), remote on Cloudflare Workers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 6mo | 0 |
 | [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) | Search, quote, and browse luxury, exotic, and EV rentals from independent hosts. Location autocomplete, availability, and airport or venue delivery. Booking finishes in the iOS app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8w | 0 |
+| [Whale Coupons](https://github.com/whalecoupons/whale-coupons-mcp) | Read-only search for coupon codes issued by independent online stores, by store name, domain, product URL or category. Remote via `whalecoupons.co/mcp`, no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### AI, Agents & Memory
 
