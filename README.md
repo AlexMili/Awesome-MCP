@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (14)
   - [AI, Agents & Memory](#ai-agents--memory) (12)
   - [Media & 3D](#media--3d) (15)
-  - [Finance & Crypto](#finance--crypto) (9)
+  - [Finance & Crypto](#finance--crypto) (10)
   - [Other](#other) (8)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -207,6 +207,7 @@ Standout community servers by traction and activity.
 | [Invompt](https://github.com/Invompt/invompt-mcp) | Turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
 | [FXMacroData](https://github.com/fxmacrodata/mcp-server-fxmacrodata) | Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 12d | 0 |
 | [BlockVectra](https://github.com/blockvectra/mcp) | Hosted MCP for developers and AI agents: docs, chains, pricing and permitted public JSON-RPC work without a key; indexed data and account tools require an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2d | 0 |
+| [Warden MCP](https://github.com/warden-protocol/warden-mcp) | Remote MCP server for Warden Token Terminal: AI agents find tokens, quote swaps and trade onchain on Base, BNB Chain, Robinhood Chain and Arc within limits the user sets. | — | 🟢 0d | 0 |
 
 ### Other
 
