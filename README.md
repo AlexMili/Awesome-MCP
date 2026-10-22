@@ -17,7 +17,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Communication & Social](#communication--social) (8)
   - [Commerce, Ads & Business](#commerce-ads--business) (15)
   - [AI, Agents & Memory](#ai-agents--memory) (12)
-  - [Media & 3D](#media--3d) (15)
+  - [Media & 3D](#media--3d) (16)
   - [Finance & Crypto](#finance--crypto) (9)
   - [Other](#other) (8)
 - [Clients](#clients)
@@ -196,6 +196,7 @@ Standout community servers by traction and activity.
 | [Serato DJ](https://github.com/Venut-Technologies/serato-dj-mcp) | Searches and audits a local Serato DJ library by BPM and Camelot key, lists crates, finds duplicates and missing files, and builds new crates with a preview before writing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3w | 0 |
 | [Bandcamp](https://github.com/Venut-Technologies/bandcamp-mcp) | Searches Bandcamp artists, albums, labels and tracks, browses genre tags and reads tracklists and prices, with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 0 |
 | [Yap MCP](https://github.com/founden-bot/yap-mcp) | Transcribes local audio and video files on your computer (25 European languages, no API key, no upload) and searches your Yap dictation history. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [YouTube Transcripts](https://github.com/gunnargray-dev/youtube-transcripts-mcp) | Fetches transcripts of public YouTube videos in any caption language, searches YouTube with filters, returns chapters (or derived topic segments) and builds extractive summaries with timestamps; no YouTube API key needed, hosted on Apify or run locally. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
