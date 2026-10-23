@@ -19,7 +19,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [AI, Agents & Memory](#ai-agents--memory) (12)
   - [Media & 3D](#media--3d) (16)
   - [Finance & Crypto](#finance--crypto) (9)
-  - [Other](#other) (8)
+  - [Other](#other) (9)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -226,6 +226,7 @@ Standout community servers by traction and activity.
 | [SheetsData](https://github.com/octoco-ltd/sheetsdata-mcp) | Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2d | 13 |
 | [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) | Sports odds, player props, public event discovery, and account usage; account data tools require your own API key and allowances. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2w | 0 |
 | [APIFreaks](https://github.com/api-freaks/apifreaks-mcp) | Official server for the APIFreaks APIs with opt-in modules for weather, WHOIS, DNS, SSL, IP geolocation, currency and commodity rates, screenshots, PDFs, VAT/IBAN/SWIFT and email or phone validation; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key. | — | 🟢 0d | 0 |
 
 ## Clients
 
