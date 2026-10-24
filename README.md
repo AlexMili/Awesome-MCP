@@ -14,7 +14,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (10)
   - [Web, Search & Browser](#web-search--browser) (16)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
-  - [Communication & Social](#communication--social) (8)
+  - [Communication & Social](#communication--social) (9)
   - [Commerce, Ads & Business](#commerce-ads--business) (15)
   - [AI, Agents & Memory](#ai-agents--memory) (12)
   - [Media & 3D](#media--3d) (16)
@@ -142,6 +142,7 @@ Standout community servers by traction and activity.
 | [posteverywhere/mcp](https://github.com/posteverywhere/mcp) | Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 4 |
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server) | Schedules, cross-posts and analyzes posts on 15 social platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more), including media uploads, queue slots and inbox replies; hosted with OAuth, or runs locally via npx. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 3 |
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2w | 1 |
+| [/call-me](https://github.com/radres/call-me) | Rings the user's iPhone so an agent can ask a question out loud and get the spoken answer back as text, keep the line open for follow-ups, or send a text; a hosted remote server with no auth that needs the /call-me iPhone app. | | | |
 
 ### Commerce, Ads & Business
 
