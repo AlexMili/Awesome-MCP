@@ -9,7 +9,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 ## Contents
 
 - [Servers](#servers)
-  - [Dev, Code & Git](#dev-code--git) (21)
+  - [Dev, Code & Git](#dev-code--git) (22)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (10)
   - [Web, Search & Browser](#web-search--browser) (16)
@@ -69,6 +69,7 @@ Standout community servers by traction and activity.
 | [sf-intelligence](https://github.com/PranavNagrecha/Salesforce-Intelligence) | Read-only, offline knowledge base of a Salesforce org's metadata that tells your AI what breaks before you change a field, Flow, Apex class or permission, with cited answers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 2 |
 | [lockdocs](https://github.com/SylphxAI/lockdocs) | Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 1d | 1 |
 | [GhidraLens](https://github.com/hellosverre/ghidralens) | Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 7w | 0 |
+| [ReMCP](https://github.com/getremcp/remcp) | OAuth-backed remote MCP for explicitly paired computers, with file, terminal, browser and native desktop tools that can change device state. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Databases & Data
 
