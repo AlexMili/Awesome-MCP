@@ -15,7 +15,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Web, Search & Browser](#web-search--browser) (15)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (8)
-  - [Commerce, Ads & Business](#commerce-ads--business) (15)
+  - [Commerce, Ads & Business](#commerce-ads--business) (16)
   - [AI, Agents & Memory](#ai-agents--memory) (12)
   - [Media & 3D](#media--3d) (16)
   - [Finance & Crypto](#finance--crypto) (9)
@@ -159,6 +159,7 @@ Standout community servers by traction and activity.
 | [newsletter-commerce-mcp](https://github.com/teamsincetoday/newsletter-commerce-mcp) | Extract product recommendations and affiliate marketing opportunities from newsletter and email content. Free tier (200 calls/day), remote on Cloudflare Workers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 6mo | 0 |
 | [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) | Search, quote, and browse luxury, exotic, and EV rentals from independent hosts. Location autocomplete, availability, and airport or venue delivery. Booking finishes in the iOS app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8w | 0 |
 | [App Store & Google Play Review Intelligence](https://github.com/gunnargray-dev/app-store-review-intelligence-mcp) | Searches iOS App Store and Google Play apps and analyzes their recent reviews: rating trend by app version, recurring complaints and requests, and side-by-side competitor comparison. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [SaaSCity](https://github.com/nyyhao/saascity-mcp) | Launch planning for SaaS and AI products: audit a homepage before launch, pick launch directories from 1,600+ by Ahrefs DR, link type and price, and list the product on SaaSCity. Remote via `saascity.io/api/mcp`, no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### AI, Agents & Memory
 
