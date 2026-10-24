@@ -13,7 +13,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (10)
   - [Web, Search & Browser](#web-search--browser) (15)
-  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
+  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (11)
   - [Communication & Social](#communication--social) (8)
   - [Commerce, Ads & Business](#commerce-ads--business) (15)
   - [AI, Agents & Memory](#ai-agents--memory) (12)
@@ -126,6 +126,7 @@ Standout community servers by traction and activity.
 | [Atlassian Browser](https://github.com/GeiserX/atlassian-browser-mcp) | Wraps mcp-atlassian with Playwright browser-cookie login, so its Jira and Confluence tools work on Atlassian Server/Data Center behind corporate SSO (Okta, SAML) where API tokens are not available. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2w | 3 |
 | [Continuity](https://github.com/LAHutchins91/continuity-mcp) | Remote story bible server for fiction writers that stores characters, world rules, timelines, and approved scenes so any MCP client can read canon before writing and run continuity audits. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 7d | 0 |
 | [PDFtoMarkdown.ai](https://github.com/happywpco/pdftomarkdown-mcp) | Converts local PDF, DOCX, PPTX, XLSX, PNG/JPG, HTML and EPUB files to structured Markdown with headings, tables and OCR text via the PDFtoMarkdown.ai API; needs an API key (10 free pages, then pay-per-page credits). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟡 3mo | 0 |
+| [Docsy](https://github.com/getremcp/docsy-plugin) | Remote OAuth MCP that resolves libraries and versions and returns focused framework/SDK documentation with original source links through five read-only tools. | — | 🟢 0d | 0 |
 
 ### Communication & Social
 
