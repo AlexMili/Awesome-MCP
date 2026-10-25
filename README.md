@@ -230,6 +230,7 @@ Standout community servers by traction and activity.
 | [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) | Sports odds, player props, public event discovery, and account usage; account data tools require your own API key and allowances. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2w | 0 |
 | [APIFreaks](https://github.com/api-freaks/apifreaks-mcp) | Official server for the APIFreaks APIs with opt-in modules for weather, WHOIS, DNS, SSL, IP geolocation, currency and commodity rates, screenshots, PDFs, VAT/IBAN/SWIFT and email or phone validation; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key. | — | 🟢 0d | 0 |
+| [RoboParts](https://github.com/lm203688/roboparts) ✅ | Vendor-neutral robot hardware compatibility checker: 868 entities, three-state verdicts, ISO 9409-1 flange anchor, printable 3D adapters. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14"> | ⭐ |
 
 ## Clients
 
