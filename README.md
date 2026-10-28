@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (15)
   - [AI, Agents & Memory](#ai-agents--memory) (13)
   - [Media & 3D](#media--3d) (16)
-  - [Finance & Crypto](#finance--crypto) (8)
+  - [Finance & Crypto](#finance--crypto) (9)
   - [Other](#other) (10)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -217,6 +217,7 @@ Standout community servers by traction and activity.
 | [MoltNode by Chord](https://github.com/tuantqse90/moltnode-mcp) | Hosted no-key MCP: read 31 blockchains over JSON-RPC, get DEX swap quotes and unsigned transactions via Chord. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 5d | 1 |
 | [Invompt](https://github.com/Invompt/invompt-mcp) | Turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 0 |
 | [FXMacroData](https://github.com/fxmacrodata/mcp-server-fxmacrodata) | Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2w | 0 |
+| [Postbye](https://github.com/postbye-team/postbye-mcp) | Subscription cancellation guides, mailing addresses and ready-to-send cancellation letters for 8,600+ companies through four read-only tools; remote Streamable HTTP server, no API key or sign-up. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Other
 
