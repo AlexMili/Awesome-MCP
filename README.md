@@ -11,7 +11,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (22)
   - [Databases & Data](#databases--data) (3)
-  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (10)
+  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (11)
   - [Web, Search & Browser](#web-search--browser) (17)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (8)
@@ -93,6 +93,7 @@ Standout community servers by traction and activity.
 | [Spinnaker](https://github.com/GeiserX/spinnaker-mcp) | Exposes a Spinnaker instance through the Gate API as 37 tools for applications, pipelines, executions, deployment strategies and infrastructure, with an optional read-only toolset. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 4d | 5 |
 | [Duplicacy](https://github.com/GeiserX/duplicacy-mcp) | Reads Duplicacy backup metrics from a duplicacy-exporter Prometheus endpoint: backup status, history, snapshots and prune status. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 4d | 2 |
 | [gpunz-mcp](https://github.com/gpunz/gpunz-mcp) | MCP server for the gpu.nz GPU cloud: search GPUs with live prices, estimate VRAM, and launch, monitor and stop GPU servers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 4d | 1 |
+| [CloudGPU MCP](https://github.com/mrhy7176/cloudgpu-mcp) | Lets MCP clients rent a per-minute GPU on CloudGPU: list GPUs and templates, quote the cost, launch with a budget, time and idle limit, run commands, tail logs, transfer files and stop the instance. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Web, Search & Browser
 
