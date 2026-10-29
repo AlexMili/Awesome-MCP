@@ -19,7 +19,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [AI, Agents & Memory](#ai-agents--memory) (13)
   - [Media & 3D](#media--3d) (16)
   - [Finance & Crypto](#finance--crypto) (8)
-  - [Other](#other) (10)
+  - [Other](#other) (11)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -232,6 +232,7 @@ Standout community servers by traction and activity.
 | [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) | Sports odds, player props, public event discovery, and account usage; account data tools require your own API key and allowances. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 3w | 1 |
 | [APIFreaks](https://github.com/api-freaks/apifreaks-mcp) | Official server for the APIFreaks APIs with opt-in modules for weather, WHOIS, DNS, SSL, IP geolocation, currency and commodity rates, screenshots, PDFs, VAT/IBAN/SWIFT and email or phone validation; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 0 |
 | [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" alt="Java" title="Java"> | 🟢 4w | 0 |
+| [IPGeolocation.io](https://github.com/IPGeolocation/ipgeolocation-io-mcp) | Official server for the IPGeolocation.io APIs with tools for IP geolocation, company and ASN data, IP security (VPN, proxy, Tor, bot and hosting detection), abuse contacts, time zones, astronomy and user-agent parsing; most tools require an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ## Clients
 
