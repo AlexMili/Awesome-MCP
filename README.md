@@ -19,7 +19,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [AI, Agents & Memory](#ai-agents--memory) (13)
   - [Media & 3D](#media--3d) (16)
   - [Finance & Crypto](#finance--crypto) (8)
-  - [Other](#other) (10)
+  - [Other](#other) (11)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -93,6 +93,7 @@ Standout community servers by traction and activity.
 | [Spinnaker](https://github.com/GeiserX/spinnaker-mcp) | Exposes a Spinnaker instance through the Gate API as 37 tools for applications, pipelines, executions, deployment strategies and infrastructure, with an optional read-only toolset. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 4d | 5 |
 | [Duplicacy](https://github.com/GeiserX/duplicacy-mcp) | Reads Duplicacy backup metrics from a duplicacy-exporter Prometheus endpoint: backup status, history, snapshots and prune status. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 4d | 2 |
 | [gpunz-mcp](https://github.com/gpunz/gpunz-mcp) | MCP server for the gpu.nz GPU cloud: search GPUs with live prices, estimate VRAM, and launch, monitor and stop GPU servers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 4d | 1 |
+| [CloudGPU MCP](https://github.com/mrhy7176/cloudgpu-mcp) | Lets MCP clients rent a per-minute GPU on CloudGPU: list GPUs and templates, quote the cost, launch with a budget, time and idle limit, run commands, tail logs, transfer files and stop the instance. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [Light Cloud](https://github.com/light-cloud-com/mcp-server) | Deploy and manage apps on the Light Cloud hosting platform: deploy from GitHub or a local folder, environments, logs, metrics, rollbacks, databases, custom domains and billing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Web, Search & Browser
@@ -233,6 +234,7 @@ Standout community servers by traction and activity.
 | [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) | Sports odds, player props, public event discovery, and account usage; account data tools require your own API key and allowances. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 3w | 1 |
 | [APIFreaks](https://github.com/api-freaks/apifreaks-mcp) | Official server for the APIFreaks APIs with opt-in modules for weather, WHOIS, DNS, SSL, IP geolocation, currency and commodity rates, screenshots, PDFs, VAT/IBAN/SWIFT and email or phone validation; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 0 |
 | [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" alt="Java" title="Java"> | 🟢 4w | 0 |
+| [IPGeolocation.io](https://github.com/IPGeolocation/ipgeolocation-io-mcp) | Official server for the IPGeolocation.io APIs with tools for IP geolocation, company and ASN data, IP security (VPN, proxy, Tor, bot and hosting detection), abuse contacts, time zones, astronomy and user-agent parsing; most tools require an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ## Clients
 
