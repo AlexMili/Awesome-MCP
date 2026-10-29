@@ -9,7 +9,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 ## Contents
 
 - [Servers](#servers)
-  - [Dev, Code & Git](#dev-code--git) (22)
+  - [Dev, Code & Git](#dev-code--git) (23)
   - [Databases & Data](#databases--data) (3)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (11)
   - [Web, Search & Browser](#web-search--browser) (17)
@@ -70,6 +70,7 @@ Standout community servers by traction and activity.
 | [lockdocs](https://github.com/SylphxAI/lockdocs) | Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 0d | 1 |
 | [ReMCP](https://github.com/getremcp/remcp) | OAuth-backed remote MCP for explicitly paired computers, with file, terminal, browser and native desktop tools that can change device state. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 1 |
 | [GhidraLens](https://github.com/hellosverre/ghidralens) | Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8w | 0 |
+| [npmscan](https://github.com/salemalem/npmscan-mcp-plugin) | Audits npm packages for malware and AI-specific payloads, and reports vulnerabilities, maintainer history and transitive dependencies. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Databases & Data
 
