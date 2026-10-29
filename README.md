@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (15)
   - [AI, Agents & Memory](#ai-agents--memory) (13)
   - [Media & 3D](#media--3d) (17)
-  - [Finance & Crypto](#finance--crypto) (8)
+  - [Finance & Crypto](#finance--crypto) (9)
   - [Other](#other) (11)
 - [Clients](#clients)
 - [SDKs](#sdks)
