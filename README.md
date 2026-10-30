@@ -15,10 +15,10 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Web, Search & Browser](#web-search--browser) (17)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (8)
-  - [Commerce, Ads & Business](#commerce-ads--business) (15)
+  - [Commerce, Ads & Business](#commerce-ads--business) (16)
   - [AI, Agents & Memory](#ai-agents--memory) (14)
   - [Media & 3D](#media--3d) (17)
-  - [Finance & Crypto](#finance--crypto) (8)
+  - [Finance & Crypto](#finance--crypto) (9)
   - [Other](#other) (11)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -70,6 +70,7 @@ Standout community servers by traction and activity.
 | [lockdocs](https://github.com/SylphxAI/lockdocs) | Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 0d | 1 |
 | [ReMCP](https://github.com/getremcp/remcp) | OAuth-backed remote MCP for explicitly paired computers, with file, terminal, browser and native desktop tools that can change device state. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 1 |
 | [GhidraLens](https://github.com/hellosverre/ghidralens) | Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8w | 0 |
+| [mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit) | Spec-driven dev workflow server for coding agents: orchestrated start_feature/start_bugfix, resumable plans, and a converge gate requiring spec/test/review evidence. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 39 |
 
 ### Databases & Data
 
@@ -166,6 +167,7 @@ Standout community servers by traction and activity.
 | [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) | Search, quote, and browse luxury, exotic, and EV rentals from independent hosts. Location autocomplete, availability, and airport or venue delivery. Booking finishes in the iOS app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2mo | 0 |
 | [App Store & Google Play Review Intelligence](https://github.com/gunnargray-dev/app-store-review-intelligence-mcp) | Searches iOS App Store and Google Play apps and analyzes their recent reviews: rating trend by app version, recurring complaints and requests, and side-by-side competitor comparison. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 6d | 0 |
 | [Lintelly HR Deutschland](https://github.com/NicksAdvisory/lintelly-hr-deutschland) | German employment law for small companies with 38 read-only tools for notice periods, employer costs, sick pay, maternity protection and contract clauses, each answer with calculation and official source. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [BestPrice Shopping](https://github.com/TheBestCo/bestprice-mcp) | Read-only shopping decisions, product search, live offers, delivered totals, and price history for Greece. No BestPrice account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### AI, Agents & Memory
 
@@ -221,6 +223,7 @@ Standout community servers by traction and activity.
 | [MoltNode by Chord](https://github.com/tuantqse90/moltnode-mcp) | Hosted no-key MCP: read 31 blockchains over JSON-RPC, get DEX swap quotes and unsigned transactions via Chord. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 5d | 1 |
 | [Invompt](https://github.com/Invompt/invompt-mcp) | Turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 0 |
 | [FXMacroData](https://github.com/fxmacrodata/mcp-server-fxmacrodata) | Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2w | 0 |
+| [Zovo MCP Office Suite](https://github.com/theluckystrike/mcp-servers) | 58 MIT-licensed back-office servers for invoices, quotes, credit notes, PDFs, spreadsheets, Word documents, bank statements, time tracking, expenses and mileage: run locally over stdio against your own files, or use the 46 hosted endpoints with a free token. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 2 |
 
 ### Other
 
@@ -274,6 +277,7 @@ Core SDKs maintained by the MCP organization.
 | [pmcp](https://github.com/paiml/rust-mcp-sdk) | SIMD-optimized JSON-RPC parsing, performance-focused. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 6d | 52 |
 | [mcp-go](https://github.com/mark3labs/mcp-go) | Community SDK that inspired the official implementation. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 3d | 9.2k |
 | [go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) | Idiomatic Go API with strong typing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 2mo | 678 |
+| [xmcp](https://github.com/basementstudio/xmcp) | TypeScript framework for building MCP servers with file-based tools, resources, prompts, hot reload, and deployment adapters. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ## Tools
 
