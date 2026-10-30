@@ -14,7 +14,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (11)
   - [Web, Search & Browser](#web-search--browser) (17)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
-  - [Communication & Social](#communication--social) (8)
+  - [Communication & Social](#communication--social) (9)
   - [Commerce, Ads & Business](#commerce-ads--business) (16)
   - [AI, Agents & Memory](#ai-agents--memory) (14)
   - [Media & 3D](#media--3d) (17)
@@ -146,6 +146,7 @@ Standout community servers by traction and activity.
 | [posteverywhere/mcp](https://github.com/posteverywhere/mcp) | Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 5 |
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server) | Schedules, cross-posts and analyzes posts on 15 social platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more), including media uploads, queue slots and inbox replies; hosted with OAuth, or runs locally via npx. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 3 |
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3w | 1 |
+| [Fax for Agents](https://github.com/faxforagents/mcp) | Sends and receives faxes for AI agents through the Fax for Agents API, with quotes, human review, delegated policies, inbound faxes and delivery evidence, over stdio or a hosted Streamable HTTP endpoint with a bearer key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
