@@ -15,7 +15,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Web, Search & Browser](#web-search--browser) (17)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (8)
-  - [Commerce, Ads & Business](#commerce-ads--business) (16)
+  - [Commerce, Ads & Business](#commerce-ads--business) (18)
   - [AI, Agents & Memory](#ai-agents--memory) (14)
   - [Media & 3D](#media--3d) (17)
   - [Finance & Crypto](#finance--crypto) (9)
@@ -168,6 +168,7 @@ Standout community servers by traction and activity.
 | [App Store & Google Play Review Intelligence](https://github.com/gunnargray-dev/app-store-review-intelligence-mcp) | Searches iOS App Store and Google Play apps and analyzes their recent reviews: rating trend by app version, recurring complaints and requests, and side-by-side competitor comparison. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 6d | 0 |
 | [Lintelly HR Deutschland](https://github.com/NicksAdvisory/lintelly-hr-deutschland) | German employment law for small companies with 38 read-only tools for notice periods, employer costs, sick pay, maternity protection and contract clauses, each answer with calculation and official source. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [BestPrice Shopping](https://github.com/TheBestCo/bestprice-mcp) | Read-only shopping decisions, product search, live offers, delivered totals, and price history for Greece. No BestPrice account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [NeverApply](https://github.com/kasovy/neverapply-mcp) | Hosted job-search server with 15 tools to search and match jobs, tailor resumes, answer screening questions, prepare for interviews and apply to jobs you approve. Remote Streamable HTTP with OAuth 2.1. | — | 🟢 0d | 0 |
 
 ### AI, Agents & Memory
 
