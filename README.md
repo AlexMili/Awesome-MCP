@@ -12,7 +12,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (22)
   - [Databases & Data](#databases--data) (3)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (11)
-  - [Web, Search & Browser](#web-search--browser) (17)
+  - [Web, Search & Browser](#web-search--browser) (18)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (8)
   - [Commerce, Ads & Business](#commerce-ads--business) (16)
@@ -118,6 +118,7 @@ Standout community servers by traction and activity.
 | [Seonix SEO MCP](https://github.com/seonix-ai/seonix-mcp) | Read-only audit of any website for SEO, GEO/AEO (AI-search visibility) and page speed, with per-issue recommendations and dry-run fix proposals; no credentials needed. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 4mo | 0 |
 | [toolkb-mcp](https://github.com/jack-reson8/toolkb-mcp) | Returns YouTube transcripts and playlists, web pages as Markdown, and App Store reviews through a local server that needs no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [AI Agents Listing](https://github.com/nyyhao/aiagentslisting-mcp) | Search, browse and compare a directory of AI agents, MCP servers and agent skills; find alternatives and see what is trending. Remote server; the read tools need no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [AgentSearch](https://github.com/agentsearchhq-coder/agentsearch-mcp) | Real-time web search, URL-to-markdown extraction, and JS page rendering for agents; free keyless search tier, paid calls $0.005 each. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
