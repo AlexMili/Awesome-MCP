@@ -13,7 +13,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Databases & Data](#databases--data) (3)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (11)
   - [Web, Search & Browser](#web-search--browser) (18)
-  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
+  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (11)
   - [Communication & Social](#communication--social) (9)
   - [Commerce, Ads & Business](#commerce-ads--business) (16)
   - [AI, Agents & Memory](#ai-agents--memory) (14)
@@ -134,6 +134,8 @@ Standout community servers by traction and activity.
 | [Atlassian Browser](https://github.com/GeiserX/atlassian-browser-mcp) | Wraps mcp-atlassian with Playwright browser-cookie login, so its Jira and Confluence tools work on Atlassian Server/Data Center behind corporate SSO (Okta, SAML) where API tokens are not available. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 3w | 3 |
 | [Continuity](https://github.com/LAHutchins91/continuity-mcp) | Remote story bible server for fiction writers that stores characters, world rules, timelines, and approved scenes so any MCP client can read canon before writing and run continuity audits. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2w | 0 |
 | [PDFtoMarkdown.ai](https://github.com/happywpco/pdftomarkdown-mcp) | Converts local PDF, DOCX, PPTX, XLSX, PNG/JPG, HTML and EPUB files to structured Markdown with headings, tables and OCR text via the PDFtoMarkdown.ai API; needs an API key (10 free pages, then pay-per-page credits). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟡 4mo | 0 |
+
+| [Signbee](https://github.com/signbee/mcp) | Document signing server for sending Markdown or PDF agreements for two-party e-signing with SHA-256 audit certificates and OTP verification. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Communication & Social
 
