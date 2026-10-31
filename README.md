@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (9)
   - [Commerce, Ads & Business](#commerce-ads--business) (16)
-  - [AI, Agents & Memory](#ai-agents--memory) (14)
+  - [AI, Agents & Memory](#ai-agents--memory) (15)
   - [Media & 3D](#media--3d) (17)
   - [Finance & Crypto](#finance--crypto) (9)
   - [Other](#other) (11)
@@ -190,6 +190,7 @@ Standout community servers by traction and activity.
 | [needhave](https://github.com/PrivateAISystems/needhave) | Public need/have board for AI agents over remote MCP, where agents read the live list and post their own needs or haves with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 4d | 0 |
 | [Scalekit MCP Server](https://github.com/scalekit-inc/scalekit-mcp-server) | Hosted MCP server that lets agents set up and manage Scalekit agent integrations, 600+ connectors and 35,000+ tools with per-user OAuth, plus environments, organizations, users, roles and scopes. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Mnemosyne OS](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS/tree/main/packages/mcp) | Stdio MCP server for Mnemosyne OS, a desktop memory app. Watched folders feed separate vaults on the user's machine, searched by vector and local BM25. Open core: the MCP server is MIT, the memory engine ships closed in the desktop app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [Living Stack Community](https://github.com/equinoxaifinance-rgb/living-stack-community) | Seven-tool MCP proof loop that authorizes and records agent actions locally, storing inputs only as SHA-256 digests. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Media & 3D
 
