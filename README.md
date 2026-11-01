@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (17)
   - [AI, Agents & Memory](#ai-agents--memory) (16)
   - [Media & 3D](#media--3d) (17)
-  - [Finance & Crypto](#finance--crypto) (10)
+  - [Finance & Crypto](#finance--crypto) (11)
   - [Other](#other) (11)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -228,6 +228,7 @@ Standout community servers by traction and activity.
 | [Invompt](https://github.com/Invompt/invompt-mcp) | Turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
 | [FXMacroData](https://github.com/fxmacrodata/mcp-server-fxmacrodata) | Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 3w | 0 |
 | [CurrencyFreaks](https://github.com/CurrencyFreaks/currencyfreaks-mcp) | Official server for the CurrencyFreaks API with tools for latest and historical exchange rates, currency conversion, time series, fluctuation and IP-to-currency lookup across 1000+ fiat, crypto and precious metal currencies; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 0 |
+| [Cost Segregation MCP](https://github.com/OverlineIQ/cost-segregation-benchmarks) | Calculates US commercial and residential real estate MACRS 5-year, 15-year, and 27.5/39-year cost segregation depreciation schedules, first-year bonus depreciation tax savings, and IRS Audit Techniques Guide benchmark allocations across 45 property types through 6 tools; runs locally over stdio or at a hosted Streamable HTTP endpoint with no key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 1 |
 
 ### Other
 
