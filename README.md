@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (17)
   - [AI, Agents & Memory](#ai-agents--memory) (16)
   - [Media & 3D](#media--3d) (17)
-  - [Finance & Crypto](#finance--crypto) (10)
+  - [Finance & Crypto](#finance--crypto) (11)
   - [Other](#other) (11)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -170,6 +170,7 @@ Standout community servers by traction and activity.
 | [newsletter-commerce-mcp](https://github.com/teamsincetoday/newsletter-commerce-mcp) | Extract product recommendations and affiliate marketing opportunities from newsletter and email content. Free tier (200 calls/day), remote on Cloudflare Workers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 6mo | 0 |
 | [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) | Search, quote, and browse luxury, exotic, and EV rentals from independent hosts. Location autocomplete, availability, and airport or venue delivery. Booking finishes in the iOS app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2mo | 0 |
 | [Lintelly HR Deutschland](https://github.com/NicksAdvisory/lintelly-hr-deutschland) | German employment law for small companies with 38 read-only tools for notice periods, employer costs, sick pay, maternity protection and contract clauses, each answer with calculation and official source. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [MCP Ads](https://github.com/RoyAzran/mcp-ads) | Google Ads, Meta Ads, TikTok, LinkedIn, Microsoft Ads, GA4, Search Console and Tag Manager from one MCP server: cross-account reports, wasted-spend audits and campaign changes that ask for approval first. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source B2B outbound sales MCP server: build ICP profiles, generate prospect research checklists and fit assessments, score leads (0-100), draft cold email and LinkedIn message copy, and plan multi-touch outreach sequences. `npx mach-gtm-mcp`. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### AI, Agents & Memory
@@ -229,6 +230,7 @@ Standout community servers by traction and activity.
 | [Invompt](https://github.com/Invompt/invompt-mcp) | Turn AI-host work into invoices you review before send; Continue as guest or OAuth via hosted MCP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
 | [FXMacroData](https://github.com/fxmacrodata/mcp-server-fxmacrodata) | Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 3w | 0 |
 | [CurrencyFreaks](https://github.com/CurrencyFreaks/currencyfreaks-mcp) | Official server for the CurrencyFreaks API with tools for latest and historical exchange rates, currency conversion, time series, fluctuation and IP-to-currency lookup across 1000+ fiat, crypto and precious metal currencies; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 0 |
+| [AllRatesToday Central Bank MCP](https://github.com/AllRates-Today/central-bank-mcp) | Official exchange rates published by 100+ central banks and tax authorities (ECB, Fed, Bank of Japan, HMRC, US Treasury and more) with each publisher's own rate date, for invoices, VAT, customs and audit; the latest tables work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Other
 
