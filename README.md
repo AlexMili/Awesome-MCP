@@ -10,16 +10,16 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (23)
-  - [Databases & Data](#databases--data) (3)
+  - [Databases & Data](#databases--data) (4)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (12)
-  - [Web, Search & Browser](#web-search--browser) (18)
+  - [Web, Search & Browser](#web-search--browser) (19)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (9)
   - [Commerce, Ads & Business](#commerce-ads--business) (18)
   - [AI, Agents & Memory](#ai-agents--memory) (16)
   - [Media & 3D](#media--3d) (17)
   - [Finance & Crypto](#finance--crypto) (12)
-  - [Other](#other) (11)
+  - [Other](#other) (12)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -79,6 +79,7 @@ Standout community servers by traction and activity.
 | [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) ✅ | Read-only database access with schema inspection. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 91.7k |
 | [Sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) ✅ | Database interaction and business intelligence capabilities. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 91.7k |
 | [Scento Perfume API](https://github.com/Scento-com/perfume-mcp-server) | Remote, read-only perfume knowledge server for AI assistants: notes, families, raw materials and similar scents for 1,400+ perfumes, no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 5d | 0 |
+| [Gov Tenders MCP](https://github.com/GeminiGeorge22/gov-tenders-mcp) | Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Cloud, DevOps & Monitoring
 
@@ -119,6 +120,7 @@ Standout community servers by traction and activity.
 | [toolkb-mcp](https://github.com/jack-reson8/toolkb-mcp) | Returns YouTube transcripts and playlists, web pages as Markdown, and App Store reviews through a local server that needs no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 1d | 0 |
 | [AI Agents Listing](https://github.com/nyyhao/aiagentslisting-mcp) | Search, browse and compare a directory of AI agents, MCP servers and agent skills; find alternatives and see what is trending. Remote server; the read tools need no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 6d | 0 |
 | [AgentSearch](https://github.com/agentsearchhq-coder/agentsearch-mcp) | Real-time web search, URL-to-markdown extraction, and JS page rendering for agents; free keyless search tier, paid calls $0.005 each. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 0 |
+| [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) | New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
@@ -172,6 +174,7 @@ Standout community servers by traction and activity.
 | [Lintelly HR Deutschland](https://github.com/NicksAdvisory/lintelly-hr-deutschland) | German employment law for small companies with 38 read-only tools for notice periods, employer costs, sick pay, maternity protection and contract clauses, each answer with calculation and official source. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [MCP Ads](https://github.com/RoyAzran/mcp-ads) | Google Ads, Meta Ads, TikTok, LinkedIn, Microsoft Ads, GA4, Search Console and Tag Manager from one MCP server: cross-account reports, wasted-spend audits and campaign changes that ask for approval first. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source B2B outbound sales MCP server: build ICP profiles, generate prospect research checklists and fit assessments, score leads (0-100), draft cold email and LinkedIn message copy, and plan multi-touch outreach sequences. `npx mach-gtm-mcp`. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [Etsy Sales MCP](https://github.com/GeminiGeorge22/etsy-sales-mcp) | Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) | Competitor Google ads from the Google Ads Transparency Center: new, running and stopped, with shown dates. Also on PyPI (`uvx google-ads-transparency-mcp-server`). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### AI, Agents & Memory
@@ -249,6 +252,7 @@ Standout community servers by traction and activity.
 | [ParlayAPI](https://github.com/JacobiusMakes/parlay-api-mcp) | Sports odds, player props, public event discovery, and account usage; account data tools require your own API key and allowances. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 4w | 1 |
 | [APIFreaks](https://github.com/api-freaks/apifreaks-mcp) | Official server for the APIFreaks APIs with opt-in modules for weather, WHOIS, DNS, SSL, IP geolocation, currency and commodity rates, screenshots, PDFs, VAT/IBAN/SWIFT and email or phone validation; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 0 |
 | [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" alt="Java" title="Java"> | 🟢 5w | 0 |
+| [Sports Odds MCP](https://github.com/GeminiGeorge22/sports-odds-mcp) | Live odds from Kambi sportsbooks (BetRivers, Unibet, Paf, Svenska Spel, ATG and more) in one call, with every book's price and the best price per outcome. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ## Clients
 
