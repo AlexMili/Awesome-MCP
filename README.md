@@ -19,7 +19,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [AI, Agents & Memory](#ai-agents--memory) (16)
   - [Media & 3D](#media--3d) (17)
   - [Finance & Crypto](#finance--crypto) (12)
-  - [Other](#other) (12)
+  - [Other](#other) (13)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -254,6 +254,7 @@ Standout community servers by traction and activity.
 | [APIFreaks](https://github.com/api-freaks/apifreaks-mcp) | Official server for the APIFreaks APIs with opt-in modules for weather, WHOIS, DNS, SSL, IP geolocation, currency and commodity rates, screenshots, PDFs, VAT/IBAN/SWIFT and email or phone validation; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 0 |
 | [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" alt="Java" title="Java"> | 🟢 5w | 0 |
 | [Sports Odds MCP](https://github.com/GeminiGeorge22/sports-odds-mcp) | Live odds from Kambi sportsbooks (BetRivers, Unibet, Paf, Svenska Spel, ATG and more) in one call, with every book's price and the best price per outcome. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [Fonciq](https://github.com/fonciq-dev/fonciq-mcp) | Québec Land Registry (Registre foncier) data for real-estate professionals via a remote MCP server; independent, not government-affiliated. | — | 🟢 0d | 0 |
 
 ## Clients
 
