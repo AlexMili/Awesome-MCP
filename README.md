@@ -10,7 +10,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (23)
-  - [Databases & Data](#databases--data) (3)
+  - [Databases & Data](#databases--data) (4)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (12)
   - [Web, Search & Browser](#web-search--browser) (18)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
@@ -79,6 +79,7 @@ Standout community servers by traction and activity.
 | [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) ✅ | Read-only database access with schema inspection. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 91.7k |
 | [Sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) ✅ | Database interaction and business intelligence capabilities. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 91.7k |
 | [Scento Perfume API](https://github.com/Scento-com/perfume-mcp-server) | Remote, read-only perfume knowledge server for AI assistants: notes, families, raw materials and similar scents for 1,400+ perfumes, no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 5d | 0 |
+| [Gov Tenders MCP](https://github.com/GeminiGeorge22/gov-tenders-mcp) | Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Cloud, DevOps & Monitoring
 
