@@ -15,7 +15,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Web, Search & Browser](#web-search--browser) (18)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (9)
-  - [Commerce, Ads & Business](#commerce-ads--business) (17)
+  - [Commerce, Ads & Business](#commerce-ads--business) (18)
   - [AI, Agents & Memory](#ai-agents--memory) (16)
   - [Media & 3D](#media--3d) (17)
   - [Finance & Crypto](#finance--crypto) (12)
@@ -172,6 +172,7 @@ Standout community servers by traction and activity.
 | [Lintelly HR Deutschland](https://github.com/NicksAdvisory/lintelly-hr-deutschland) | German employment law for small companies with 38 read-only tools for notice periods, employer costs, sick pay, maternity protection and contract clauses, each answer with calculation and official source. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [MCP Ads](https://github.com/RoyAzran/mcp-ads) | Google Ads, Meta Ads, TikTok, LinkedIn, Microsoft Ads, GA4, Search Console and Tag Manager from one MCP server: cross-account reports, wasted-spend audits and campaign changes that ask for approval first. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source B2B outbound sales MCP server: build ICP profiles, generate prospect research checklists and fit assessments, score leads (0-100), draft cold email and LinkedIn message copy, and plan multi-touch outreach sequences. `npx mach-gtm-mcp`. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [Etsy Sales MCP](https://github.com/GeminiGeorge22/etsy-sales-mcp) | Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### AI, Agents & Memory
 
