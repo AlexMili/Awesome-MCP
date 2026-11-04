@@ -11,7 +11,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (23)
   - [Databases & Data](#databases--data) (4)
-  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (12)
+  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (13)
   - [Web, Search & Browser](#web-search--browser) (19)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (9)
@@ -97,6 +97,7 @@ Standout community servers by traction and activity.
 | [gpunz-mcp](https://github.com/gpunz/gpunz-mcp) | MCP server for the gpu.nz GPU cloud: search GPUs with live prices, estimate VRAM, and launch, monitor and stop GPU servers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 11d | 1 |
 | [CloudGPU MCP](https://github.com/mrhy7176/cloudgpu-mcp) | Lets MCP clients rent a per-minute GPU on CloudGPU: list GPUs and templates, quote the cost, launch with a budget, time and idle limit, run commands, tail logs, transfer files and stop the instance. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 1d | 0 |
 | [Light Cloud](https://github.com/light-cloud-com/mcp-server) | Deploy and manage apps on the Light Cloud hosting platform: deploy from GitHub or a local folder, environments, logs, metrics, rollbacks, databases, custom domains and billing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 0 |
+| [ichi-mcp](https://github.com/bernik-bot/ichi-mcp) | Reads the ICHI internet-wide cyber-health index — current threat band (NORMAL to CRITICAL), numeric score, source health, and recent critical advisories — via three keyless tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Web, Search & Browser
 
