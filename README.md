@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (19)
   - [AI, Agents & Memory](#ai-agents--memory) (16)
   - [Media & 3D](#media--3d) (18)
-  - [Finance & Crypto](#finance--crypto) (12)
+  - [Finance & Crypto](#finance--crypto) (13)
   - [Other](#other) (12)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -240,6 +240,7 @@ Standout community servers by traction and activity.
 | [CurrencyFreaks](https://github.com/CurrencyFreaks/currencyfreaks-mcp) | Official server for the CurrencyFreaks API with tools for latest and historical exchange rates, currency conversion, time series, fluctuation and IP-to-currency lookup across 1000+ fiat, crypto and precious metal currencies; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 0 |
 | [AllRatesToday Central Bank MCP](https://github.com/AllRates-Today/central-bank-mcp) | Official exchange rates published by 100+ central banks and tax authorities (ECB, Fed, Bank of Japan, HMRC, US Treasury and more) with each publisher's own rate date, for invoices, VAT, customs and audit; the latest tables work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Vérif Entreprise FR](https://github.com/YILDIZ-TOLGA/verif-entreprise-mcp) | French company verification (KYB) by SIREN from official data: legal status, insolvency notices (BODACC), RGE, LEI and asset-freeze screening, plus monitoring with signed webhooks. A free preview tool; the other tools are paid per call in USDC on Base via x402, with no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
+| [OMX](https://github.com/Lumen-Founder/omx) | Non-custodial Hyperliquid perps execution for AI agents: pre-trade limits, human approval, kill switch, audit log; keyless demo via `uvx omx-hyperliquid`; optional disclosed 1 bp builder fee. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Other
 
