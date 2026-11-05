@@ -17,7 +17,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Communication & Social](#communication--social) (9)
   - [Commerce, Ads & Business](#commerce-ads--business) (19)
   - [AI, Agents & Memory](#ai-agents--memory) (16)
-  - [Media & 3D](#media--3d) (17)
+  - [Media & 3D](#media--3d) (18)
   - [Finance & Crypto](#finance--crypto) (12)
   - [Other](#other) (12)
 - [Clients](#clients)
@@ -221,6 +221,7 @@ Standout community servers by traction and activity.
 | [Yap MCP](https://github.com/founden-bot/yap-mcp) | Transcribes local audio and video files on your computer (25 European languages, no API key, no upload) and searches your Yap dictation history. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 13d | 0 |
 | [YouTube Transcripts](https://github.com/gunnargray-dev/youtube-transcripts-mcp) | Fetches transcripts of public YouTube videos in any caption language, searches YouTube with filters, returns chapters (or derived topic segments) and builds extractive summaries with timestamps; no YouTube API key needed, hosted on Apify or run locally. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 6d | 0 |
 | [MakeAIVideo](https://github.com/makeaivideo-ai/mcp) | Creates short-form AI videos (script, voiceover, AI or stock scenes, captions, music) and posts or schedules them to connected social accounts; hosted HTTP or local stdio, MakeAIVideo account and credits required. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2w | 0 |
+| [Spotify Play Count MCP](https://github.com/GeminiGeorge22/spotify-play-count-mcp) | Spotify play counts for any track, album, artist or playlist link, plus monthly listeners, followers, world rank and top cities for artists. No Spotify login. Also on PyPI (`uvx spotify-play-count-mcp`). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
