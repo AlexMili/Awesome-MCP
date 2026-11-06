@@ -9,7 +9,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 ## Contents
 
 - [Servers](#servers)
-  - [Dev, Code & Git](#dev-code--git) (23)
+  - [Dev, Code & Git](#dev-code--git) (24)
   - [Databases & Data](#databases--data) (4)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (12)
   - [Web, Search & Browser](#web-search--browser) (19)
@@ -72,6 +72,7 @@ Standout community servers by traction and activity.
 | [lockdocs](https://github.com/SylphxAI/lockdocs) | Library docs and exact API signatures for the versions pinned in your lockfile (npm, PyPI, crates.io, Go), read locally and offline, with each section cited to package, version, file and line. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 1d | 1 |
 | [GhidraLens](https://github.com/hellosverre/ghidralens) | Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2mo | 0 |
 | [conductor](https://github.com/fainir/conductor) | MCP server for Claude Code whose 23 tools check their own output in code, with retry and fallback, before returning it. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [mcpserverlist-mcp](https://github.com/sudomichael/mcpserverlist-mcp) | Check if your MCP server is ready for MCP directories, then get it submitted. | — | 🟢 0d | 0 |
 
 ### Databases & Data
 
