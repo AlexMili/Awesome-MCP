@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (19)
   - [AI, Agents & Memory](#ai-agents--memory) (17)
   - [Media & 3D](#media--3d) (18)
-  - [Finance & Crypto](#finance--crypto) (12)
+  - [Finance & Crypto](#finance--crypto) (13)
   - [Other](#other) (13)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -244,6 +244,7 @@ Standout community servers by traction and activity.
 | [AllRatesToday Central Bank MCP](https://github.com/AllRates-Today/central-bank-mcp) | Official exchange rates published by 100+ central banks and tax authorities (ECB, Fed, Bank of Japan, HMRC, US Treasury and more) with each publisher's own rate date, for invoices, VAT, customs and audit; the latest tables work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Vérif Entreprise FR](https://github.com/YILDIZ-TOLGA/verif-entreprise-mcp) | French company verification (KYB) by SIREN from official data: legal status, insolvency notices (BODACC), RGE, LEI and asset-freeze screening, plus monitoring with signed webhooks. A free preview tool; the other tools are paid per call in USDC on Base via x402, with no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [OMX](https://github.com/Lumen-Founder/omx) | Non-custodial Hyperliquid perps execution for AI agents: pre-trade limits, human approval, kill switch, audit log; keyless demo via `uvx omx-hyperliquid`; optional disclosed 1 bp builder fee. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp) | Hosted MCP gateway for discovering and comparing Web3 infrastructure providers, RPC endpoints, APIs, explorers, bridges, wallets, oracles, and SDKs across blockchain networks without an API key. | — | 🟢 0d | 0 |
 
 ### Other
 
