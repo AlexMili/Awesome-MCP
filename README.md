@@ -19,7 +19,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [AI, Agents & Memory](#ai-agents--memory) (17)
   - [Media & 3D](#media--3d) (18)
   - [Finance & Crypto](#finance--crypto) (12)
-  - [Other](#other) (13)
+  - [Other](#other) (14)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -262,6 +262,7 @@ Standout community servers by traction and activity.
 | [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" alt="Java" title="Java"> | 🟢 5w | 0 |
 | [Sports Odds MCP](https://github.com/GeminiGeorge22/sports-odds-mcp) | Live odds from Kambi sportsbooks (BetRivers, Unibet, Paf, Svenska Spel, ATG and more) in one call, with every book's price and the best price per outcome. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [ichi-mcp](https://github.com/bernik-bot/ichi-mcp) | Reads the ICHI internet-wide cyber-health index — current threat band (NORMAL to CRITICAL), numeric score, source health, and recent critical advisories — via three keyless tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [Vulnify](https://github.com/vulnify/vulnify-mcp) | MCP server the agent calls to ask Vulnify before an action; check_action and decide_action return ALLOW, REVIEW or BLOCK (does not run the tool). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1w | 2 |
 
 ## Clients
 
