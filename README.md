@@ -73,6 +73,7 @@ Standout community servers by traction and activity.
 | [GhidraLens](https://github.com/hellosverre/ghidralens) | Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2mo | 0 |
 | [conductor](https://github.com/fainir/conductor) | MCP server for Claude Code whose 23 tools check their own output in code, with retry and fallback, before returning it. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [mcpserverlist-mcp](https://github.com/sudomichael/mcpserverlist-mcp) | Check if your MCP server is ready for MCP directories, then get it submitted. | — | 🟢 0d | 0 |
+| [Vicem](https://github.com/RAKKUNN/vicem) | Zero-dependency context baton and AST code skeletonization server for coding agents: 0-100% salience scoring, failed-attempt guardrails, lossless `vicem_rehydrate`, and cross-agent `.vicem/BATON.md` handoffs. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 5 |
 
 ### Databases & Data
 
