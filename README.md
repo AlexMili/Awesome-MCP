@@ -13,7 +13,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Databases & Data](#databases--data) (4)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (12)
   - [Web, Search & Browser](#web-search--browser) (20)
-  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
+  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (11)
   - [Communication & Social](#communication--social) (9)
   - [Commerce, Ads & Business](#commerce-ads--business) (19)
   - [AI, Agents & Memory](#ai-agents--memory) (17)
@@ -141,6 +141,7 @@ Standout community servers by traction and activity.
 | [Atlassian Browser](https://github.com/GeiserX/atlassian-browser-mcp) | Wraps mcp-atlassian with Playwright browser-cookie login, so its Jira and Confluence tools work on Atlassian Server/Data Center behind corporate SSO (Okta, SAML) where API tokens are not available. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 3d | 3 |
 | [Continuity](https://github.com/LAHutchins91/continuity-mcp) | Remote story bible server for fiction writers that stores characters, world rules, timelines, and approved scenes so any MCP client can read canon before writing and run continuity audits. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3w | 0 |
 | [PDFtoMarkdown.ai](https://github.com/happywpco/pdftomarkdown-mcp) | Converts local PDF, DOCX, PPTX, XLSX, PNG/JPG, HTML and EPUB files to structured Markdown with headings, tables and OCR text via the PDFtoMarkdown.ai API; needs an API key (10 free pages, then pay-per-page credits). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟡 4mo | 0 |
+| [BrewPage](https://github.com/kochetkov-ma/brewpage-openapi) | Publishes HTML pages, Markdown, files, static sites, JSON and key-value data to public HTTPS links on BrewPage free hosting, over remote Streamable HTTP or local stdio; no signup or API key, publications expire. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Communication & Social
 
