@@ -12,14 +12,14 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (24)
   - [Databases & Data](#databases--data) (4)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (12)
-  - [Web, Search & Browser](#web-search--browser) (19)
+  - [Web, Search & Browser](#web-search--browser) (20)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (9)
   - [Commerce, Ads & Business](#commerce-ads--business) (19)
   - [AI, Agents & Memory](#ai-agents--memory) (17)
   - [Media & 3D](#media--3d) (18)
   - [Finance & Crypto](#finance--crypto) (12)
-  - [Other](#other) (13)
+  - [Other](#other) (14)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -124,6 +124,7 @@ Standout community servers by traction and activity.
 | [AgentSearch](https://github.com/agentsearchhq-coder/agentsearch-mcp) | Real-time web search, URL-to-markdown extraction, and JS page rendering for agents; free keyless search tier, paid calls $0.005 each. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 0 |
 | [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) | New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [Keenable](https://github.com/keenableai/keenable-mcp) | Web search over Keenable's own index and page fetch as clean Markdown, via a hosted Streamable HTTP server that works without an API key. | — | 🟢 0d | 0 |
+| [Portproof](https://github.com/portproofas/portproof-mcp) | Official server for Portproof proxies: reads pricing and countries online, builds proxy URLs and tests connections on the shared mobile 4G/5G and residential pools, checks the GB balance, buys GB traffic and manages private mobile ports; account tools need an API key, and paid actions require explicit confirmation and an idempotency key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
@@ -153,6 +154,7 @@ Standout community servers by traction and activity.
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server) | Schedules, cross-posts and analyzes posts on 15 social platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more), including media uploads, queue slots and inbox replies; hosted with OAuth, or runs locally via npx. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 4 |
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4w | 1 |
 | [Fax for Agents](https://github.com/faxforagents/mcp) | Sends and receives faxes for AI agents through the Fax for Agents API, with quotes, human review, delegated policies, inbound faxes and delivery evidence, over stdio or a hosted Streamable HTTP endpoint with a bearer key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
+| [MailVeri MCP](https://github.com/mailveri/mailveri-mcp) | Verifies single emails and bulk lists for AI agents via the MailVeri API: SMTP, catch-all, disposable and role detection. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
@@ -262,6 +264,7 @@ Standout community servers by traction and activity.
 | [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" alt="Java" title="Java"> | 🟢 5w | 0 |
 | [Sports Odds MCP](https://github.com/GeminiGeorge22/sports-odds-mcp) | Live odds from Kambi sportsbooks (BetRivers, Unibet, Paf, Svenska Spel, ATG and more) in one call, with every book's price and the best price per outcome. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [ichi-mcp](https://github.com/bernik-bot/ichi-mcp) | Reads the ICHI internet-wide cyber-health index — current threat band (NORMAL to CRITICAL), numeric score, source health, and recent critical advisories — via three keyless tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [Vulnify](https://github.com/vulnify/vulnify-mcp) | MCP server the agent calls to ask Vulnify before an action; check_action and decide_action return ALLOW, REVIEW or BLOCK (does not run the tool). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1w | 2 |
 
 ## Clients
 
@@ -300,6 +303,7 @@ Core SDKs maintained by the MCP organization.
 | [mcp-go](https://github.com/mark3labs/mcp-go) | Community SDK that inspired the official implementation. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 2d | 9.2k |
 | [go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) | Idiomatic Go API with strong typing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 2mo | 679 |
 | [xmcp](https://github.com/basementstudio/xmcp) | TypeScript framework for building MCP servers with file-based tools, resources, prompts, hot reload, and deployment adapters. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 1.3k |
+| [wakeshift-node](https://github.com/wakeshift/wakeshift-node) | Lets an MCP server wake the AI agents that use it, such as Claude Code, Codex and Cursor, when a job finishes or something happens in its app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [wakeshift-python](https://github.com/wakeshift/wakeshift-python) | Lets an MCP server wake the AI agents that use it, such as Claude Code, Codex and Cursor, when a job finishes or something happens in its app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ## Tools
