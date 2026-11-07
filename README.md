@@ -305,6 +305,7 @@ Core SDKs maintained by the MCP organization.
 | [xmcp](https://github.com/basementstudio/xmcp) | TypeScript framework for building MCP servers with file-based tools, resources, prompts, hot reload, and deployment adapters. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 1.3k |
 | [wakeshift-node](https://github.com/wakeshift/wakeshift-node) | Lets an MCP server wake the AI agents that use it, such as Claude Code, Codex and Cursor, when a job finishes or something happens in its app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [wakeshift-python](https://github.com/wakeshift/wakeshift-python) | Lets an MCP server wake the AI agents that use it, such as Claude Code, Codex and Cursor, when a job finishes or something happens in its app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [wakeshift-go](https://github.com/wakeshift/wakeshift-go) | Lets an MCP server wake the AI agents that use it, such as Claude Code, Codex and Cursor, when a job finishes or something happens in its app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 0d | 0 |
 
 ## Tools
 
