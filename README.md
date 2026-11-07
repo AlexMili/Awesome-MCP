@@ -12,7 +12,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (24)
   - [Databases & Data](#databases--data) (4)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (12)
-  - [Web, Search & Browser](#web-search--browser) (19)
+  - [Web, Search & Browser](#web-search--browser) (20)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (9)
   - [Commerce, Ads & Business](#commerce-ads--business) (19)
@@ -124,6 +124,7 @@ Standout community servers by traction and activity.
 | [AgentSearch](https://github.com/agentsearchhq-coder/agentsearch-mcp) | Real-time web search, URL-to-markdown extraction, and JS page rendering for agents; free keyless search tier, paid calls $0.005 each. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 0 |
 | [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) | New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [Keenable](https://github.com/keenableai/keenable-mcp) | Web search over Keenable's own index and page fetch as clean Markdown, via a hosted Streamable HTTP server that works without an API key. | — | 🟢 0d | 0 |
+| [Portproof](https://github.com/portproofas/portproof-mcp) | Official server for Portproof proxies: reads pricing and countries online, builds proxy URLs and tests connections on the shared mobile 4G/5G and residential pools, checks the GB balance, buys GB traffic and manages private mobile ports; account tools need an API key, and paid actions require explicit confirmation and an idempotency key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
