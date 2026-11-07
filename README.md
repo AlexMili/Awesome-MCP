@@ -14,7 +14,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (12)
   - [Web, Search & Browser](#web-search--browser) (19)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
-  - [Communication & Social](#communication--social) (9)
+  - [Communication & Social](#communication--social) (10)
   - [Commerce, Ads & Business](#commerce-ads--business) (19)
   - [AI, Agents & Memory](#ai-agents--memory) (17)
   - [Media & 3D](#media--3d) (18)
@@ -153,6 +153,7 @@ Standout community servers by traction and activity.
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server) | Schedules, cross-posts and analyzes posts on 15 social platforms (Instagram, TikTok, YouTube, X, LinkedIn, Bluesky and more), including media uploads, queue slots and inbox replies; hosted with OAuth, or runs locally via npx. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 4 |
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4w | 1 |
 | [Fax for Agents](https://github.com/faxforagents/mcp) | Sends and receives faxes for AI agents through the Fax for Agents API, with quotes, human review, delegated policies, inbound faxes and delivery evidence, over stdio or a hosted Streamable HTTP endpoint with a bearer key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
+| [/call-me](https://github.com/radres/call-me) | Rings the user's iPhone so an agent can ask a question out loud and get the spoken answer back as text, keep the line open for follow-ups, or send a text; a hosted remote server with no auth that needs the /call-me iPhone app. | | | |
 
 ### Commerce, Ads & Business
 
