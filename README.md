@@ -15,7 +15,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Web, Search & Browser](#web-search--browser) (20)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
   - [Communication & Social](#communication--social) (9)
-  - [Commerce, Ads & Business](#commerce-ads--business) (19)
+  - [Commerce, Ads & Business](#commerce-ads--business) (20)
   - [AI, Agents & Memory](#ai-agents--memory) (17)
   - [Media & 3D](#media--3d) (18)
   - [Finance & Crypto](#finance--crypto) (12)
@@ -185,6 +185,7 @@ Standout community servers by traction and activity.
 | [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) | Competitor Google ads from the Google Ads Transparency Center: new, running and stopped, with shown dates. Also on PyPI (`uvx google-ads-transparency-mcp-server`). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [Company Social MCP](https://github.com/GeminiGeorge22/company-social-mcp) | Company website or name to LinkedIn, X, YouTube, Instagram and Facebook profiles, each with a confidence score and evidence. Companies only. Also on PyPI (`uvx company-social-mcp`). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [Alpha OSINT Prospector](https://github.com/johnisanerd/alphaosint-prospector) | Local MCP server for B2B prospecting that sources companies from live job postings, enriches them with LinkedIn and Crunchbase data, scores them 0-100 and finds decision-makers, with hard spend caps. Runs on paid Apify Actors. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [SaaSCity](https://github.com/nyyhao/saascity-mcp) | Launch planning for SaaS and AI products: audit a homepage before launch, pick launch directories from 1,600+ by Ahrefs DR, link type and price, and list the product on SaaSCity. Keyless remote server with a stdio bridge. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### AI, Agents & Memory
 
