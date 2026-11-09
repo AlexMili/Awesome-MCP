@@ -188,6 +188,8 @@ Standout community servers by traction and activity.
 | [Alpha OSINT Prospector](https://github.com/johnisanerd/alphaosint-prospector) | Local MCP server for B2B prospecting that sources companies from live job postings, enriches them with LinkedIn and Crunchbase data, scores them 0-100 and finds decision-makers, with hard spend caps. Runs on paid Apify Actors. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 3d | 0 |
 | [SaaSCity](https://github.com/nyyhao/saascity-mcp) | Launch planning for SaaS and AI products: audit a homepage before launch, pick launch directories from 1,600+ by Ahrefs DR, link type and price, and list the product on SaaSCity. Keyless remote server with a stdio bridge. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 1d | 0 |
 
+| [CorpusIQ](https://github.com/CorpusIQ/mcp-manifest) | One governed MCP endpoint for 30+ business systems (Stripe, Shopify, QuickBooks, Google Analytics, Google Ads, Salesforce) with read-only, user-scoped access and source-cited answers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+
 ### AI, Agents & Memory
 
 | Server | Description | Lang | Activity | ⭐ |
