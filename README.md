@@ -11,7 +11,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (26)
   - [Databases & Data](#databases--data) (4)
-  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (13)
+  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (14)
   - [Web, Search & Browser](#web-search--browser) (22)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (11)
   - [Communication & Social](#communication--social) (10)
@@ -101,6 +101,7 @@ Standout community servers by traction and activity.
 | [Skycloak MCP](https://github.com/sky-cloak/skycloak-mcp) | Hosted MCP server for Skycloak, an identity-as-a-service provider with managed Keycloak. Lets agents manage clusters, realms, clients, users and SSO. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 0d | 1 |
 | [CloudGPU MCP](https://github.com/mrhy7176/cloudgpu-mcp) | Lets MCP clients rent a per-minute GPU on CloudGPU: list GPUs and templates, quote the cost, launch with a budget, time and idle limit, run commands, tail logs, transfer files and stop the instance. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [Light Cloud](https://github.com/light-cloud-com/mcp-server) | Deploy and manage apps on the Light Cloud hosting platform: deploy from GitHub or a local folder, environments, logs, metrics, rollbacks, databases, custom domains and billing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 0 |
+| [Lantern Works GPU Prices](https://github.com/connormatthewdouglas/agent-work-stack-deals) | Read-only GPU cloud rental price comparison across about 29 tracked vendors, with a source link and check time on every price, recent price changes and job-cost estimates; no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Web, Search & Browser
 
