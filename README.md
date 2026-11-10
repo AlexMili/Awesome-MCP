@@ -17,7 +17,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Communication & Social](#communication--social) (10)
   - [Commerce, Ads & Business](#commerce-ads--business) (24)
   - [AI, Agents & Memory](#ai-agents--memory) (17)
-  - [Media & 3D](#media--3d) (19)
+  - [Media & 3D](#media--3d) (20)
   - [Finance & Crypto](#finance--crypto) (13)
   - [Other](#other) (14)
 - [Clients](#clients)
@@ -234,6 +234,7 @@ Standout community servers by traction and activity.
 | [YouTube Transcripts](https://github.com/gunnargray-dev/youtube-transcripts-mcp) | Fetches transcripts of public YouTube videos in any caption language, searches YouTube with filters, returns chapters (or derived topic segments) and builds extractive summaries with timestamps; no YouTube API key needed, hosted on Apify or run locally. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 13d | 0 |
 | [MakeAIVideo](https://github.com/makeaivideo-ai/mcp) | Creates short-form AI videos (script, voiceover, AI or stock scenes, captions, music) and posts or schedules them to connected social accounts; hosted HTTP or local stdio, MakeAIVideo account and credits required. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3w | 0 |
 | [Spotify Play Count MCP](https://github.com/GeminiGeorge22/spotify-play-count-mcp) | Spotify play counts for any track, album, artist or playlist link, plus monthly listeners, followers, world rank and top cities for artists. No Spotify login. Also on PyPI (`uvx spotify-play-count-mcp`). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 4d | 0 |
+| [imageat](https://github.com/incendies/imageat-mcp) | Generate and edit images and videos, plus narrated explainers and voiceovers, from a hosted Streamable HTTP endpoint or the official npm package. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
