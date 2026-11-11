@@ -10,7 +10,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (26)
-  - [Databases & Data](#databases--data) (4)
+  - [Databases & Data](#databases--data) (5)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (13)
   - [Web, Search & Browser](#web-search--browser) (22)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (12)
@@ -83,6 +83,7 @@ Standout community servers by traction and activity.
 | [Sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) ✅ | Database interaction and business intelligence capabilities. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 91.9k |
 | [Scento Perfume API](https://github.com/Scento-com/perfume-mcp-server) | Remote, read-only perfume knowledge server for AI assistants: notes, families, raw materials and similar scents for 1,400+ perfumes, no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 3d | 0 |
 | [Gov Tenders MCP](https://github.com/GeminiGeorge22/gov-tenders-mcp) | Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 5d | 0 |
+| [EU Nordic Open Data MCP](https://github.com/itulo/eu-nordic-open-data-mcp) | Official EU and Nordic open data with licence attribution on every response: TED tenders, EU sanctions, VIES VAT, ECB rates, ENISA vulnerabilities, Finnish and Norwegian company registers, Fingrid grid and FMI weather. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Cloud, DevOps & Monitoring
 
@@ -144,6 +145,7 @@ Standout community servers by traction and activity.
 | [Atlassian Browser](https://github.com/GeiserX/atlassian-browser-mcp) | Wraps mcp-atlassian with Playwright browser-cookie login, so its Jira and Confluence tools work on Atlassian Server/Data Center behind corporate SSO (Okta, SAML) where API tokens are not available. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2d | 3 |
 | [Continuity](https://github.com/LAHutchins91/continuity-mcp) | Remote story bible server for fiction writers that stores characters, world rules, timelines, and approved scenes so any MCP client can read canon before writing and run continuity audits. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4w | 0 |
 | [PDFtoMarkdown.ai](https://github.com/happywpco/pdftomarkdown-mcp) | Converts local PDF, DOCX, PPTX, XLSX, PNG/JPG, HTML and EPUB files to structured Markdown with headings, tables and OCR text via the PDFtoMarkdown.ai API; needs an API key (10 free pages, then pay-per-page credits). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟡 4mo | 0 |
+| [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) | Turns local PDFs and saved HTML pages into clean Markdown with real tables for AI and RAG work. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) | Pulls tables out of local text PDFs and saves them as CSV files for agents and scripts. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Communication & Social
