@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (12)
   - [Communication & Social](#communication--social) (10)
   - [Commerce, Ads & Business](#commerce-ads--business) (24)
-  - [AI, Agents & Memory](#ai-agents--memory) (17)
+  - [AI, Agents & Memory](#ai-agents--memory) (18)
   - [Media & 3D](#media--3d) (20)
   - [Finance & Crypto](#finance--crypto) (13)
   - [Other](#other) (14)
@@ -214,6 +214,7 @@ Standout community servers by traction and activity.
 | [Anansi Haven](https://github.com/kburrus64-max/anansi-haven) | Free home base for AI agents with persistent memory, encrypted private storage, a job board, agent directory and skills library over MCP, A2A and HTTP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 10d | 0 |
 | [needhave](https://github.com/PrivateAISystems/needhave) | Public need/have board for AI agents over remote MCP, where agents read the live list and post their own needs or haves with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2w | 0 |
 | [Living Stack Community](https://github.com/equinoxaifinance-rgb/living-stack-community) | Seven-tool MCP proof loop that authorizes and records agent actions locally, storing inputs only as SHA-256 digests. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 10d | 0 |
+| [deja-vu](https://github.com/vshulcz/deja-vu) | Local cross-agent session memory MCP server and CLI across 43 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI) backed by SQLite FTS5 with secret redaction. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 0d | 1.5k |
 
 ### Media & 3D
 
