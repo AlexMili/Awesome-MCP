@@ -13,7 +13,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Databases & Data](#databases--data) (5)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (13)
   - [Web, Search & Browser](#web-search--browser) (22)
-  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (12)
+  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (13)
   - [Communication & Social](#communication--social) (10)
   - [Commerce, Ads & Business](#commerce-ads--business) (24)
   - [AI, Agents & Memory](#ai-agents--memory) (17)
@@ -148,6 +148,7 @@ Standout community servers by traction and activity.
 | [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) | Turns local PDFs and saved HTML pages into clean Markdown with real tables for AI and RAG work. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) | Pulls tables out of local text PDFs and saves them as CSV files for agents and scripts. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [link-check-lite](https://github.com/tidybytetools/link-check-lite) | Checks a list of URLs for HTTP status codes, redirects, and broken links. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) | Splits Markdown into heading-aware chunks with path and line numbers for RAG pipelines. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Communication & Social
 
