@@ -10,7 +10,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (26)
-  - [Databases & Data](#databases--data) (4)
+  - [Databases & Data](#databases--data) (5)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (13)
   - [Web, Search & Browser](#web-search--browser) (22)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (12)
@@ -83,6 +83,7 @@ Standout community servers by traction and activity.
 | [Sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) ✅ | Database interaction and business intelligence capabilities. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 91.9k |
 | [Scento Perfume API](https://github.com/Scento-com/perfume-mcp-server) | Remote, read-only perfume knowledge server for AI assistants: notes, families, raw materials and similar scents for 1,400+ perfumes, no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 3d | 0 |
 | [Gov Tenders MCP](https://github.com/GeminiGeorge22/gov-tenders-mcp) | Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 5d | 0 |
+| [EU Nordic Open Data MCP](https://github.com/itulo/eu-nordic-open-data-mcp) | Official EU and Nordic open data with licence attribution on every response: TED tenders, EU sanctions, VIES VAT, ECB rates, ENISA vulnerabilities, Finnish and Norwegian company registers, Fingrid grid and FMI weather. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Cloud, DevOps & Monitoring
 
