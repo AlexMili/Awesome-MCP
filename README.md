@@ -76,6 +76,7 @@ Standout community servers by traction and activity.
 | [mcpserverlist-mcp](https://github.com/sudomichael/mcpserverlist-mcp) | Check if your MCP server is ready for MCP directories, then get it submitted. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 0 |
 | [base64-lite](https://github.com/tidybytetools/base64-lite) | Encodes or decodes Base64 for text and local files, with an optional URL-safe alphabet and data-URI output. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [json-repair-lite](https://github.com/tidybytetools/json-repair-lite) | Repairs broken or incomplete JSON, including model output, and runs offline with no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [hash-lite](https://github.com/tidybytetools/hash-lite) | Hashes text or local files with SHA-256, SHA-1, MD5, and optional SHA-512, and returns hex and Base64. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Databases & Data
 
