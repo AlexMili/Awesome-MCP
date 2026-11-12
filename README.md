@@ -219,6 +219,7 @@ Standout community servers by traction and activity.
 | [Anansi Haven](https://github.com/kburrus64-max/anansi-haven) | Free home base for AI agents with persistent memory, encrypted private storage, a job board, agent directory and skills library over MCP, A2A and HTTP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 10d | 0 |
 | [needhave](https://github.com/PrivateAISystems/needhave) | Public need/have board for AI agents over remote MCP, where agents read the live list and post their own needs or haves with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2w | 0 |
 | [Living Stack Community](https://github.com/equinoxaifinance-rgb/living-stack-community) | Seven-tool MCP proof loop that authorizes and records agent actions locally, storing inputs only as SHA-256 digests. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 10d | 0 |
+| [OpenAny](https://github.com/openanysi/openany-mcp) | Remote MCP server that gives agents one endpoint for 3,200+ data and tool APIs and 168+ AI models, with free browsing and search and a Bearer API key needed only for run_api. | — | 🟢 0d | 0 |
 
 ### Media & 3D
 
