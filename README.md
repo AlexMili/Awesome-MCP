@@ -75,6 +75,7 @@ Standout community servers by traction and activity.
 | [conductor](https://github.com/fainir/conductor) | MCP server for Claude Code whose 23 tools check their own output in code, with retry and fallback, before returning it. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
 | [mcpserverlist-mcp](https://github.com/sudomichael/mcpserverlist-mcp) | Check if your MCP server is ready for MCP directories, then get it submitted. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 0 |
 | [base64-lite](https://github.com/tidybytetools/base64-lite) | Encodes or decodes Base64 for text and local files, with an optional URL-safe alphabet and data-URI output. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [json-repair-lite](https://github.com/tidybytetools/json-repair-lite) | Repairs broken or incomplete JSON, including model output, and runs offline with no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Databases & Data
 
