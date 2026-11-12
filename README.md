@@ -13,12 +13,12 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Databases & Data](#databases--data) (5)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (13)
   - [Web, Search & Browser](#web-search--browser) (22)
-  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (12)
+  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (13)
   - [Communication & Social](#communication--social) (10)
   - [Commerce, Ads & Business](#commerce-ads--business) (24)
   - [AI, Agents & Memory](#ai-agents--memory) (17)
-  - [Media & 3D](#media--3d) (20)
-  - [Finance & Crypto](#finance--crypto) (14)
+  - [Media & 3D](#media--3d) (21)
+  - [Finance & Crypto](#finance--crypto) (13)
   - [Other](#other) (14)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -74,6 +74,8 @@ Standout community servers by traction and activity.
 | [GhidraLens](https://github.com/hellosverre/ghidralens) | Interactive Ghidra views inside the client: decompile a binary, rename symbols in the live program, and navigate the call graph. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2mo | 0 |
 | [conductor](https://github.com/fainir/conductor) | MCP server for Claude Code whose 23 tools check their own output in code, with retry and fallback, before returning it. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
 | [mcpserverlist-mcp](https://github.com/sudomichael/mcpserverlist-mcp) | Check if your MCP server is ready for MCP directories, then get it submitted. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 4d | 0 |
+| [base64-lite](https://github.com/tidybytetools/base64-lite) | Encodes or decodes Base64 for text and local files, with an optional URL-safe alphabet and data-URI output. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [json-repair-lite](https://github.com/tidybytetools/json-repair-lite) | Repairs broken or incomplete JSON, including model output, and runs offline with no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Databases & Data
 
@@ -148,6 +150,8 @@ Standout community servers by traction and activity.
 | [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) | Turns local PDFs and saved HTML pages into clean Markdown with real tables for AI and RAG work. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) | Pulls tables out of local text PDFs and saves them as CSV files for agents and scripts. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [link-check-lite](https://github.com/tidybytetools/link-check-lite) | Checks a list of URLs for HTTP status codes, redirects, and broken links. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) | Splits Markdown into heading-aware chunks with path and line numbers for RAG pipelines. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) | Turns key:value notes, CSV/TSV, and Markdown tables into typed JSON for local agent workflows. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Communication & Social
 
@@ -239,6 +243,7 @@ Standout community servers by traction and activity.
 | [MakeAIVideo](https://github.com/makeaivideo-ai/mcp) | Creates short-form AI videos (script, voiceover, AI or stock scenes, captions, music) and posts or schedules them to connected social accounts; hosted HTTP or local stdio, MakeAIVideo account and credits required. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3w | 0 |
 | [Spotify Play Count MCP](https://github.com/GeminiGeorge22/spotify-play-count-mcp) | Spotify play counts for any track, album, artist or playlist link, plus monthly listeners, followers, world rank and top cities for artists. No Spotify login. Also on PyPI (`uvx spotify-play-count-mcp`). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 4d | 0 |
 | [imageat](https://github.com/incendies/imageat-mcp) | Generate and edit images and videos, plus narrated explainers and voiceovers, from a hosted Streamable HTTP endpoint or the official npm package. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [Wiro AI](https://github.com/wiroai/Wiro-MCP) | Searches, prices and runs image, video, audio and LLM models on Wiro AI, chains them into workflows, and deploys and messages your own AI agents. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
