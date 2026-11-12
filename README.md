@@ -19,7 +19,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [AI, Agents & Memory](#ai-agents--memory) (17)
   - [Media & 3D](#media--3d) (21)
   - [Finance & Crypto](#finance--crypto) (13)
-  - [Other](#other) (15)
+  - [Other](#other) (16)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -285,6 +285,7 @@ Standout community servers by traction and activity.
 | [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" alt="Java" title="Java"> | 🟢 6w | 0 |
 | [ichi-mcp](https://github.com/bernik-bot/ichi-mcp) | Reads the ICHI internet-wide cyber-health index — current threat band (NORMAL to CRITICAL), numeric score, source health, and recent critical advisories — via three keyless tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [quantavane-mcp](https://github.com/arhancanli/quantavane-mcp) | Checks candidate solutions to open problems in mathematics exactly and offline: about 150,000 problems with their best known values, sources and checkers, run in a sandbox. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [GridZen Verification](https://github.com/immurray/gridzen-developer-kit) | Research and synthetic MCP tools for planning identity-verification coverage and exercising sandbox decision results. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ## Clients
 
