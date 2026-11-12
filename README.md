@@ -151,6 +151,7 @@ Standout community servers by traction and activity.
 | [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) | Pulls tables out of local text PDFs and saves them as CSV files for agents and scripts. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [link-check-lite](https://github.com/tidybytetools/link-check-lite) | Checks a list of URLs for HTTP status codes, redirects, and broken links. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) | Splits Markdown into heading-aware chunks with path and line numbers for RAG pipelines. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) | Turns key:value notes, CSV/TSV, and Markdown tables into typed JSON for local agent workflows. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Communication & Social
 
