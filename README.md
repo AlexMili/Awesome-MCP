@@ -11,7 +11,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (26)
   - [Databases & Data](#databases--data) (5)
-  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (13)
+  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (14)
   - [Web, Search & Browser](#web-search--browser) (23)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (13)
   - [Communication & Social](#communication--social) (10)
@@ -19,7 +19,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [AI, Agents & Memory](#ai-agents--memory) (17)
   - [Media & 3D](#media--3d) (21)
   - [Finance & Crypto](#finance--crypto) (13)
-  - [Other](#other) (15)
+  - [Other](#other) (16)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -105,6 +105,7 @@ Standout community servers by traction and activity.
 | [Skycloak MCP](https://github.com/sky-cloak/skycloak-mcp) | Hosted MCP server for Skycloak, an identity-as-a-service provider with managed Keycloak. Lets agents manage clusters, realms, clients, users and SSO. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 0d | 1 |
 | [CloudGPU MCP](https://github.com/mrhy7176/cloudgpu-mcp) | Lets MCP clients rent a per-minute GPU on CloudGPU: list GPUs and templates, quote the cost, launch with a budget, time and idle limit, run commands, tail logs, transfer files and stop the instance. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 | [Light Cloud](https://github.com/light-cloud-com/mcp-server) | Deploy and manage apps on the Light Cloud hosting platform: deploy from GitHub or a local folder, environments, logs, metrics, rollbacks, databases, custom domains and billing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 0 |
+| [Lantern Works GPU Prices](https://github.com/connormatthewdouglas/agent-work-stack-deals) | Read-only GPU cloud rental price comparison across about 29 tracked vendors, with a source link and check time on every price, recent price changes and job-cost estimates; no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Web, Search & Browser
 
@@ -286,6 +287,7 @@ Standout community servers by traction and activity.
 | [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | Official server for the WhoisFreaks APIs with tools for live and historical WHOIS, reverse WHOIS, DNS lookup and history, IP and ASN WHOIS, domain availability, subdomains and SSL; requires an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" alt="Java" title="Java"> | 🟢 6w | 0 |
 | [ichi-mcp](https://github.com/bernik-bot/ichi-mcp) | Reads the ICHI internet-wide cyber-health index — current threat band (NORMAL to CRITICAL), numeric score, source health, and recent critical advisories — via three keyless tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [quantavane-mcp](https://github.com/arhancanli/quantavane-mcp) | Checks candidate solutions to open problems in mathematics exactly and offline: about 150,000 problems with their best known values, sources and checkers, run in a sandbox. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [GridZen Verification](https://github.com/immurray/gridzen-developer-kit) | Research and synthetic MCP tools for planning identity-verification coverage and exercising sandbox decision results. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ## Clients
 
