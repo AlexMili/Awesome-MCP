@@ -77,7 +77,7 @@ Standout community servers by traction and activity.
 | [base64-lite](https://github.com/tidybytetools/base64-lite) | Encodes or decodes Base64 for text and local files, with an optional URL-safe alphabet and data-URI output. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [json-repair-lite](https://github.com/tidybytetools/json-repair-lite) | Repairs broken or incomplete JSON, including model output, and runs offline with no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [hash-lite](https://github.com/tidybytetools/hash-lite) | Hashes text or local files with SHA-256, SHA-1, MD5, and optional SHA-512, and returns hex and Base64. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
-| [unslop](https://github.com/avivgerz-hue/unslop) | Detects and fixes AI-generated code slop with 72 rules, exposed to MCP clients through 4 tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [unslop](https://github.com/avivgerz-hue/unslop) | Audits UI code for AI-generated design slop with 72 rules and generates refactor plans, exposed through 4 tools. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Databases & Data
 
