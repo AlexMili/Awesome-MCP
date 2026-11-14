@@ -134,6 +134,7 @@ Standout community servers by traction and activity.
 | [Portproof](https://github.com/portproofas/portproof-mcp) | Official server for Portproof proxies: reads pricing and countries online, builds proxy URLs and tests connections on the shared mobile 4G/5G and residential pools, checks the GB balance, buys GB traffic and manages private mobile ports; account tools need an API key, and paid actions require explicit confirmation and an idempotency key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 4w | 0 |
 | [Bowmark](https://github.com/bowmark-ai/mcp) | Live, structured data from 750+ websites (Amazon, LinkedIn, YouTube, Airbnb and more). The agent reads the function library with `get_library`, sends a short script to `run`, and gets typed results back; free $10 to start. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 | [ATS Zero-Browser Gateway](https://github.com/ginugokz/ats-zero-browser-gateway) | Jobs from Workday, Greenhouse, Lever and Ashby career sites as normalized JSON, with change tracking. | — | 🟢 0d | 0 |
+| [Scrapewise](https://github.com/BEBOTECH-OU/scrapewise-mcp) | Remote MCP server that scrapes, cleans and matches product and price data from any website. | — | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
