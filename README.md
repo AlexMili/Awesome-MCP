@@ -14,7 +14,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (14)
   - [Web, Search & Browser](#web-search--browser) (23)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (13)
-  - [Communication & Social](#communication--social) (10)
+  - [Communication & Social](#communication--social) (11)
   - [Commerce, Ads & Business](#commerce-ads--business) (24)
   - [AI, Agents & Memory](#ai-agents--memory) (17)
   - [Media & 3D](#media--3d) (21)
@@ -170,6 +170,7 @@ Standout community servers by traction and activity.
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5w | 1 |
 | [MailVeri MCP](https://github.com/mailveri/mailveri-mcp) | Verifies single emails and bulk lists for AI agents via the MailVeri API: SMTP, catch-all, disposable and role detection. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 5w | 1 |
 | [Fax for Agents](https://github.com/faxforagents/mcp) | Sends and receives faxes for AI agents through the Fax for Agents API, with quotes, human review, delegated policies, inbound faxes and delivery evidence, over stdio or a hosted Streamable HTTP endpoint with a bearer key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [Campfire SMS](https://github.com/campfiresms/campfire-mcp) | Hosted two-way SMS bridge: your coding agent texts you when it needs an answer, and you reply by SMS. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
