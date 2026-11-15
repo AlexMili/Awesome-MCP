@@ -17,7 +17,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Communication & Social](#communication--social) (10)
   - [Commerce, Ads & Business](#commerce-ads--business) (24)
   - [AI, Agents & Memory](#ai-agents--memory) (17)
-  - [Media & 3D](#media--3d) (21)
+  - [Media & 3D](#media--3d) (22)
   - [Finance & Crypto](#finance--crypto) (13)
   - [Other](#other) (16)
 - [Clients](#clients)
@@ -248,6 +248,7 @@ Standout community servers by traction and activity.
 | [Spotify Play Count MCP](https://github.com/GeminiGeorge22/spotify-play-count-mcp) | Spotify play counts for any track, album, artist or playlist link, plus monthly listeners, followers, world rank and top cities for artists. No Spotify login. Also on PyPI (`uvx spotify-play-count-mcp`). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 4d | 0 |
 | [imageat](https://github.com/incendies/imageat-mcp) | Generate and edit images and videos, plus narrated explainers and voiceovers, from a hosted Streamable HTTP endpoint or the official npm package. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Wiro AI](https://github.com/wiroai/Wiro-MCP) | Searches, prices and runs image, video, audio and LLM models on Wiro AI, chains them into workflows, and deploys and messages your own AI agents. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
+| [SightRadar Face Recognition API MCP](https://github.com/sightradar-hq/sightradar-mcp) | Official MCP server for the SightRadar face recognition API: index photos, find every photo of a person from one selfie, compare and detect faces, and run batches of photo URLs; hosted HTTP with OAuth or local stdio with an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Finance & Crypto
 
