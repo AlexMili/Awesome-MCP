@@ -13,7 +13,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Databases & Data](#databases--data) (5)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (14)
   - [Web, Search & Browser](#web-search--browser) (23)
-  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (16)
+  - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (17)
   - [Communication & Social](#communication--social) (10)
   - [Commerce, Ads & Business](#commerce-ads--business) (25)
   - [AI, Agents & Memory](#ai-agents--memory) (18)
@@ -156,6 +156,7 @@ Standout community servers by traction and activity.
 | [link-check-lite](https://github.com/tidybytetools/link-check-lite) | Checks a list of URLs for HTTP status codes, redirects, and broken links. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 4d | 0 |
 | [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) | Splits Markdown into heading-aware chunks with path and line numbers for RAG pipelines. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 4d | 0 |
 | [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) | Turns key:value notes, CSV/TSV, and Markdown tables into typed JSON for local agent workflows. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 4d | 0 |
+| [Gesher](https://github.com/EphraimElgrabli/gesher) | Local stdio MCP servers for seven Apple apps on a Mac (Reminders, Calendar, Contacts, Notes, Maps, Weather and Freeform), including Notes tables, Reminders smart lists and Freeform boards; macOS 26+ on Apple silicon, experimental. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="18" alt="Swift" title="Swift"> | 🟢 0d | 0 |
 
 ### Communication & Social
 
