@@ -18,7 +18,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Commerce, Ads & Business](#commerce-ads--business) (25)
   - [AI, Agents & Memory](#ai-agents--memory) (18)
   - [Media & 3D](#media--3d) (21)
-  - [Finance & Crypto](#finance--crypto) (15)
+  - [Finance & Crypto](#finance--crypto) (16)
   - [Other](#other) (16)
 - [Clients](#clients)
 - [SDKs](#sdks)
@@ -274,6 +274,7 @@ Standout community servers by traction and activity.
 | [OMX](https://github.com/Lumen-Founder/omx) | Non-custodial Hyperliquid perps execution for AI agents: pre-trade limits, human approval, kill switch, audit log; keyless demo via `uvx omx-hyperliquid`; optional disclosed 1 bp builder fee. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 10d | 0 |
 | [Trading Signals MCP](https://github.com/gdietsch/trading-signals-mcp) | Pay-per-call market data for AI agents (ES futures event-risk gate, SEC insider buys, and AI trade briefs), with a free HTTP API tier (100 calls/mo via API key) or USDC pay-per-call via x402 ($0.005-$0.10). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 1d | 0 |
 | [ExitValue M&A Multiples](https://github.com/nickcals/exitvalue-mcp) | Read-only lookup of median and interquartile EV/EBITDA and EV/Revenue M&A multiples by industry, deal size and deal year from disclosed transactions; cells under 10 deals are withheld. Runs locally over stdio or as a hosted Streamable HTTP endpoint with no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [Solana Rent & Rug Shield](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp) | Pre-buy 10-layer Solana SPL and Token-2022 anti-rug token audit, Layer-9 Inner-CPI transaction drainer simulator, and read-only wallet ATA SOL rent scanner; runs locally over stdio or as a hosted Streamable HTTP endpoint with 10 free pings and native Solana x402 micropayments. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Other
 
