@@ -173,6 +173,7 @@ Standout community servers by traction and activity.
 | [Fax for Agents](https://github.com/faxforagents/mcp) | Sends and receives faxes for AI agents through the Fax for Agents API, with quotes, human review, delegated policies, inbound faxes and delivery evidence, over stdio or a hosted Streamable HTTP endpoint with a bearer key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Campfire SMS](https://github.com/campfiresms/campfire-mcp) | Hosted two-way SMS bridge: your coding agent texts you when it needs an answer, and you reply by SMS. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2w | 0 |
 | [/call-me](https://github.com/radres/call-me) | Rings the user's phone (iPhone or Android) so an agent can ask a question out loud and get the spoken answer back as text, keep the line open for follow-ups, or send a text; a hosted remote server with no auth that needs the /call-me phone app. | | | |
+| [API-Supp](https://github.com/yehudashtein/wa-bridge-mcp) | WhatsApp MCP server that lets Claude read and send messages through the hosted API-Supp bridge, needs a tenant token. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
