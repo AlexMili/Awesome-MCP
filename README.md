@@ -12,14 +12,14 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (30)
   - [Databases & Data](#databases--data) (5)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (14)
-  - [Web, Search & Browser](#web-search--browser) (23)
+  - [Web, Search & Browser](#web-search--browser) (24)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (16)
-  - [Communication & Social](#communication--social) (10)
+  - [Communication & Social](#communication--social) (11)
   - [Commerce, Ads & Business](#commerce-ads--business) (25)
   - [AI, Agents & Memory](#ai-agents--memory) (18)
   - [Media & 3D](#media--3d) (21)
-  - [Finance & Crypto](#finance--crypto) (14)
-  - [Other](#other) (17)
+  - [Finance & Crypto](#finance--crypto) (15)
+  - [Other](#other) (16)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -135,6 +135,7 @@ Standout community servers by traction and activity.
 | [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) | New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 5d | 0 |
 | [Portproof](https://github.com/portproofas/portproof-mcp) | Official server for Portproof proxies: reads pricing and countries online, builds proxy URLs and tests connections on the shared mobile 4G/5G and residential pools, checks the GB balance, buys GB traffic and manages private mobile ports; account tools need an API key, and paid actions require explicit confirmation and an idempotency key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 5w | 0 |
 | [ATS Zero-Browser Gateway](https://github.com/ginugokz/ats-zero-browser-gateway) | Jobs from Workday, Greenhouse, Lever and Ashby career sites as normalized JSON, with change tracking. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 3w | 0 |
+| [search-console-mcp](https://github.com/sudomichael/search-console-mcp) | Google Search Console for any MCP client - 30-second login, no Google Cloud project. | — | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
@@ -171,6 +172,7 @@ Standout community servers by traction and activity.
 | [SocialRouter](https://github.com/socialrouter/mcp) | Unified API to fetch social media data across LinkedIn, Instagram, X, Reddit, TikTok, YouTube, and more, with automatic provider failover. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 6w | 1 |
 | [Fax for Agents](https://github.com/faxforagents/mcp) | Sends and receives faxes for AI agents through the Fax for Agents API, with quotes, human review, delegated policies, inbound faxes and delivery evidence, over stdio or a hosted Streamable HTTP endpoint with a bearer key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Campfire SMS](https://github.com/campfiresms/campfire-mcp) | Hosted two-way SMS bridge: your coding agent texts you when it needs an answer, and you reply by SMS. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2w | 0 |
+| [/call-me](https://github.com/radres/call-me) | Rings the user's phone (iPhone or Android) so an agent can ask a question out loud and get the spoken answer back as text, keep the line open for follow-ups, or send a text; a hosted remote server with no auth that needs the /call-me phone app. | | | |
 
 ### Commerce, Ads & Business
 
@@ -269,6 +271,7 @@ Standout community servers by traction and activity.
 | [Vérif Entreprise FR](https://github.com/YILDIZ-TOLGA/verif-entreprise-mcp) | French company verification (KYB) by SIREN from official data: legal status, insolvency notices (BODACC), RGE, LEI and asset-freeze screening, plus monitoring with signed webhooks. A free preview tool; the other tools are paid per call in USDC on Base via x402, with no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 11d | 0 |
 | [OMX](https://github.com/Lumen-Founder/omx) | Non-custodial Hyperliquid perps execution for AI agents: pre-trade limits, human approval, kill switch, audit log; keyless demo via `uvx omx-hyperliquid`; optional disclosed 1 bp builder fee. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 10d | 0 |
 | [Trading Signals MCP](https://github.com/gdietsch/trading-signals-mcp) | Pay-per-call market data for AI agents (ES futures event-risk gate, SEC insider buys, and AI trade briefs), with a free HTTP API tier (100 calls/mo via API key) or USDC pay-per-call via x402 ($0.005-$0.10). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 1d | 0 |
+| [ExitValue M&A Multiples](https://github.com/nickcals/exitvalue-mcp) | Read-only lookup of median and interquartile EV/EBITDA and EV/Revenue M&A multiples by industry, deal size and deal year from disclosed transactions; cells under 10 deals are withheld. Runs locally over stdio or as a hosted Streamable HTTP endpoint with no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Other
 
