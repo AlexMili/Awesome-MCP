@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (16)
   - [Communication & Social](#communication--social) (11)
   - [Commerce, Ads & Business](#commerce-ads--business) (25)
-  - [AI, Agents & Memory](#ai-agents--memory) (18)
+  - [AI, Agents & Memory](#ai-agents--memory) (19)
   - [Media & 3D](#media--3d) (21)
   - [Finance & Crypto](#finance--crypto) (16)
   - [Other](#other) (16)
@@ -228,6 +228,7 @@ Standout community servers by traction and activity.
 | [Anansi Haven](https://github.com/kburrus64-max/anansi-haven) | Free home base for AI agents with persistent memory, encrypted private storage, a job board, agent directory and skills library over MCP, A2A and HTTP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2w | 0 |
 | [needhave](https://github.com/PrivateAISystems/needhave) | Public need/have board for AI agents over remote MCP, where agents read the live list and post their own needs or haves with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 3w | 0 |
 | [Living Stack Community](https://github.com/equinoxaifinance-rgb/living-stack-community) | Seven-tool MCP proof loop that authorizes and records agent actions locally, storing inputs only as SHA-256 digests. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2w | 0 |
+| [deja-vu](https://github.com/vshulcz/deja-vu) | Local cross-agent session memory MCP server and CLI across 48 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI) backed by a local inverted index with secret redaction. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 0d | 1.5k |
 
 ### Media & 3D
 
@@ -274,6 +275,7 @@ Standout community servers by traction and activity.
 | [OMX](https://github.com/Lumen-Founder/omx) | Non-custodial Hyperliquid perps execution for AI agents: pre-trade limits, human approval, kill switch, audit log; keyless demo via `uvx omx-hyperliquid`; optional disclosed 1 bp builder fee. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 10d | 0 |
 | [Trading Signals MCP](https://github.com/gdietsch/trading-signals-mcp) | Pay-per-call market data for AI agents (ES futures event-risk gate, SEC insider buys, and AI trade briefs), with a free HTTP API tier (100 calls/mo via API key) or USDC pay-per-call via x402 ($0.005-$0.10). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 1d | 0 |
 | [ExitValue M&A Multiples](https://github.com/nickcals/exitvalue-mcp) | Read-only lookup of median and interquartile EV/EBITDA and EV/Revenue M&A multiples by industry, deal size and deal year from disclosed transactions; cells under 10 deals are withheld. Runs locally over stdio or as a hosted Streamable HTTP endpoint with no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [Solana Rent & Rug Shield](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp) | Pre-buy 10-layer Solana SPL and Token-2022 anti-rug token audit, Layer-9 Inner-CPI transaction drainer simulator, and read-only wallet ATA SOL rent scanner; runs locally over stdio or as a hosted Streamable HTTP endpoint with 10 free pings and native Solana x402 micropayments. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 | [Prime Rate SOFR Fed Funds Rate Today MCP](https://github.com/theluckystrike/prime-rate-sofr-fed-funds-rate-today-mcp) | Today's prime rate, SOFR averages and fed funds target and effective rate from the New York Fed, with FOMC rate changes and a loan rate calculator; hosted, read-only, no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 0d | 0 |
 
 ### Other
