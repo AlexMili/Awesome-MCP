@@ -14,7 +14,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (14)
   - [Web, Search & Browser](#web-search--browser) (24)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (16)
-  - [Communication & Social](#communication--social) (11)
+  - [Communication & Social](#communication--social) (12)
   - [Commerce, Ads & Business](#commerce-ads--business) (25)
   - [AI, Agents & Memory](#ai-agents--memory) (19)
   - [Media & 3D](#media--3d) (21)
@@ -175,6 +175,7 @@ Standout community servers by traction and activity.
 | [Campfire SMS](https://github.com/campfiresms/campfire-mcp) | Hosted two-way SMS bridge: your coding agent texts you when it needs an answer, and you reply by SMS. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2w | 0 |
 | [/call-me](https://github.com/radres/call-me) | Rings the user's phone (iPhone or Android) so an agent can ask a question out loud and get the spoken answer back as text, keep the line open for follow-ups, or send a text; a hosted remote server with no auth that needs the /call-me phone app. | | | |
 | [API-Supp](https://github.com/yehudashtein/wa-bridge-mcp) | WhatsApp MCP server that lets Claude read and send messages through the hosted API-Supp bridge, needs a tenant token. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
+| [Social Fetch](https://github.com/social-freak-ltd/socialfetch-mcp) | Fetches live public social data (profiles, posts, comments, transcripts and search) from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more; hosted with OAuth, or runs locally over stdio with an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Commerce, Ads & Business
 
