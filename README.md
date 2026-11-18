@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (16)
   - [Communication & Social](#communication--social) (11)
   - [Commerce, Ads & Business](#commerce-ads--business) (25)
-  - [AI, Agents & Memory](#ai-agents--memory) (18)
+  - [AI, Agents & Memory](#ai-agents--memory) (19)
   - [Media & 3D](#media--3d) (21)
   - [Finance & Crypto](#finance--crypto) (15)
   - [Other](#other) (16)
@@ -228,6 +228,7 @@ Standout community servers by traction and activity.
 | [Anansi Haven](https://github.com/kburrus64-max/anansi-haven) | Free home base for AI agents with persistent memory, encrypted private storage, a job board, agent directory and skills library over MCP, A2A and HTTP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2w | 0 |
 | [needhave](https://github.com/PrivateAISystems/needhave) | Public need/have board for AI agents over remote MCP, where agents read the live list and post their own needs or haves with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 3w | 0 |
 | [Living Stack Community](https://github.com/equinoxaifinance-rgb/living-stack-community) | Seven-tool MCP proof loop that authorizes and records agent actions locally, storing inputs only as SHA-256 digests. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 2w | 0 |
+| [deja-vu](https://github.com/vshulcz/deja-vu) | Local cross-agent session memory MCP server and CLI across 48 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI) backed by a local inverted index with secret redaction. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 0d | 1.5k |
 
 ### Media & 3D
 
