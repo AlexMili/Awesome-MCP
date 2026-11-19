@@ -15,7 +15,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Web, Search & Browser](#web-search--browser) (24)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (16)
   - [Communication & Social](#communication--social) (12)
-  - [Commerce, Ads & Business](#commerce-ads--business) (25)
+  - [Commerce, Ads & Business](#commerce-ads--business) (26)
   - [AI, Agents & Memory](#ai-agents--memory) (19)
   - [Media & 3D](#media--3d) (21)
   - [Finance & Crypto](#finance--crypto) (16)
@@ -206,6 +206,7 @@ Standout community servers by traction and activity.
 | [Alpha OSINT Prospector](https://github.com/johnisanerd/alphaosint-prospector) | Local MCP server for B2B prospecting that sources companies from live job postings, enriches them with LinkedIn and Crunchbase data, scores them 0-100 and finds decision-makers, with hard spend caps. Runs on paid Apify Actors. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 10d | 0 |
 | [SaaSCity](https://github.com/nyyhao/saascity-mcp) | Launch planning for SaaS and AI products: audit a homepage before launch, pick launch directories from 1,600+ by Ahrefs DR, link type and price, and list the product on SaaSCity. Keyless remote server with a stdio bridge. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 8d | 0 |
 | [PlushSource](https://github.com/quickman924/plushsource-mcp) | Searches, filters, and compares custom plush manufacturers listed in a local directory. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 0 |
+| [Car Listing Check](https://github.com/TRW123123/car-listing-check-mcp) | Remote MCP server (no auth) that checks dealer vehicle listings for completeness and presentation and returns a score with prioritised fixes. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### AI, Agents & Memory
 
