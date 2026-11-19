@@ -88,6 +88,7 @@ Standout community servers by traction and activity.
 | [Gov Tenders MCP](https://github.com/GeminiGeorge22/gov-tenders-mcp) | Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2d | 1 |
 | [EU Nordic Open Data MCP](https://github.com/itulo/eu-nordic-open-data-mcp) | Official EU and Nordic open data with licence attribution on every response: TED tenders, EU sanctions, VIES VAT, ECB rates, ENISA vulnerabilities, Finnish and Norwegian company registers, Fingrid grid and FMI weather. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 6d | 1 |
 | [Scento Perfume API](https://github.com/Scento-com/perfume-mcp-server) | Remote, read-only perfume knowledge server for AI assistants: notes, families, raw materials and similar scents for 1,400+ perfumes, no API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 10d | 0 |
+| [10ML Perfume Finder](https://github.com/10ml-com/perfume-finder-mcp) | Remote, read-only perfume knowledge server for AI assistants: notes, accords and families for 6,000+ perfumes and similar scents, no API key. | — | 🟢 0d | 0 |
 
 ### Cloud, DevOps & Monitoring
 
