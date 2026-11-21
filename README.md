@@ -12,7 +12,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (30)
   - [Databases & Data](#databases--data) (5)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (14)
-  - [Web, Search & Browser](#web-search--browser) (24)
+  - [Web, Search & Browser](#web-search--browser) (25)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (16)
   - [Communication & Social](#communication--social) (12)
   - [Commerce, Ads & Business](#commerce-ads--business) (25)
@@ -136,6 +136,7 @@ Standout community servers by traction and activity.
 | [Portproof](https://github.com/portproofas/portproof-mcp) | Official server for Portproof proxies: reads pricing and countries online, builds proxy URLs and tests connections on the shared mobile 4G/5G and residential pools, checks the GB balance, buys GB traffic and manages private mobile ports; account tools need an API key, and paid actions require explicit confirmation and an idempotency key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 5w | 0 |
 | [ATS Zero-Browser Gateway](https://github.com/ginugokz/ats-zero-browser-gateway) | Jobs from Workday, Greenhouse, Lever and Ashby career sites as normalized JSON, with change tracking. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 3w | 0 |
 | [search-console-mcp](https://github.com/sudomichael/search-console-mcp) | Google Search Console for any MCP client - 30-second login, no Google Cloud project. | — | 🟢 0d | 0 |
+| [Persqo](https://github.com/YaakovTzedek/persqo-mcp) | Official MCP server that runs AI persona tests on a web app and returns prioritized findings and fix prompts. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
