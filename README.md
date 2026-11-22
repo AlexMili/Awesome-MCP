@@ -158,6 +158,7 @@ Standout community servers by traction and activity.
 | [link-check-lite](https://github.com/tidybytetools/link-check-lite) | Checks a list of URLs for HTTP status codes, redirects, and broken links. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 4d | 0 |
 | [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) | Splits Markdown into heading-aware chunks with path and line numbers for RAG pipelines. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 5d | 0 |
 | [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) | Turns key:value notes, CSV/TSV, and Markdown tables into typed JSON for local agent workflows. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 5d | 0 |
+| [JustFill](https://github.com/mrmaciej1/justfill-mcp) | Detects, visually previews, and fills fields on flat, scanned, or AcroForm PDF forms via remote Streamable HTTP or local stdio, with reusable templates. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Communication & Social
 
