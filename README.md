@@ -11,7 +11,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (30)
   - [Databases & Data](#databases--data) (5)
-  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (14)
+  - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (15)
   - [Web, Search & Browser](#web-search--browser) (24)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (17)
   - [Communication & Social](#communication--social) (13)
@@ -107,6 +107,7 @@ Standout community servers by traction and activity.
 | [gpunz-mcp](https://github.com/gpunz/gpunz-mcp) | MCP server for the gpu.nz GPU cloud: search GPUs with live prices, estimate VRAM, and launch, monitor and stop GPU servers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 4w | 1 |
 | [Skycloak MCP](https://github.com/sky-cloak/skycloak-mcp) | Hosted MCP server for Skycloak, an identity-as-a-service provider with managed Keycloak. Lets agents manage clusters, realms, clients, users and SSO. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 1d | 1 |
 | [Light Cloud](https://github.com/light-cloud-com/mcp-server) | Deploy and manage apps on the Light Cloud hosting platform: deploy from GitHub or a local folder, environments, logs, metrics, rollbacks, databases, custom domains and billing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
+| [Embarko](https://github.com/walkover-mcp/embarko) | Hosted remote MCP server that deploys and hosts AI-built apps and websites and returns a live URL, with no DevOps setup. | — | 🟢 0d | 0 |
 
 ### Web, Search & Browser
 
