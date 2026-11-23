@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (17)
   - [Communication & Social](#communication--social) (13)
   - [Commerce, Ads & Business](#commerce-ads--business) (25)
-  - [AI, Agents & Memory](#ai-agents--memory) (20)
+  - [AI, Agents & Memory](#ai-agents--memory) (21)
   - [Media & 3D](#media--3d) (21)
   - [Finance & Crypto](#finance--crypto) (17)
   - [Other](#other) (16)
@@ -231,6 +231,7 @@ Standout community servers by traction and activity.
 | [needhave](https://github.com/PrivateAISystems/needhave) | Public need/have board for AI agents over remote MCP, where agents read the live list and post their own needs or haves with no account or API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 4w | 0 |
 | [Living Stack Community](https://github.com/equinoxaifinance-rgb/living-stack-community) | Seven-tool MCP proof loop that authorizes and records agent actions locally, storing inputs only as SHA-256 digests. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 3w | 0 |
 | [nogpu-mcp](https://github.com/doronp/nogpu-mcp) | Measures how many of your LLM's recurring classification or routing decisions a small CPU model can take alone, by calling the free report of NoGPU, the author's own hosted service (keeping the model is $99 one-time). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 4d | 0 |
+| [Selvedge](https://github.com/masondelan/selvedge) | Local stdio MCP server and CLI for saving coding decisions, reasons, and rejected approaches in SQLite and retrieving them across sessions. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Media & 3D
 
