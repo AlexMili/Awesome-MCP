@@ -1,0 +1,62 @@
+name: Check repository quality
+
+# Closes a PR whose repository is too young, too little starred, inactive,
+# archived, missing or unlicensed (thresholds: scripts/check_repo.py).
+# pull_request_target runs this workflow and the checker as they exist on the
+# base branch, so a PR cannot edit them to pass its own check. The PR's code is
+# never checked out or executed: only its diff is read, as text.
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+
+jobs:
+  check-repo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out base branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch PR diff
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" > "$RUNNER_TEMP/pr.diff"
+
+      - name: Check repository
+        id: repo
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set +e
+          python3 scripts/check_repo.py --diff "$RUNNER_TEMP/pr.diff" --readme README.md | tee "$RUNNER_TEMP/repo-check.txt"
+          code=${PIPESTATUS[0]}
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # 0 accepted, 1 rejected, 3 GitHub API unavailable (never closes).
+          [ "$code" = "0" ] || [ "$code" = "1" ] || [ "$code" = "3" ]
+
+      - name: Close PR if repository is rejected
+        if: steps.repo.outputs.code == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          {
+            echo "Thanks for the submission! To keep the list high quality, a repository must meet the minimum requirements below before it can be listed:"
+            echo
+            grep '^  REPO_' "$RUNNER_TEMP/repo-check.txt" | sed -E 's/^  REPO_[A-Z_]+: /- /'
+            echo
+            echo "Feel free to open a new pull request once these are met. See [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md)."
+          } > "$RUNNER_TEMP/comment.md"
+          gh pr close "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --comment "$(cat "$RUNNER_TEMP/comment.md")"
