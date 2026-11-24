@@ -12,7 +12,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (17)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (7)
-  - [Web, Search & Browser](#web-search--browser) (8)
+  - [Web, Search & Browser](#web-search--browser) (9)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (6)
   - [Communication & Social](#communication--social) (7)
   - [Commerce, Ads & Business](#commerce-ads--business) (3)
@@ -97,6 +97,7 @@ Standout community servers by traction and activity.
 | [Kagi](https://github.com/ac3xx/mcp-servers-kagi) | A Model Context Protocol server implementation for Kagi's API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🔴 1y | 44 |
 | [newsmcp](https://github.com/pranciskus/newsmcp) | Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 8mo | 34 |
 | [Arcmira: YouTube Transcript Search](https://github.com/arcmira/mcp) | Searches indexed YouTube transcripts for timestamped quotes, speaker appearances, sponsors, and recommendations. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 33 |
+| [You.com](https://github.com/youdotcom-oss/mcp) | Hosted web search MCP that works without an API key, about 100 searches a day. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 0 |
 
 ### Productivity, Docs & Knowledge
 
