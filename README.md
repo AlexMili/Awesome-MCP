@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (6)
   - [Communication & Social](#communication--social) (7)
   - [Commerce, Ads & Business](#commerce-ads--business) (3)
-  - [AI, Agents & Memory](#ai-agents--memory) (10)
+  - [AI, Agents & Memory](#ai-agents--memory) (11)
   - [Media & 3D](#media--3d) (6)
   - [Finance & Crypto](#finance--crypto) (2)
   - [Other](#other) (7)
@@ -144,6 +144,7 @@ Standout community servers by traction and activity.
 | [Mnemosyne OS](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS/tree/main/packages/mcp) | Stdio MCP server for Mnemosyne OS, a desktop memory app. Watched folders feed separate vaults on the user's machine, searched by vector and local BM25. Open core: the MCP server is MIT, the memory engine ships closed in the desktop app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 25 |
 | [WritBase](https://github.com/Writbase/writbase) | MCP-native task management for AI agent fleets with multi-agent permissions, delegation safety, and full provenance. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 7mo | 12 |
 | [Model Salt](https://github.com/modelsalt/model-salt) | Adds outside randomness to creative requests, so one prompt gives a different answer each time it runs. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 3d | 10 |
+| [Selvedge](https://github.com/masondelan/selvedge) | Local stdio MCP server and CLI for saving coding decisions, reasons, and rejected approaches in SQLite and retrieving them across sessions. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Media & 3D
 
