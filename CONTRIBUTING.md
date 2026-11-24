@@ -11,7 +11,19 @@ This is a curated list of **Model Context Protocol (MCP)** servers, clients, SDK
 - Has a real, non-promotional description of what it does.
 - Is not a duplicate of an existing entry.
 
-We favor projects that are functional and maintained. Brand-new projects are welcome, but abandoned or empty repos may be declined.
+We favor projects that are functional and maintained. Brand-new, unproven, abandoned or empty repos are declined (see the requirements below).
+
+### Repository requirements
+
+To keep the list high quality, the repository linked by your entry must meet **all** of the following when you open the pull request:
+
+- **Age:** created at least **30 days** ago.
+- **Popularity:** at least **10 stars**.
+- **Maintenance:** at least one push within the last **90 days**.
+- **Not archived**, public and reachable.
+- **Licensed:** a license detectable by GitHub.
+
+These checks are automated. A pull request whose repository does not meet them is closed automatically with a message listing what is missing. You are welcome to open a new pull request once the requirements are met.
 
 ### The "is it really an MCP server?" test (for the Servers list)
 
