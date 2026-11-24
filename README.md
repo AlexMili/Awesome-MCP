@@ -10,7 +10,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 
 - [Servers](#servers)
   - [Dev, Code & Git](#dev-code--git) (17)
-  - [Databases & Data](#databases--data) (2)
+  - [Databases & Data](#databases--data) (3)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (7)
   - [Web, Search & Browser](#web-search--browser) (9)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (6)
@@ -72,6 +72,7 @@ Standout community servers by traction and activity.
 |---|---|---|:--:|--:|
 | [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) ✅ | Read-only database access with schema inspection. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 92.2k |
 | [Sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) ✅ | Database interaction and business intelligence capabilities. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 92.2k |
+| [Scigantic MCP](https://github.com/Scigantic/scigantic-mcp) | Searches a catalog of 8,000+ public scientific datasets (genomics, cryo-EM, neuroimaging, chemistry, earth observation, climate) and returns a dataset's schema card, file listing and loading code, read-only with no API key; runs over stdio, or use the hosted endpoint. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
 
 ### Cloud, DevOps & Monitoring
 
