@@ -16,7 +16,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (6)
   - [Communication & Social](#communication--social) (7)
   - [Commerce, Ads & Business](#commerce-ads--business) (3)
-  - [AI, Agents & Memory](#ai-agents--memory) (11)
+  - [AI, Agents & Memory](#ai-agents--memory) (12)
   - [Media & 3D](#media--3d) (6)
   - [Finance & Crypto](#finance--crypto) (2)
   - [Other](#other) (7)
@@ -142,6 +142,7 @@ Standout community servers by traction and activity.
 | [EGC](https://github.com/Fmarzochi/EGC) | Persistent cross-session memory MCP server for 13+ AI coding tools. SQLite-backed state survives context resets and keeps Claude Code, Cursor, Gemini CLI, Codex, and more in sync. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 70 |
 | [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) | Hosted memory server for AI agents over MCP. Tell it a recalled memory helped or misled, and it re-ranks what comes back next. Shared rooms for multi-agent work. One key or OAuth across Claude Code, Cursor, VS Code and ChatGPT. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 30 |
 | [Mnemosyne OS](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS/tree/main/packages/mcp) | Stdio MCP server for Mnemosyne OS, a desktop memory app. Watched folders feed separate vaults on the user's machine, searched by vector and local BM25. Open core: the MCP server is MIT, the memory engine ships closed in the desktop app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2d | 25 |
+| [Scalekit](https://github.com/scalekit-inc/scalekit-mcp-server) ✅ | Official MCP server for agent auth and tool access: per-user OAuth, environments/orgs/connections, and 1,100+ connectors / 55,000+ tools. Hosted or local stdio. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 0d | 5 |
 | [WritBase](https://github.com/Writbase/writbase) | MCP-native task management for AI agent fleets with multi-agent permissions, delegation safety, and full provenance. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 7mo | 12 |
 | [Model Salt](https://github.com/modelsalt/model-salt) | Adds outside randomness to creative requests, so one prompt gives a different answer each time it runs. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 3d | 10 |
 | [Selvedge](https://github.com/masondelan/selvedge) | Local stdio MCP server and CLI for saving coding decisions, reasons, and rejected approaches in SQLite and retrieving them across sessions. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 0 |
